@@ -21,4 +21,5 @@ Here are the growth trends of publications since 2022 and the model names cloud:
 
 
 Left: HAR-FM papers showing a sharp acceleration with the vast majority of works emerging since 2024.
+
 Right: Representative model name cloud.
