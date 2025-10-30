@@ -5,7 +5,7 @@
 
 ## The brief history of sensor-based HAR
 <p align="center">
-    <img src="images/FM_HAR_TimeLine.png" alt="Description" width="600">
+    <img src="images/FM_HAR_TimeLine.png" alt="Description" width="500">
 </p>
 
 Historical development of sensor-based Human Activity Recognition (HAR) models. From classical machine learning with hand-crafted features and shallow classifiers to the rise of deep learning with CNNs and RNNs, the field progressed toward a phase focused on transfer and domain generalization (robustness across users, devices, and datasets). More recently, self-supervised learning (SSL) approaches have enabled pretraining on unlabeled sensor data using contrastive or masked objectives. Today, the field is moving toward foundation models, exemplified by large-scale sensor–language alignment, emphasizing scalability, generalization, and interpretability
@@ -15,8 +15,8 @@ Historical development of sensor-based Human Activity Recognition (HAR) models. 
 Here are the growth trends of publications since 2022 and the model names cloud:
 
 <p align="center">
-  <img src="images/FM_HAR_Trend.png" width="450" />
-  <img src="images/FM_HAR_Cloud.png" width="450" /> 
+  <img src="images/FM_HAR_Trend.png" width="400" />
+  <img src="images/FM_HAR_Cloud.png" width="400" /> 
 </p>
 
 
