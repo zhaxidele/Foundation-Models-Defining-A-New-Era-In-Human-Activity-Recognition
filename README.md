@@ -20,5 +20,5 @@ Here are the growth trends of publications since 2022 and the model names cloud:
 </p>
 
 
-Surveyed HAR-FM papers per year (2021–2025), showing a sharp acceleration with the vast majority of works emerging since 2024.
-Representative model name cloud, motivating the need for a structured taxonomy and methodological directions.
+Left: HAR-FM papers showing a sharp acceleration with the vast majority of works emerging since 2024.
+Right: Representative model name cloud.
