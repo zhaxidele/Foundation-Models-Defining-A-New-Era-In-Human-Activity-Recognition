@@ -50,17 +50,31 @@ Here are the growth trends of publications since 2022 and the model names cloud:
 ## Base Architecture
 
 ### Encoder-only stacks
+1. **"Beyond Sensor Data: Foundation Models of Behavioral Data from Wearables Improve Health Predictions"**. *Eray Erturk et al.* Arxiv 2025. [[Paper](https://arxiv.org/abs/2507.00191)]
+
 ### Dual-encoder
+1. **"Ensembles of deep lstm learners for activity recognition using wearables"**. *Guan et al.* IMWUT 2017. [[Paper](https://dl.acm.org/doi/abs/10.1145/3090076)]
+
 ### Encoder-decoder stacks
+1. **"Ensembles of deep lstm learners for activity recognition using wearables"**. *Guan et al.* IMWUT 2017. [[Paper](https://dl.acm.org/doi/abs/10.1145/3090076)]
+
 ### Language-model stacks
+1. **"Ensembles of deep lstm learners for activity recognition using wearables"**. *Guan et al.* IMWUT 2017. [[Paper](https://dl.acm.org/doi/abs/10.1145/3090076)]
+
 
 
 
 ## Major Directions
 
 ### Developing HAR-Specific Foundation Models from Scratch
+1. **"Ensembles of deep lstm learners for activity recognition using wearables"**. *Guan et al.* IMWUT 2017. [[Paper](https://dl.acm.org/doi/abs/10.1145/3090076)]
+
 ### Adapting General Time-Series and Multimodal Foundation Models to HAR
+1. **"Ensembles of deep lstm learners for activity recognition using wearables"**. *Guan et al.* IMWUT 2017. [[Paper](https://dl.acm.org/doi/abs/10.1145/3090076)]
+
 ### Leveraging Large Language Models for Human Activity Recognition
+1. **"Ensembles of deep lstm learners for activity recognition using wearables"**. *Guan et al.* IMWUT 2017. [[Paper](https://dl.acm.org/doi/abs/10.1145/3090076)]
+
 
 
 ## Datasets and Benchmarks
