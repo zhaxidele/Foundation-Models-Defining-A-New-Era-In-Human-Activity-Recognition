@@ -53,13 +53,13 @@ Here are the growth trends of publications since 2022 and the model names cloud:
 1. **"Beyond Sensor Data: Foundation Models of Behavioral Data from Wearables Improve Health Predictions"**. *Eray Erturk et al.* Arxiv 2025. [[Paper](https://arxiv.org/abs/2507.00191)]
 
 ### Dual-encoder
-1. **"Ensembles of deep lstm learners for activity recognition using wearables"**. *Guan et al.* IMWUT 2017. [[Paper](https://dl.acm.org/doi/abs/10.1145/3090076)]
+1. **". Gem: Empowering mllm for grounded ecg understanding with time series and images"**. *Xiang Lan et al.* Arxiv 2025. [[Paper](https://arxiv.org/abs/2503.06073)]
 
 ### Encoder-decoder stacks
-1. **"Ensembles of deep lstm learners for activity recognition using wearables"**. *Guan et al.* IMWUT 2017. [[Paper](https://dl.acm.org/doi/abs/10.1145/3090076)]
+1. **"Sensor2text: Enabling natural language interactions for daily activity tracking using wearable sensors"**. *Wenqiang Chen et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/10.1145/3699747)]
 
 ### Language-model stacks
-1. **"Ensembles of deep lstm learners for activity recognition using wearables"**. *Guan et al.* IMWUT 2017. [[Paper](https://dl.acm.org/doi/abs/10.1145/3090076)]
+1. **"Large language models for wearable data analysis and interpretation"**. *Simon Boehi et al.* ICLR 2024. [[Paper](https://openreview.net/pdf?id=GoWD6logcd)]
 
 
 
