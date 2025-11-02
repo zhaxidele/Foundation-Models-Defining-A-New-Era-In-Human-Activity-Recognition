@@ -96,76 +96,18 @@ Here are the growth trends of publications since 2022 and the model names cloud:
 10. **"Toward Foundation Model for Multivariate Wearable Sensing of Physiological Signals (NORMWEAR)"**. *Luo et al..* ARXIV 2025.
 
 ### Language-model stacks
-1. **"A Personal Health Large Language Model for Sleep and Fitness Coaching (PH-LLM)"**. *Khasentino et al..* Nature 2025.
-2. **"A survey for wearable sensors empowering smart healthcare in the era of large language models"**. *Liu et al..* Information Fusion 2025.
-3. **"Activity transitions for semi-supervised federated learning in sensor-based human activity recognition"**. *Bukit et al..* Applied Soft Computing 2025.
-4. **"AgentSense: Virtual Sensor Data Generation Using LLM Agents in Simulated Home Environments"**. *Leng et al..* arXiv 2025.
-5. **"AI-Generated Fall Data: Assessing LLMs and Diffusion Model for Wearable Fall Detection"**. *Alamgeer et al..* Sensors 2025.
-6. **"ALPHA: Anomalous Physiological Health Assessment Using Large Language Models"**. *Tang et al..* arXiv 2023.
-7. **"BioSignal Copilot: Leveraging the power of LLMs in drafting reports for biomedical signals"**. *Liu et al..* medRxiv 2023.
-8. **"ChatAnalysis revisited: can ChatGPT undermine privacy in smart homes with data analysis?"**. *J{\"u.* i-com 2025.
-9. **"ContextAgent: Context-Aware Proactive LLM Agents with Open-World Sensory Perceptions"**. *Yang et al..* arXiv 2025.
-10. **"ContextLLM: Meaningful Context Reasoning from Multi-Sensor and Multi-Device Data Using LLMs"**. *Post et al..* Proceedings of the 26th International Workshop on Mobile Computing Systems and Applications 2025.
-11. **"DailyLLM: Context-Aware Activity Log Generation Using Multi-Modal Sensors and LLMs"**. *Tian et al..* arXiv preprint arXiv:2507.13737 2025.
-12. **"Demo Abstract: An LLM-Powered Multimodal Mobile Sensing System for Personalized and Interactive Health Behavior Analysis (MobiBox)"**. *Zhang et al..* SenSys 2025.
-13. **"Dynamic Uncertainty-aware Multimodal Fusion for Outdoor Health Monitoring"**. *Fang et al..* arXiv 2025.
-14. **"EEG-GPT: Exploring Capabilities of Large Language Models for EEG Classification and Interpretation"**. *Kim et al..* arXiv 2024.
-15. **"Enabling On-Device LLMs Personalization with Smartphone Sensing"**. *Zhang et al..* Ubicomp 2024.
-16. **"Enhancing Explainability of Deep Learning-Based ECG Diagnosis Using Large Language Models"**. *Wu et al..* Proceedings of the 2024 8th International Conference on Advances in Artificial Intelligence 2024.
-17. **"Evaluating Large Language Models as Virtual Annotators for Time-series Physical Sensing Data (arXiv:2403.01133v2, Apr 2024)"**. *Hota et al..* arXiv 2024.
-18. **"Exploring the Capabilities of LLMs for IMU-based Fine-grained Human Activity Understanding"**. *Xu et al..* Proceedings of the 2nd International Workshop on Foundation Models for Cyber-Physical Systems \& Internet of Things 2025.
-19. **"Few-Shot Human Activity Recognition Using Lightweight Language Models"**. *Cruciani et al..* arXiv 2025.
-20. **"Few-Shot Optimization for Sensor Data Using Large Language Models: A Case Study on Fatigue Detection"**. *Ronando et al..* Sensors 2025.
-21. **"Game of LLMs: Discovering Structural Constructs in Activities using Large Language Models"**. *Hiremath et al..* Ubicomp 2024.
-22. **"GEM: Empowering MLLM for Grounded ECG Understanding with Time Series and Images"**. *Lan et al..* arXiv 2025.
-23. **"Generalizable Seizure Prediction with LLMs: Converting EEG to Textual Representations"**. *Zhao et al..* arXiv 2025.
-24. **"GLOSS: Group of LLMs for Open-ended Sensemaking of Passive Sensing Data for Health and Wellbeing"**. *Choube et al..* IMWUT 2025.
-25. **"GOAT: A Generalized Cross-Dataset Activity Recognition Framework with Natural Language Supervision"**. *Miao et al..* arXiv 2025.
-26. **"HARGPT: Are LLMs Zero-Shot Human Activity Recognizers?"**. *Ji et al..* arXiv 2025.
-27. **"Health-LLM: Large Language Models for Health Prediction via Wearable Sensor Data"**. *Kim et al..* arXiv 2024.
-28. **"Improved Human Activity Recognition Through Controllable GAN-Generated Synthetic Data and Large Language Models for Classification"**. *Djemaa et al..* Cluster Computing 2024.
-29. **"IMUGPT 2.0: Language-Based Cross Modality Transfer for Sensor-Based Human Activity Recognition"**. *Leng et al..* IMWUT 2024.
-30. **"LanHAR: Language-centered Human Activity Recognition"**. *Yan et al..* arXiv 2025.
-31. **"Large Language Models are Few-Shot Health Learners"**. *Liu et al..* arXiv 2023.
-32. **"Large Language Models Are Zero-Shot Recognizers for Activities of Daily Living"**. *Civitarese et al..* ACM Transactions on Intelligent Systems and Technology 2025.
-33. **"Large Language Models for Cuffless Blood Pressure Measurement from Wearable Biosignals"**. *Liu et al..* CHI 2024.
-34. **"Large Language Models for Wearable Data Analysis and Interpretation"**. *B{\"o.* ICLR 2024.
-35. **"Large Language Models for Wearable Sensor-Based Human Activity Recognition, Health Monitoring, and Behavioral Modeling: A Survey of Early Trends, Datasets, and Challenges"**. *Ferrara.* Sensors 2024.
-36. **"Leveraging Language Models for Human Activity Recognition for Intelligent Lighting"**. *Mahmoudi et al..* arXiv 2025.
-37. **"Leveraging Large Language Models for Activity Recognition in Smart Environments"**. *Cleland et al..* arXiv 2025.
-38. **"Leveraging Large Language Models for Digital Phenotyping: Detecting Depressive State Changes for Patients with Depressive Episodes"**. *Yuan et al..* medRxiv 2025.
-39. **"Leveraging Large Language Models for Explainable Activity Recognition in Smart Homes: A Critical Evaluation"**. *Fiori et al..* ACM Transactions on Internet of Things 2025.
-40. **"Leveraging LLMs to Predict Affective States via Smartphone Sensor Features"**. *Zhang et al..* Ubicomp 2024.
-41. **"LLaSA: Large Multimodal Agent for Human Activity Analysis Through Wearable Sensors"**. *Imran et al..* arXiv preprint arXiv:2406.14498 2024.
-42. **"LLM-based Intermediate Interpretations for Predicting Nurse Stress and Its Causes from Step Count Data"**. *Fukazawa et al..* 2025.
-43. **"LLM4HAR: Generalizable On-device Human Activity Recognition with Pretrained LLMs"**. *Hong et al..* KDD 2025.
-44. **"LLMSense: Harnessing LLMs for High-level Reasoning Over Spatiotemporal Sensor Traces"**. *Ouyang et al..* arXiv 2024.
-45. **"Mental-LLM: Leveraging Large Language Models for Mental Health Prediction via Online Text Data"**. *Xu et al..* IMWUT 2024.
-46. **"MHARFedLLM: Multimodal Human Activity Recognition Using Federated Large Language Model"**. *Bandyopadhyay et al..* arXiv 2025.
-47. **"MultiAgentsCR: A Multi-Agent Collaborative Reasoning Framework Based on LLM for Human Activity Recognition"**. *Zhao et al..* 2025 10th International Conference on Information Science, Computer Technology and Transportation 2025.
-48. **"Multimodal Large Language Models in Human-Centered Health: Practical Insights"**. *Dang et al..* arXiv 2024.
-49. **"On the Benefit of Generative Foundation Models for Human Activity Recognition"**. *Leng et al..* arXiv 2023.
-50. **"One Model to Fit Them All: Universal IMU-based Human Activity Recognition with LLM-assisted Cross-dataset Representation"**. *Wei et al..* IMWUT 2025. [[Paper](http://dx.doi.org/10.1145/3749509)]
-51. **"PhysioLLM: Supporting Personalized Health Insights with Wearables and Large Language Models"**. *Fang et al..* 2024 IEEE EMBS International Conference on Biomedical and Health Informatics 2024.
-52. **"PhysLLM: Harnessing Large Language Models for Cross-Modal Remote Physiological Sensing"**. *Xie et al..* arXiv 2025.
-53. **"Potential of Large Language Model for Activity Recognition in Activities of Daily Living: A Systematic Review"**. *Ugwu et al..* Authorea Preprints 2025.
-54. **"Semantic Sensors: Multimodal Language Model Powered Sensors Capabilities"**. *Olwal et al..* arXiv 2024.
-55. **"Sensor2Text: Enabling Natural Language Interactions for Daily Activity Tracking Using Wearable Sensors"**. *Chen et al..* IMWUT 2024.
-56. **"SensorBench: Benchmarking LLMs in Coding-Based Sensor Processing"**. *Quan et al..* Proceedings of the 26th International Workshop on Mobile Computing Systems and Applications 2025.
-57. **"SensorLLM: Aligning Large Language Models with Motion Sensors for Human Activity Recognition"**. *Li et al..* arXiv 2025.
-58. **"StressLLM: Large Language Models for Stress Prediction via Wearable Sensor Data"**. *Thapa et al..* 2025 IEEE International Conference on Consumer Electronics 2025.
-59. **"The Strong Pull of Prior Knowledge in Large Language Models and Its Impact on Emotion Recognition"**. *Chochlakis et al..* 2024 12th International Conference on Affective Computing and Intelligent Interaction 2024.
-60. **"Thou Shalt Not Prompt: Zero-Shot Human Activity Recognition in Smart Homes via Language Modeling of Sensor Data & Activities"**. *Dhekane et al..* arXiv preprint arXiv:2507.21964 2025.
-61. **"Time2Lang: Bridging Time-Series Foundation Models and Large Language Models for Health Sensing Beyond Prompting"**. *Pillai et al..* arXiv 2025.
-62. **"Toward Sensor-In-the-Loop LLM Agent: Benchmarks and Implications"**. *Ren et al..* SenSys 2025.
-63. **"Towards LLM-Powered Ambient Sensor-Based Multi-Person Human Activity Recognition"**. *Chen et al..* 2024 IEEE 30th International Conference on Parallel and Distributed Systems 2024.
-64. **"Unsupervised Human Activity Recognition Via Large Language Models and Iterative Evolution"**. *Gao et al..* ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing 2024.
-65. **"Using LLMs for Late Multimodal Sensor Fusion for Activity Recognition"**. *Demirel et al..* arXiv 2025.
-66. **"Visible light human activity recognition driven by generative language model"**. *Yang et al..* Information Fusion 2025.
-67. **"Vital Insight: Assisting Experts’ Context-Driven Sensemaking of Multi-modal Personal Tracking Data Using Visualization and Human-in-the-Loop LLM"**. *Li et al..* IMWUT 2025.
-68. **"Wearable IoT, Edge AI and LLMs for Monitoring Health and Wellness: A Harmonization Framework for Responsible AI Interventions"**. *Bukhari et al..* 2025.
-69. **"ZARA: Zero-shot Motion Time-Series Analysis via Knowledge and Retrieval Driven LLM Agents"**. *Li et al..* arXiv 2025.
-
+1. **"SensorLM: Learning the Language of Wearable Sensors"**. *Zhang et al..* arXiv 2025. [[Paper](https://arxiv.org/abs/2506.09108)]
+2. **"Time2Lang: Bridging Time‑Series Foundation Models and Natural Language"**. *Pillai et al..* PMLR 2025. [[Paper](https://proceedings.mlr.press/v287/pillai25a.html)]
+3. **"SensorLLM: Aligning Large Language Models with Motion Sensors for Human Activity Recognition"**. *Li et al..* arXiv 2024. [[Paper](https://arxiv.org/abs/2410.10624)]
+4. **"LLaSA: A Multimodal LLM for Human Activity Analysis Through Wearable and Smartphone Sensors"**. *Imran et al..* arXiv 2024. [[Paper](https://arxiv.org/abs/2406.14498)]
+5. **"HARGPT: A Language‑Conditioned Foundation Model for Human Activity Recognition"**. *Ji et al..* arXiv 2024. [[Paper](https://arxiv.org/abs/2403.19526)]
+6. **"LanHAR: Language‑Driven Human Activity Recognition"**. *Yan et al..* arXiv 2024. [[Paper](https://arxiv.org/abs/2410.00003)]
+7. **"StressLLM: Large Language Models for Wearable Stress Detection"**. *Thapa et al..* arXiv 2025. [[Paper](https://arxiv.org/abs/2506.04817)]
+8. **"DailyLLM: Large Language Models for Daily Behavior Understanding"**. *Kang et al..* arXiv 2025. [[Paper](https://arxiv.org/abs/2505.04563)]
+9. **"ContextLLM: Multimodal Context Understanding from Wearable Devices"**. *Wang et al..* arXiv 2025. [[Paper](https://arxiv.org/abs/2506.07114)]
+10. **"Health‑LLM: Aligning Large Language Models with Wearable Sensor Health Data"**. *Liu et al..* Information Fusion 2025. [[Paper](https://doi.org/10.1016/j.inffus.2025.103403)]
+11. **"SensorGPT: Generative Pretraining for Wearable Sensing"**. *Sharma et al..* arXiv 2025. [[Paper](https://arxiv.org/abs/2504.06512)]
+12. **"Sensor2Text: Enabling Natural Language Interactions for Daily Activity Tracking Using Wearable Sensors"**. *Chen et al..* IMWUT 2024. [[Paper](https://doi.org/10.1145/3699747)]
 
 
 ## Major Directions
