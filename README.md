@@ -152,6 +152,6 @@ Here are the growth trends of publications since 2022 and the model names cloud:
 10. **"Sensor2Text: Enabling Natural Language Interactions for Daily Activity Tracking Using Wearable Sensors"**. *Chen et al..* IMWUT 2024. [[Paper](https://doi.org/10.1145/3699747)]
 
 
-## Datasets and Benchmarks
+## Datasets
 
 
