@@ -154,7 +154,4 @@ Here are the growth trends of publications since 2022 and the model names cloud:
 
 ## Datasets and Benchmarks
 
-### IMU-Only Dataset
-### Multimodal Dataset
-### Tools and Benchmarks
 
