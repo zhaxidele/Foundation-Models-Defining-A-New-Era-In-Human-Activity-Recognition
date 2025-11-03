@@ -379,16 +379,16 @@ Here are the growth trends of publications since 2022 and the model names cloud:
 
 1. **"Beyond Sensor Data: Foundation Models of Behavioral Data from Wearables Improve Health Predictions"**. *Eray Erturk et al.* arXiv 2025. [[Paper](https://arxiv.org/abs/2507.00191)]
 
-2. **"ContextLLM: Meaningful Context Reasoning from Multi-Sensor and Multi-Device Data Using LLMs"**. *Post et al.* arXiv 2025. [[Paper](https://arxiv.org/abs/2509.10817)]
+2. **"ContextLLM: Meaningful Context Reasoning from Multi-Sensor and Multi-Device Data Using LLMs"**. *Post et al.* arXiv 2025. [[Paper](https://dl.acm.org/doi/10.1145/3708468.3711892)]
 
-3. **"SensorLLM: Aligning Large Language Models with Motion Sensors for Human Activity Recognition"**. *Li et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2410.10624)]
+3. **"SensorLLM: Aligning Large Language Models with Motion Sensors for Human Activity Recognition"**. *Li et al.* arXiv 2024. [[Paper](SensorLLM: Aligning Large Language Models with Motion Sensors for Human Activity Recognition)]
 
 4. **"Scaling Wearable Foundation Models"**. *Narayanswamy et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2410.13638)]
 
-5. **"A Personal Health Large Language Model for Sleep and Fitness Coaching (PH-LLM)"**. *Khasentino et al.* arXiv 2025. [[Paper](https://arxiv.org/abs/2505.11191)]
+5. **"A Personal Health Large Language Model for Sleep and Fitness Coaching (PH-LLM)"**. *Khasentino et al.* Nature Medicine 2025. [[Paper](https://www.nature.com/articles/s41591-025-03888-0)]
 
-6. **"BioSignal Copilot: Leveraging the Power of LLMs in Drafting Reports for Biomedical Signals"**. *Liu et al.* arXiv 2023. [[Paper](https://arxiv.org/abs/2312.13158)]
-7. 
+6. **"BioSignal Copilot: Leveraging the Power of LLMs in Drafting Reports for Biomedical Signals"**. *Liu et al.* arXiv 2023. [[Paper](https://www.medrxiv.org/content/10.1101/2023.06.28.23291916v1)]
+
   ###  Spectrogram and frequency-domain embeddings
   ###  Discrete and quantized sensor tokens
   ###  Multimodal alignment and positional encoding
