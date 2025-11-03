@@ -158,7 +158,7 @@ Here are the growth trends of publications since 2022 and the model names cloud:
 
 | Dataset | Sensors | Datasize | Subjects | Activities |  
 |:--|:--|:--|:--|:--| 
-| **CAPTURE-24** [https://github.com/OxWearables/capture24]| acc | 3883 h | 151 | 200 unique labels |  
+| [**CAPTURE-24**](https://www.nature.com/articles/s41597-024-03960-3)| acc | 3883 h | 151 | 200 unique labels |  
 | **TNDA-HAR** | acc, gyro | 5.7 h | 23 | 8 daily activities | 
 | **HAR70+** | acc | 12.6 h | 18 | 8 daily activities |  
 | **WISDM** | acc, gyro | 91.8 h | 51 | 18 daily activities | 
