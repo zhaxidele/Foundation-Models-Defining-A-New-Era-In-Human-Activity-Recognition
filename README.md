@@ -614,16 +614,16 @@ Here are the growth trends of publications since 2022 and the model names cloud:
 1. **"Multimodal Foundation Model for Cross-Modal Retrieval and Recognition (AURA-MFM)"**.  
    *Matsuishi et al.* arXiv 2025. [[Paper](https://doi.org/10.48550/arXiv.2506.03174)]
 
-2. **"GloSS: Group of LLMs for Open-ended Sensemaking over Sensing Data"**.  
+2. **"GLOSS: Group of LLMs for Open-ended Sensemaking of Passive Sensing Data for Health and Wellbeing"**.  
    *Choube et al.* IMWUT 2025. [[Paper](https://doi.org/10.1145/3749474)]
 
-3. **"Vital Insight: Assisting Experts’ Context-Driven Retrieval and Reasoning over Longitudinal Health Data"**.  
+3. **"Vital Insight: Assisting Experts' Context-Driven Sensemaking of Multi-modal Personal Tracking Data Using Visualization and Human-in-the-Loop LLM"**.  
    *Li et al.* IMWUT 2025. [[Paper](https://doi.org/10.1145/3749508)]
 
-4. **"PhysioLLM: Supporting Personalized Health Insights from Multimodal Physiological Signals"**.  
+4. **"PhysioLLM: Supporting Personalized Health Insights with Wearables and Large Language Models"**.  
    *Fang et al.* arXiv 2024. [[Paper](http://arxiv.org/pdf/2406.19283)]
 
-5. **"SleepFM: Multi-Modal Representation Learning for Sleep Across Brain Activity, ECG, and Respiratory Signals"**.  
+5. **"SleepFM: Multi-modal Representation Learning for Sleep Across Brain Activity, ECG and Respiratory Signals"**.  
    *Thapa et al.* arXiv 2024. [[Paper](https://doi.org/10.48550/arXiv.2405.17766)]
 
 
