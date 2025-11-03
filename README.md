@@ -376,6 +376,19 @@ Here are the growth trends of publications since 2022 and the model names cloud:
   
 
   ###  Feature-based aggregation and statistical embeddings
+
+1. **"Beyond Sensor Data: Foundation Models of Behavioral Data from Wearables Improve Health Predictions"**. *Eray Erturk et al.* arXiv 2025. [[Paper](https://arxiv.org/abs/2507.00191)]
+
+2. **"ContextLLM: Meaningful Context Reasoning from Multi-Sensor and Multi-Device Data Using LLMs"**. *Post et al.* arXiv 2025. [[Paper](https://arxiv.org/abs/2509.10817)]
+
+3. **"SensorLLM: Aligning Large Language Models with Motion Sensors for Human Activity Recognition"**. *Li et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2410.10624)]
+
+4. **"Scaling Wearable Foundation Models"**. *Narayanswamy et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2410.13638)]
+
+5. **"A Personal Health Large Language Model for Sleep and Fitness Coaching (PH-LLM)"**. *Khasentino et al.* arXiv 2025. [[Paper](https://arxiv.org/abs/2505.11191)]
+
+6. **"BioSignal Copilot: Leveraging the Power of LLMs in Drafting Reports for Biomedical Signals"**. *Liu et al.* arXiv 2023. [[Paper](https://arxiv.org/abs/2312.13158)]
+7. 
   ###  Spectrogram and frequency-domain embeddings
   ###  Discrete and quantized sensor tokens
   ###  Multimodal alignment and positional encoding
