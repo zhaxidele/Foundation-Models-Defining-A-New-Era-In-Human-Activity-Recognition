@@ -300,22 +300,22 @@ Here are the growth trends of publications since 2022 and the model names cloud:
 
 ###  Unimodal foundation models
 1. **"RelCon: Relative Contrastive Learning for a Motion Foundation Model for Wearable Data"**. *Xu et al.* ICLR 2025. [[Paper](https://arxiv.org/abs/2411.18822)]  
-2. **"oneHAR: Universal IMU-based Human Activity Recognition with LLM-assisted Cross-Dataset Representation"**. *Wei et al.* IMWUT 2025. [[Paper](https://doi.org/10.1145/3749509)]  
+2. **"One Model to Fit Them All: Universal IMU-based Human Activity Recognition with LLM-assisted Cross-dataset Representation"**. *Wei et al.* IMWUT 2025. [[Paper](https://doi.org/10.1145/3749509)]  
 3. **"SelfHAR-700k: Self-Supervised Learning for Human Activity Recognition Using 700,000 Person-Days of Wearable Data"**. *Yuan et al.* npj Digital Medicine 2024. [[Paper](https://www.nature.com/articles/s41746-024-01062-3)]  
 4. **"Pulse-PPG: An Open-Source Field-Trained PPG Foundation Model for Wearable Applications"**. *Saha et al.* IMWUT 2025. [[Paper](https://doi.org/10.1145/3749494)]  
 
 ###  Multimodal foundation models
-1. **"HAR-FM: A Multimodal Foundation Model for Human Activity Recognition"**. *Qiu et al.* arXiv 2025. [[Paper](https://arxiv.org/abs/2509.10729v1)]  
-2. **"MASTER: Multimodal Activity Sensing with Transformer Encoders and Representation Alignment"**. *Zhu et al.* IEEE TMC 2025. [[Paper](https://doi.org/10.1109/TMC.2025.3623501)]  
+1. **"Towards Customizable Foundation Models for Human Activity Recognition with Wearable Devices"**. *Qiu et al.* arXiv 2025. [[Paper](https://dl.acm.org/doi/abs/10.1145/3749479)]  
+2. **"MASTER: A Multi-modal Foundation Model for Human Activity Recognition"**. *Zhu et al.* IEEE TMC 2025. [[Paper](https://dl.acm.org/doi/10.1145/3749511)]  
 3. **"NORMWEAR: Toward Foundation Models for Multivariate Wearable Sensing of Physiological Signals"**. *Luo et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2412.09758)]  
 4. **"MuJo: Multimodal Joint Feature Space Learning for Human Activity Recognition"**. *Fritsch et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2406.03857)]  
 
 ###  Cross-modal foundation models
 1. **"SensorLM: Learning the Language of Wearable Sensors"**. *Zhang et al.* arXiv 2025. [[Paper](https://arxiv.org/abs/2506.09108)]  
 2. **"SensorLLM: Aligning Large Language Models with Motion Sensors for Human Activity Recognition"**. *Li et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2410.10624)]  
-3. **"IMU2CLIP: Multimodal Contrastive Learning for IMU Motion Sensors from Egocentric Videos and Text Narrations"**. *Moon et al.* EMNLP Findings 2023. [[Paper](https://aclanthology.org/2023.findings-emnlp.883/)]  
+3. **"IMU2CLIP: Multimodal Contrastive Learning for IMU Motion Sensors from Egocentric Videos and Text"**. *Moon et al.* EMNLP Findings 2023. [[Paper](https://arxiv.org/abs/2210.14395)]  
 4. **"FM-Fi 2.0: Foundation Model for Cross-Modal Multi-Person Human Activity Recognition"**. *Weng et al.* IEEE TMC 2025. [[Paper](https://doi.org/10.1109/TMC.2025.3593406)]  
-5. **"HARGPT: Are LLMs Zero-Shot Human Activity Recognizers?"**. *Ji et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2403.02727)]  
+5. **"Leveraging foundation models for zero-shot IoT sensing"**. *Xue et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2407.19893)]  
 
 
 
