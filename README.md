@@ -343,13 +343,22 @@ Here are the growth trends of publications since 2022 and the model names cloud:
 
 7. **"DailyLLM: Context-Aware Activity Log Generation Using Multi-Modal Sensors and LLMs"**. *Tian et al.* arXiv 2025. [[Paper](https://arxiv.org/abs/2507.13737)]
 
-8. **"FM-Fi 2.0: Foundation Model for Cross-Modal Multi-Person Human Activity Recognition"**. *Weng et al.* IEEE TMC 2025. [[Paper](https://doi.org/10.1109/TMC.2025.3593406)]
-
-9. **"IMU2CLIP: Language-Grounded Motion Sensor Translation with Multimodal Contrastive Learning"**. *Moon et al.* EMNLP Findings 2023. [[Paper](https://arxiv.org/abs/2210.14395)]
+8. **"IMU2CLIP: Language-Grounded Motion Sensor Translation with Multimodal Contrastive Learning"**. *Moon et al.* EMNLP Findings 2023. [[Paper](https://arxiv.org/abs/2210.14395)]
 
     
   ###  Generated datasets and augmentation
 
+1. **"On the Benefit of Generative Foundation Models for Human Activity Recognition"**. *Leng et al.* arXiv 2023. [[Paper](https://arxiv.org/abs/2312.03205)]
+
+2. **"SensorLM: Learning the Language of Wearable Sensors"**. *Zhang et al.* arXiv 2025. [[Paper](https://arxiv.org/abs/2506.09108)]
+
+3. **"Sensor2Text: Enabling Natural Language Interactions for Daily Activity Tracking Using Wearable Sensors"**. *Chen et al.* IMWUT 2024. [[Paper](https://doi.org/10.1145/3699747)]
+
+4. **"FM-Fi 2.0: Foundation Model for Cross-Modal Multi-Person Human Activity Recognition"**. *Weng et al.* IEEE TMC 2025. [[Paper](https://doi.org/10.1109/TMC.2025.3593406)]
+
+5. **"MHARFedLLM: Multimodal Human Activity Recognition Using Federated Large Language Model"**. *Bandyopadhyay et al.* arXiv 2025. [[Paper](https://arxiv.org/abs/2504.07082)]
+
+6. **"CrossHAR: Generalizing Cross-Dataset Human Activity Recognition via Hierarchical Self-Supervised Pretraining"**. *Hong et al.* IMWUT 2024. [[Paper](https://doi.org/10.1145/3659597)]
 
 
 
