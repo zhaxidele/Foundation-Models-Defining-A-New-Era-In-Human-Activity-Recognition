@@ -155,26 +155,30 @@ Here are the growth trends of publications since 2022 and the model names cloud:
 ## Datasets
 # Representative Datasets Frequently Used in Sensor-Based HAR Studies
 
+| Dataset | Sensors | Datasize | Subjects | Activities |
+|:--|:--|:--|:--|:--|
+| [**CAPTURE-24**](https://www.nature.com/articles/s41597-024-03960-3) | acc | 3883 h | 151 | 200 unique labels |
+| [**TNDA-HAR**](https://ieee-dataport.org/open-access/tnda-har-0) | acc, gyro | 5.7 h | 23 | 8 daily activities |
+| [**HAR70+**](https://archive.ics.uci.edu/dataset/780/har70) | acc | 12.6 h | 18 | 8 daily activities |
+| [**WISDM**](https://archive.ics.uci.edu/dataset/507/wisdm%2Bsmartphone%2Band%2Bsmartwatch%2Bactivity%2Band%2Bbiometrics%2Bdataset) | acc, gyro | 91.8 h | 51 | 18 daily activities |
+| [**MotionSense**](https://github.com/mmalekzadeh/motion-sense) | acc, gyro | — | 24 | 6 daily activities |
+| [**SHL Challenge**](http://www.shl-dataset.org/challenges/) | acc, gyro, mag | 2812 h | 3 | 8 transport modes |
+| [**Shoaib**](https://www.utwente.nl/en/eemcs/ps/research/dataset/) | acc, gyro, mag | 6.5 h | 10 | 13 daily activities |
+| [**HHAR**](https://archive.ics.uci.edu/ml/datasets/heterogeneity%2Bactivity%2Brecognition) | acc, gyro | — | 9 | 6 daily activities |
+| [**WHARF**](https://github.com/fulviomas/WHARF) | acc | — | 16 | 8 motion primitives |
+| [**DSADS**](https://archive.ics.uci.edu/dataset/256/daily%2Band%2Bsports%2Bactivities) | acc, gyro, mag | 12.7 h | 8 | 19 daily/sports activities |
+| [**UCI-HAR**](https://archive.ics.uci.edu/dataset/240/human%2Bactivity%2Brecognition%2Busing%2Bsmartphones) | acc, gyro | — | 30 | 6 daily activities |
+| [**USC-HAD**](https://sipi.usc.edu/had/) | acc, gyro, mag | — | 14 | 12 daily activities |
+| [**Daphnet FoG**](https://archive.ics.uci.edu/dataset/245/daphnet%2Bfreezing%2Bof%2Bgait) | acc | 8.3 h | 10 | 3 walking activities |
+| [**HAPT**](https://archive.ics.uci.edu/dataset/341/smartphone%2Bbased%2Brecognition%2Bof%2Bhuman%2Bactivities%2Band%2Bpostural%2Btransitions) | acc, gyro | — | 30 | 6 static, dynamic activities |
+| [**REALDISP**](https://archive.ics.uci.edu/dataset/305/realdisp%2Bactivity%2Brecognition%2Bdataset) | acc, gyro, mag | — | 17 | 33 daily, fitness activities |
+| [**UniMiB SHAR**](https://www.sal.disco.unimib.it/technologies/unimib-shar/) | acc | — | 30 | 17 daily, fall activities |
+| [**UMAFall**](https://figshare.com/articles/dataset/UMA_ADL_FALL_Dataset_zip/4214283) | acc, gyro, mag | 2.2 h | 17 | 11 daily, fall activities |
+| [**MobiAct**](https://bmi.hmu.gr/the-mobifall-and-mobiact-datasets-2/) | acc, gyro | — | 57 | 13 daily, fall activities |
+| [**Skoda Mini Checkpoint**](http://har-dataset.org/lib/exe/fetch.php?media=wiki:dataset:skodaminicp:skodaminicp_2015_08.zip) | acc (3D) | — | 1 | 10 assembly-line activities |
 
-| Dataset | Sensors | Datasize | Subjects | Activities |  
-|:--|:--|:--|:--|:--| 
-| [**CAPTURE-24**](https://www.nature.com/articles/s41597-024-03960-3)| acc | 3883 h | 151 | 200 unique labels |  
-| **TNDA-HAR** | acc, gyro | 5.7 h | 23 | 8 daily activities | 
-| **HAR70+** | acc | 12.6 h | 18 | 8 daily activities |  
-| **WISDM** | acc, gyro | 91.8 h | 51 | 18 daily activities | 
-| **MotionSense** | acc, gyro | — | 24 | 6 daily activities | 
-| **SHL Challenge** | acc, gyro, mag | 2812 h | 3 | 8 transport modes | 
-| **Shoaib** | acc, gyro, mag | 6.5 h | 10 | 13 daily activities | 
-| **HHAR** | acc, gyro | — | 9 | 6 daily activities | 
-| **WHARF** | acc | — | 16 | 8 motion primitives | 
-| **DSADS** | acc, gyro, mag | 12.7 h | 8 | 19 daily/sports activities | 
-| **UCI-HAR** | acc, gyro | — | 30 | 6 daily activities | 
-| **USC-HAD** | acc, gyro, mag | — | 14 | 12 daily activities | 
-| **Daphnet FoG** | acc | 8.3 h | 10 | 3 walking activities | 
-| **ComplexHAD** | acc, gyro | 7.9 h | 10 | 7 daily activities | 
-| **DLA** | acc, gyro | 13 h | 8 | 17 daily activities | 
-| **FLAAP** | acc, gyro | 3.6 h | 8 | 10 daily activities | 
-| **UK Biobank** | acc | 16.8 M h | 100 K | daily activities | 
+
+
 
 ### IMU + Multimodal Datasets
 | Dataset | Sensors | Datasize | Subjects | Activities |  
