@@ -654,7 +654,7 @@ Here are the growth trends of publications since 2022 and the model names cloud:
    *Li et al.* arXiv 2024. [[Paper](https://doi.org/10.48550/arXiv.2410.10624)]
 
 4. **"Time2Lang: Bridging Time-Series Foundation Models and Large Language Models for Health Sensing Beyond Prompting"**.  
-   *Pillai et al.* PMLR 2025. [[Paper](https://www.semanticscholar.org/paper/4bc428e7f171b04dc89100dcf8b42cb1b5ef4ff1)]
+   *Pillai et al.* PMLR 2025. [[Paper](https://arxiv.org/abs/2502.07608)]
 
 5. **"Visible Light Human Activity Recognition Driven by Generative Language Model"**.  
    *Yang et al.* *Information Fusion* 2025. [[Paper](https://doi.org/10.1016/j.inffus.2025.103159)]
