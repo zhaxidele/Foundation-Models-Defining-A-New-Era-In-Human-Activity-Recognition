@@ -742,12 +742,59 @@ Here are the growth trends of publications since 2022 and the model names cloud:
 
 ## Application Domains
   ###  General-purpose HAR / ADL
+
+
+1. **"oneHAR: Universal Representation Learning for Human Activity Recognition via Inertial Signals"**.  
+   *Wei et al.* IEEE JBHI 2025. [[Paper](https://doi.org/10.1109/JBHI.2025.3490181)]
+
+2. **"CrossHAR: Generalizing Cross-Dataset Human Activity Recognition via Hierarchical Self-Supervised Pretraining"**.  
+   *Hong et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/pdf/10.1145/3659597)]
+
+3. **"Towards Customizable Foundation Models for Human Activity Recognition with Wearable Devices (HAR-FM)"**.  
+   *Qiu et al.* IMWUT 2025. [[Paper](https://doi.org/10.1145/3749479)]
+   
   ###  Healthcare & wellbeing
+
+1. **"PhysioLLM: Supporting Personalized Health Insights from Multimodal Physiological Signals"**.  
+   *Fang et al.* arXiv 2024. [[Paper](http://arxiv.org/pdf/2406.19283)]
+
+2. **"Vital Insight: Assisting Experts’ Context-Driven Retrieval and Reasoning over Longitudinal Health Data"**.  
+   *Li et al.* IMWUT 2025. [[Paper](https://doi.org/10.1145/3749508)]
+
+3. **"Pulse-PPG: An Open-Source Field-Trained PPG Foundation Model for Continuous Cardiovascular Monitoring"**.  
+   *Saha et al.* IMWUT 2025. [[Paper](https://doi.org/10.1145/3749494)]
+
+4. **"SleepFM: Multi-Modal Representation Learning for Sleep Across Brain Activity, ECG, and Respiratory Signals"**.  
+   *Thapa et al.* arXiv 2024. [[Paper](https://doi.org/10.48550/arXiv.2405.17766)]
+
+5. **"Large Language Models for Wearable Data Analysis and Clinical Narratives"** *(bohi2024large – unverified)*.  
+   *(No verified link found in uploaded file.)*
+
+  
   ###  Smart-home & context-aware environments
+
+
+1. **"Large Model for Small Data: Foundation Model for Cross-Modal RF Human Activity Recognition (FM-Fi)"**.  
+   *Weng et al.* ACM 2024. [[Paper](https://dl.acm.org/doi/pdf/10.1145/3666025.3697865)]
+
+2. **"Visible Light Human Activity Recognition Driven by Generative Language Model"**.  
+   *Yang et al.* *Information Fusion* 2025. [[Paper](https://doi.org/10.1016/j.inffus.2025.103159)]
+
+3. **"ContextAgent: Context-Aware Proactive LLM Agent for Multimodal Human Activity Understanding"**.  
+   *Yang et al.* arXiv 2025. [[Paper](https://doi.org/10.48550/arXiv.2505.14668)]
+
+   
   ###  Interactive & agentic assistants
 
 
+1. **"LLMSense: Harnessing LLMs for High-Level Reasoning over Spatiotemporal Sensor Traces"**.  
+   *Ouyang et al.* SenSys-ML 2024. [[Paper](https://doi.org/10.1109/SenSys-ML62579.2024.00007)]
 
+2. **"LanHAR: Language-Centered Human Activity Recognition via Sensor–Text Alignment"**.  
+   *Yan et al.* arXiv 2024. [[Paper](https://arxiv.org/pdf/2402.01049)]
+
+3. **"DailyLLM: Context-Aware Activity Log Generation Using Multi-Modal Sensors and LLMs"**.  
+   *Tian et al.* arXiv 2025. [[Paper](https://doi.org/10.48550/arXiv.2507.13737)]
 
 
 
