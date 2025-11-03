@@ -348,17 +348,13 @@ Here are the growth trends of publications since 2022 and the model names cloud:
     
   ###  Generated datasets and augmentation
 
-1. **"On the Benefit of Generative Foundation Models for Human Activity Recognition"**. *Leng et al.* arXiv 2023. [[Paper](https://arxiv.org/abs/2312.03205)]
+1. **"On the Benefit of Generative Foundation Models for Human Activity Recognition"**. *Leng et al.* arXiv 2023. [[Paper](https://arxiv.org/abs/2310.12085)]
 
-2. **"SensorLM: Learning the Language of Wearable Sensors"**. *Zhang et al.* arXiv 2025. [[Paper](https://arxiv.org/abs/2506.09108)]
+2. **"FM-Fi 2.0: Foundation Model for Cross-Modal Multi-Person Human Activity Recognition"**. *Weng et al.* IEEE TMC 2025. [[Paper](https://doi.org/10.1109/TMC.2025.3593406)]
 
-3. **"Sensor2Text: Enabling Natural Language Interactions for Daily Activity Tracking Using Wearable Sensors"**. *Chen et al.* IMWUT 2024. [[Paper](https://doi.org/10.1145/3699747)]
+3. **"TxP: Reciprocal Generation of Ground Pressure Dynamics and Activity Descriptions for Improving Human Activity Recognition"**. *Lala et al.* IEEE TMC 2025. [[Paper](https://arxiv.org/abs/2505.02052)]
 
-4. **"FM-Fi 2.0: Foundation Model for Cross-Modal Multi-Person Human Activity Recognition"**. *Weng et al.* IEEE TMC 2025. [[Paper](https://doi.org/10.1109/TMC.2025.3593406)]
-
-5. **"MHARFedLLM: Multimodal Human Activity Recognition Using Federated Large Language Model"**. *Bandyopadhyay et al.* arXiv 2025. [[Paper](https://arxiv.org/abs/2504.07082)]
-
-6. **"CrossHAR: Generalizing Cross-Dataset Human Activity Recognition via Hierarchical Self-Supervised Pretraining"**. *Hong et al.* IMWUT 2024. [[Paper](https://doi.org/10.1145/3659597)]
+4. **"CrossHAR: Generalizing Cross-Dataset Human Activity Recognition via Hierarchical Self-Supervised Pretraining"**. *Hong et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/10.1145/3659597)]
 
 
 
