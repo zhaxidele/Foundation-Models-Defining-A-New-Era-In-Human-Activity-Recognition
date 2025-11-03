@@ -604,6 +604,20 @@ Here are the growth trends of publications since 2022 and the model names cloud:
   
   ###  Cross-dataset / cross-device / cross-user generalization
 
+1. **"Towards Customizable Foundation Models for Human Activity Recognition with Wearable Devices (HAR-FM)"**.  
+   *Qiu et al.* IMWUT 2025. [[Paper](https://doi.org/10.1145/3749479)]
+
+2. **"One Model to Fit Them All: Universal IMU-based Human Activity Recognition with LLM-assisted Cross-dataset Representation"**.  
+   *Wei et al.* ACM IMEUT 2025. [[Paper](https://dl.acm.org/doi/10.1145/3749509)]
+
+3. **"MASTER: A Multi-Modal Foundation Model for Human Activity Recognition"**.  
+   *Zhu et al.* IMWUT 2025. [[Paper](https://doi.org/10.1145/3749511)]
+
+4. **"A Novel Human Activity Recognition Framework Based on Pre-Trained Foundation Model (Chronos HAR Adapters)"**.  
+   *Xiong et al.* IEEE BIBM 2024. *(Link unavailable in verified file)*
+
+5. **"Self-supervised learning for human activity recognition using 700,000 person-days of wearable data"**.  
+   *Yuan et al.* *npj Digital Medicine* 2024. [[Paper](https://www.nature.com/articles/s41746-024-01062-3)]
 
 
 
