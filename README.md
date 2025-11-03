@@ -199,28 +199,32 @@ Here are the growth trends of publications since 2022 and the model names cloud:
 | [**Opportunity**](https://archive.ics.uci.edu/dataset/226/opportunity%2Bactivity%2Brecognition) | acc, gyro, mag, ambient sensors | 25 h | 4 | 9 kitchen + 9 gestures |
 | [**MRI**](https://github.com/sizhean/mri) | mmWave, RGB-D, IMU | 5.3 h | 20 | pose estimation | 
 | [**NORMWEAR**](https://github.com/Mobile-Sensing-and-UbiComp-Laboratory/NormWear?tab=readme-ov-file)  | PPG, ECG, EEG, GSR, IMU | 14,943 h | 20 | pose estimation | 
-| [**SensorLM**](https://arxiv.org/abs/2506.09108)  | PPG, EDA, ACC, TEMP, ALT | 59,749 h | 103,731 | sensor-language study | 
-| [**Apple Study (AHMS; WBM)**](https://arxiv.org/html/2507.00191v1)  | HealthKit metrics (27) | > 2.5 B h | 162 K | 57 health tasks | 
+| **SensorLM** [[Paper](https://arxiv.org/abs/2506.09108) ] | PPG, EDA, ACC, TEMP, ALT | 59,749 h | 103,731 | sensor-language study | 
+| **Apple Study (AHMS; WBM)** [[Paper](https://arxiv.org/html/2507.00191v1)]  | HealthKit metrics (27) | > 2.5 B h | 162 K | 57 health tasks | 
 | [**WESAD**](https://archive.ics.uci.edu/dataset/465/wesad+wearable+stress+and+affect+detection)  | EDA/PPG/Temp + Acc | 45 h | 15 | stress detection | 
 | [**PPG-Dalia**](https://archive.ics.uci.edu/dataset/495/ppg+dalia)  | ECG, PPG, IMU, GSR | 36 h | 15 | daily activities | 
 
-### Biosignal Datasets
-| Dataset | Sensors | Datasize | Subjects | Activities | 
-|:--|:--|:--|:--|:--| 
-| **Sleep-EDF** | EEG/EOG/EMG/ECG | 1,576 h | 197 | sleep stages | 
-| **MIT-BIH** | 2-lead ECG | 1128 h | 47 | ambulatory ECG | 
-| **PTB-XL** | 12-lead ECG | 6.06 h | 18,885 | ECG status | 
-| **TUH EEG** | Multi-channel EEG | 1476 h | 675 | seizure activity | 
-| **Cuff-Less-BP** | ECG, PPG | 72 h | — | blood-pressure estimation | 
-| **Auditory-EEG** | EEG | 23 h | — | auditory attention | 
-| **PhyAAt** | EEG | 33 h | 25 | auditory attention | 
-| **MAUS** | ECG, PPG, GSR | 22 h | 22 | cognitive workload/stress | 
-| **Mendeley-YAAD** | ECG, GSR | 5 h | — | affect/stress elicitation | 
-| **Brain-Cognitive** | EEG | 85 h | 20 | cognitive state regulation | 
-| **EPHNOGRAM** | ECG, PCG | 61 h | 24 | cardiac auscultation | 
-| **BIDMC** | ECG, PPG | 14 h | 53 | clinical monitoring | 
-| **MOODS** | PPG | 54 K h | 122 | stress monitoring | 
-| **SleepFM** | BAS, ECG, respiratory | 112,544 h | 14,068 | sleep quality monitoring | 
+
+### Physiology Datasets
+| Dataset | Sensors | Datasize | Subjects | Activities |
+|:--|:--|:--|:--|:--|
+| [**Sleep-EDF**](https://www.physionet.org/content/sleep-edfx/1.0.0/) | EEG/EOG/EMG/ECG | 1,576 h | 197 | sleep stages |
+| [**MIT-BIH Arrhythmia**](https://physionet.org/content/mitdb/1.0.0/) | 2‑lead ECG | 1128 h | 47 | ambulatory ECG |
+| [**PTB-XL**](https://physionet.org/content/ptb-xl/1.0.3/) | 12‑lead ECG | 6.06 h | 18,885 | ECG status |
+| [**TUH EEG**](https://isip.piconepress.com/projects/tuh_eeg/) | multi‑channel EEG | 1476 h | 675 | seizure activity |
+| [**Cuff‑Less‑BP**](https://archive.ics.uci.edu/dataset/340/cuff+less+blood+pressure+estimation) | ECG, PPG | 72 h | — | blood‑pressure estimation |
+| [**Auditory‑EEG**](https://physionet.org/content/auditory-eeg/1.0.0/) | EEG | 23 h | — | auditory attention |
+| [**PhyAAt**](https://phyaat.github.io/dataset)| EEG | 33 h | 25 | auditory attention |
+| [**MAUS**](https://github.com/rickwu11/MAUS_dataset_baseline_system?tab=readme-ov-file) | ECG, PPG, GSR | 22 h | 22 | cognitive workload/stress |
+| [**Mendeley‑YAAD**](https://data.mendeley.com/datasets/g2p7vwxyn2/4) | ECG, GSR | 5 h | — | affect/stress elicitation |
+| [**Brain‑Cognitive**](https://www.physionet.org/content/brain-wearable-monitoring/1.0.0/) | EEG | 85 h | 20 | cognitive state regulation |
+| [**EPHNOGRAM**](https://physionet.org/content/ephnogram/1.0.0/) | ECG, PCG | 61 h | 24 | cardiac auscultation |
+| [**BIDMC**](https://physionet.org/content/bidmc/1.0.0/) | ECG, PPG | 14 h | 53 | clinical monitoring |
+| **MOODS** [[Paper](https://arxiv.org/html/2502.01108v1)] | PPG | 54 K h | 122 | stress monitoring |
+| [**SleepFM**](https://github.com/rthapa84/sleepfm-codebase?tab=readme-ov-file) | BAS, ECG, respiratory | 112,544 h | 14,068 | sleep quality monitoring |
+| [**RecGym**](https://www.kaggle.com/datasets/zhaxidelebsz/10-gym-exercises-with-615-abstracted-features) | acc, gyro, human body capacitance | 50h | 10 | 12 fitness activities |
+| [**PPG-Dalia**](https://archive.ics.uci.edu/dataset/495/ppg+dalia)  | ECG, PPG, IMU, GSR | 36 h | 15 | daily activities | 
+
 
 ### Smart Home Datasets
 | Dataset | Sensors | Datasize | Subjects | Activities | 
