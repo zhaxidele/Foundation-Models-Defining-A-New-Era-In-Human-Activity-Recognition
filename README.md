@@ -368,11 +368,7 @@ Here are the growth trends of publications since 2022 and the model names cloud:
   ###  Multimodal alignment and positional encoding
   ###  Token fusion and cross-modal projection
 
-## Base Architectures
-  ###  Encoder-only stacks (discriminative encoders)
-  ###  Dual encoders (retrieval/alignment)
-  ###  Encoder–decoder stacks (conditional generation)
-  ###  Language-model stacks (encoder–decoder or decoder-only)
+
 
 ## Pretraining Paradigms
   ###  Contrastive pretraining
