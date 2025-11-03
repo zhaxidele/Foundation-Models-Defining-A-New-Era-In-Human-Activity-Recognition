@@ -458,14 +458,14 @@ Here are the growth trends of publications since 2022 and the model names cloud:
 2. **"Inertial Signal Forecasting with Foundation Model Techniques (Dual-View FM)"**.  
    *Wieland & Pankratius.* IEEE Sensors Journal 2025. [[Paper](https://doi.org/10.1109/JSEN.2025.3603456)]
 
-3. **"LLaSA: Large Multimodal Agent for Human Activity Understanding"**.  
-   *Imran et al.* arXiv 2024. [[Paper](https://www.semanticscholar.org/paper/91edd1d52e4a11a2dc0fdfdb88113a7df7e6ab5c)]
+3. **"LLaSA: Large Multimodal Agent for Human Activity Analysis Through Wearable Sensors"**.  
+   *Imran et al.* arXiv 2024. [[Paper](https://www.semanticscholar.org/paper/91edd1d5ec1015952944c63fa43727e800699836)]
 
 4. **"Scaling Wearable Foundation Models (LSM)"**.  
    *Narayanswamy et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2410.13638)]
 
 5. **"SelfPAB: Large-Scale Pre-training on Accelerometer Recordings with Masked Spectrogram Reconstruction"**.  
-   *Logacjov et al.* Springer 2024. [[Paper](https://link.springer.com/content/pdf/10.1007/978-3-031-65394-0_20)]
+   *Logacjov et al.* Springer 2024. [[Paper](https://link.springer.com/content/pdf/10.1007/s10489-024-05322-3.pdf)]
 
    
   ###  Hybrid and self-supervised pretraining
