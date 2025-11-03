@@ -435,6 +435,20 @@ Here are the growth trends of publications since 2022 and the model names cloud:
 
 ## Pretraining Paradigms
   ###  Contrastive pretraining
+
+1. **"Large Model for Small Data: Foundation Model for Cross-Modal RF Human Activity Recognition (FM-Fi)"**.  
+   *Weng et al.* ACM 2024. [[Paper](https://dl.acm.org/doi/pdf/10.1145/3666025.3697865)]
+
+2. **"FM-Fi 2.0: Foundation Model for Cross-Modal Multi-Person Human Activity Recognition"**.  
+   *Weng et al.* IEEE TMC 2025. [[Paper](https://doi.org/10.1109/tmc.2025.3593406)]
+
+3. **"RelCon: Relative Contrastive Learning for a Motion Foundation Model for Wearable Data"**.  
+   *Xu et al.* arXiv 2024 (ICLR 2025). [[Paper](https://doi.org/10.48550/arXiv.2411.18822)]
+
+4. **"IMU2CLIP: Multimodal Contrastive Learning for IMU Motion Sensors from Egocentric Videos and Text"**.  
+   *Moon et al.* EMNLP Findings 2023. [[Paper](https://arxiv.org/pdf/2210.14395)]
+
+
   ###  Generative pretraining
   ###  Hybrid and self-supervised pretraining
 
