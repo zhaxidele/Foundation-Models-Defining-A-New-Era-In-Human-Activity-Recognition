@@ -398,11 +398,6 @@ Here are the growth trends of publications since 2022 and the model names cloud:
 2. **"Self-Supervised Learning for Human Activity Recognition Using 700,000 Person-Days of Wearable Data"**.  
    *Yuan et al.* *npj Digital Medicine* 2024. [[Paper](https://www.nature.com/articles/s41746-024-01062-3)]
 
-3. **"Mockingjay: Unsupervised Speech Representation Learning with Deep Bidirectional Transformer Encoders"**.  
-   *Andy T. Liu et al.* ICASSP 2020. [[Paper](https://ieeexplore.ieee.org/document/9053569)]
-
-4. **"TERA: Self-Supervised Learning of Transformer Encoder Representation for Speech"**.  
-   *Andy T. Liu et al.* IEEE/ACM TASLP 2021. [[Paper](https://ieeexplore.ieee.org/document/9383515)]
 
 
   ###  Discrete and quantized sensor tokens
