@@ -401,6 +401,20 @@ Here are the growth trends of publications since 2022 and the model names cloud:
 
 
   ###  Discrete and quantized sensor tokens
+
+
+1. **"Towards Learning Discrete Representations via Self-Supervision for Wearables-Based Human Activity Recognition"**.  
+   *Harish Haresamudram et al.* Sensors 2024. [[Paper](https://www.mdpi.com/1424-8220/24/4/1238)]
+
+2. **"Towards Customizable Foundation Models for Human Activity Recognition with Wearable Devices"**.  
+   *Minghui Qiu et al.* arXiv 2025. [[Paper](https://arxiv.org/abs/2509.10729)]
+
+3. **"Chronos: Learning the Language of Time Series"**.  
+   *Ansari et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2403.07815)]
+
+4. **"Time2Lang: Bridging Time-Series Foundation Models and Large Language Models for Health Sensing Beyond Prompting"**.  
+   *Pillai et al.* arXiv 2025. [[Paper](https://arxiv.org/abs/2504.01256)]
+
   ###  Multimodal alignment and positional encoding
   ###  Token fusion and cross-modal projection
 
