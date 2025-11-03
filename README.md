@@ -337,7 +337,7 @@ Here are the growth trends of publications since 2022 and the model names cloud:
 
 4. **"Toward Foundation Model for Multivariate Wearable Sensing of Physiological Signals"**. *Luo et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2412.09758)]
 
-5. **"SleepFM: Multi-Modal Representation Learning for Sleep Across Brain Activity, ECG and Respiratory Signals"**. *Thapa et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2404.16822)]
+5. **"SleepFM: Multi-Modal Representation Learning for Sleep Across Brain Activity, ECG and Respiratory Signals"**. *Thapa et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2405.17766)]
 
 6. **"Scaling Wearable Foundation Models"**. *Narayanswamy et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2410.13638)]
 
@@ -345,7 +345,7 @@ Here are the growth trends of publications since 2022 and the model names cloud:
 
 8. **"FM-Fi 2.0: Foundation Model for Cross-Modal Multi-Person Human Activity Recognition"**. *Weng et al.* IEEE TMC 2025. [[Paper](https://doi.org/10.1109/TMC.2025.3593406)]
 
-9. **"IMU2CLIP: Language-Grounded Motion Sensor Translation with Multimodal Contrastive Learning"**. *Moon et al.* EMNLP Findings 2023. [[Paper](https://aclanthology.org/2023.findings-emnlp.883/)]
+9. **"IMU2CLIP: Language-Grounded Motion Sensor Translation with Multimodal Contrastive Learning"**. *Moon et al.* EMNLP Findings 2023. [[Paper](https://arxiv.org/abs/2210.14395)]
 
     
   ###  Generated datasets and augmentation
