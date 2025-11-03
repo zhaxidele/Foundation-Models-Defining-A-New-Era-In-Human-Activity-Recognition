@@ -364,18 +364,19 @@ Here are the growth trends of publications since 2022 and the model names cloud:
 ###  Window-based and patch-level segmentation
 ## Window-Based and Patch-Level Segmentation
 
-1. **"A Novel Human Activity Recognition Framework Based on Pre-Trained Foundation Model (Chronos HAR Adapters)"**. *Xiong et al.* IEEE BIBM 2024. [[Paper](https://doi.org/10.1109/BIBM57916.2024.10240605)]
+## Window-Based and Patch-Level Segmentation
 
-2. **"Inertial Signal Forecasting with Foundation Model Techniques (Dual-View FM)"**. *Wieland & Pankratius.* IEEE Sensors Journal 2025 (accepted). [[Paper](https://ieeexplore.ieee.org/document/10715219)]
+1. **"RelCon: Relative Contrastive Learning for a Motion Foundation Model for Wearable Data"**. *Maxwell A. Xu et al.* arXiv 2024 (ICLR 2025). [[Paper](https://arxiv.org/abs/2411.18822)] 
+2. **"Speech Foundation Models Generalize to Time Series Tasks from Wearable Sensor Data"**. *Jaya Narain et al.* arXiv 2025. [[Paper](https://arxiv.org/abs/2509.00221)] 
 
-3. **"RelCon: Relative Contrastive Learning for a Motion Foundation Model for Wearable Data"**. *Xu et al.* ICLR 2025. [[Paper](https://arxiv.org/abs/2411.18822)]
+3. **"SleepFM: Multi-modal Representation Learning for Sleep Across Brain Activity, ECG and Respiratory Signals"**. *Rahul Thapa et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2405.17766)] 
 
-4. **"Speech Foundation Models Generalize to Time Series Tasks from Wearable Sensor Data"**. *Narain et al.* arXiv 2025. [[Paper](https://arxiv.org/abs/2502.05816)]
+4. **"Leveraging Foundation Models for Zero-Shot IoT Sensing"**. *Dinghao Xue et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2407.19893)]    
 
-5. **"SleepFM: Multi-Modal Representation Learning for Sleep Across Brain Activity, ECG and Respiratory Signals"**. *Thapa et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2404.16822)]
+5. **"Inertial Signal Forecasting with Foundation Model Techniques (Dual-View FM)"**. *Christoph Wieland, Victor Pankratius.* IEEE Sensors Journal 2025. [[Paper](https://ieeexplore.ieee.org/document/11150553)]
 
-6. **"Leveraging Foundation Models for Zero-Shot IoT Sensing"**. *Xue et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2409.03447)]
-
+6. **"A Novel Human Activity Recognition Framework Based on Pre-Trained Foundation Model (Chronos HAR Adapters)"**. *Xiong et al.* IEEE BIBM 2024. [[Paper](https://ieeexplore.ieee.org/document/10822159)]  
+  
 
   ###  Feature-based aggregation and statistical embeddings
   ###  Spectrogram and frequency-domain embeddings
