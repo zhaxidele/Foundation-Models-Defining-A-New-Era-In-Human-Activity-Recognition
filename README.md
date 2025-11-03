@@ -539,8 +539,8 @@ Here are the growth trends of publications since 2022 and the model names cloud:
 4. **"RelCon: Relative Contrastive Learning for a Motion Foundation Model for Wearable Data"**.  
    *Xu et al.* ICLR 2025. [[Paper](https://doi.org/10.48550/arXiv.2411.18822)]
 
-5. **"SelfPAB: Large-Scale Pre-training on Accelerometer Recordings with Masked Spectrogram Reconstruction"**.  
-   *Logacjov et al.* Springer 2024. [[Paper](https://link.springer.com/content/pdf/10.1007/978-3-031-65394-0_20)]
+5. **"SelfPAB: large-scale pre-training on accelerometer data for human activity recognition"**.  
+   *Logacjov et al.* ACM 2024. [[Paper](https://dl.acm.org/doi/abs/10.1007/s10489-024-05322-3)]
 
 6. **"Spatial-Temporal Masked Autoencoder for Multi-Sensor Human Activity Recognition (STMAE)"**.  
    *Miao et al.* ACM 2024. [[Paper](https://dl.acm.org/doi/pdf/10.1145/3631415)]
