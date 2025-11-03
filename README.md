@@ -153,8 +153,8 @@ Here are the growth trends of publications since 2022 and the model names cloud:
 
 
 ## Datasets
-# Representative Datasets Frequently Used in Sensor-Based HAR Studies
 
+### IMU-only Datasets
 | Dataset | Sensors | Datasize | Subjects | Activities |
 |:--|:--|:--|:--|:--|
 | [**CAPTURE-24**](https://www.nature.com/articles/s41597-024-03960-3) | acc | 3883 h | 151 | 200 unique labels |
