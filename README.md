@@ -156,73 +156,73 @@ Here are the growth trends of publications since 2022 and the model names cloud:
 # Representative Datasets Frequently Used in Sensor-Based HAR Studies
 
 
-| Dataset | Sensors | Datasize | Subjects | Activities | Representative Uses |
-|:--|:--|:--|:--|:--|:--|
-| **CAPTURE-24** | acc | 3883 h | 151 | 200 unique labels | — |
-| **TNDA-HAR** | acc, gyro | 5.7 h | 23 | 8 daily activities | — |
-| **HAR70+** | acc | 12.6 h | 18 | 8 daily activities | — |
-| **WISDM** | acc, gyro | 91.8 h | 51 | 18 daily activities | — |
-| **MotionSense** | acc, gyro | — | 24 | 6 daily activities | — |
-| **SHL Challenge** | acc, gyro, mag | 2812 h | 3 | 8 transport modes | — |
-| **Shoaib** | acc, gyro, mag | 6.5 h | 10 | 13 daily activities | — |
-| **HHAR** | acc, gyro | — | 9 | 6 daily activities | — |
-| **WHARF** | acc | — | 16 | 8 motion primitives | — |
-| **DSADS** | acc, gyro, mag | 12.7 h | 8 | 19 daily/sports activities | — |
-| **UCI-HAR** | acc, gyro | — | 30 | 6 daily activities | — |
-| **USC-HAD** | acc, gyro, mag | — | 14 | 12 daily activities | — |
-| **Daphnet FoG** | acc | 8.3 h | 10 | 3 walking activities | — |
-| **ComplexHAD** | acc, gyro | 7.9 h | 10 | 7 daily activities | — |
-| **DLA** | acc, gyro | 13 h | 8 | 17 daily activities | — |
-| **FLAAP** | acc, gyro | 3.6 h | 8 | 10 daily activities | — |
-| **UK Biobank** | acc | 16.8 M h | 100 K | daily activities | — |
+| Dataset | Sensors | Datasize | Subjects | Activities |  
+|:--|:--|:--|:--|:--| 
+| **CAPTURE-24** | acc | 3883 h | 151 | 200 unique labels |  
+| **TNDA-HAR** | acc, gyro | 5.7 h | 23 | 8 daily activities | 
+| **HAR70+** | acc | 12.6 h | 18 | 8 daily activities |  
+| **WISDM** | acc, gyro | 91.8 h | 51 | 18 daily activities | 
+| **MotionSense** | acc, gyro | — | 24 | 6 daily activities | 
+| **SHL Challenge** | acc, gyro, mag | 2812 h | 3 | 8 transport modes | 
+| **Shoaib** | acc, gyro, mag | 6.5 h | 10 | 13 daily activities | 
+| **HHAR** | acc, gyro | — | 9 | 6 daily activities | 
+| **WHARF** | acc | — | 16 | 8 motion primitives | 
+| **DSADS** | acc, gyro, mag | 12.7 h | 8 | 19 daily/sports activities | 
+| **UCI-HAR** | acc, gyro | — | 30 | 6 daily activities | 
+| **USC-HAD** | acc, gyro, mag | — | 14 | 12 daily activities | 
+| **Daphnet FoG** | acc | 8.3 h | 10 | 3 walking activities | 
+| **ComplexHAD** | acc, gyro | 7.9 h | 10 | 7 daily activities | 
+| **DLA** | acc, gyro | 13 h | 8 | 17 daily activities | 
+| **FLAAP** | acc, gyro | 3.6 h | 8 | 10 daily activities | 
+| **UK Biobank** | acc | 16.8 M h | 100 K | daily activities | 
 
 ### IMU + Multimodal Datasets
-| Dataset | Sensors | Datasize | Subjects | Activities | Representative Uses |
-|:--|:--|:--|:--|:--|:--|
-| **HARTH** | acc, video | 35.9 h | 22 | 12 daily activities | — |
-| **MMAct** | RGB-video, keypoints, acc, gyro, ori, Wi-Fi, pressure | — | 40 | 37 activities | — |
-| **RealWorld HAR** | acc, gyro, mag, GPS, light, sound level | 124.3 h | 15 | 8 daily activities | — |
-| **UTD-MHAD** | RGB video, depth video, skeleton, acc, gyro | — | 8 | 27 activities | — |
-| **MHEALTH** | acc, gyro, mag, ECG | — | 10 | 12 daily activities | — |
-| **Berkeley MHAD** | acc, optical capture, video, depth, audio | 1.37 h | 12 | 11 daily activities | — |
-| **PAMAP2** | acc, gyro, mag, heart rate | 10 h | 9 | 18 daily activities | — |
-| **Opportunity** | acc, gyro, mag, ambient sensors | 25 h | 4 | 9 kitchen + 9 gestures | — |
-| **MRI** | mmWave, RGB-D, IMU | 5.3 h | 20 | pose estimation | — |
-| **NORMWEAR** | PPG, ECG, EEG, GSR, IMU | 14,943 h | 20 | pose estimation | — |
-| **SensorLM** | PPG, EDA, ACC, TEMP, ALT | 59,749 h | 103,731 | sensor-language study | — |
-| **Apple Study (AHMS; WBM)** | HealthKit metrics (27) | > 2.5 B h | 162 K | 57 health tasks | — |
-| **WESAD** | EDA/PPG/Temp + Acc | 45 h | 15 | stress detection | — |
-| **PPG-Dalia** | ECG, PPG, IMU, GSR | 36 h | 15 | daily activities | — |
+| Dataset | Sensors | Datasize | Subjects | Activities |  
+|:--|:--|:--|:--|:--| 
+| **HARTH** | acc, video | 35.9 h | 22 | 12 daily activities | 
+| **MMAct** | RGB-video, keypoints, acc, gyro, ori, Wi-Fi, pressure | — | 40 | 37 activities | 
+| **RealWorld HAR** | acc, gyro, mag, GPS, light, sound level | 124.3 h | 15 | 8 daily activities | 
+| **UTD-MHAD** | RGB video, depth video, skeleton, acc, gyro | — | 8 | 27 activities | 
+| **MHEALTH** | acc, gyro, mag, ECG | — | 10 | 12 daily activities | 
+| **Berkeley MHAD** | acc, optical capture, video, depth, audio | 1.37 h | 12 | 11 daily activities | 
+| **PAMAP2** | acc, gyro, mag, heart rate | 10 h | 9 | 18 daily activities | 
+| **Opportunity** | acc, gyro, mag, ambient sensors | 25 h | 4 | 9 kitchen + 9 gestures | 
+| **MRI** | mmWave, RGB-D, IMU | 5.3 h | 20 | pose estimation | 
+| **NORMWEAR** | PPG, ECG, EEG, GSR, IMU | 14,943 h | 20 | pose estimation | 
+| **SensorLM** | PPG, EDA, ACC, TEMP, ALT | 59,749 h | 103,731 | sensor-language study | 
+| **Apple Study (AHMS; WBM)** | HealthKit metrics (27) | > 2.5 B h | 162 K | 57 health tasks | 
+| **WESAD** | EDA/PPG/Temp + Acc | 45 h | 15 | stress detection | 
+| **PPG-Dalia** | ECG, PPG, IMU, GSR | 36 h | 15 | daily activities | 
 
 ---
 
 
 ### Biosignal Datasets
-| Dataset | Sensors | Datasize | Subjects | Activities | Representative Uses |
-|:--|:--|:--|:--|:--|:--|
-| **Sleep-EDF** | EEG/EOG/EMG/ECG | 1,576 h | 197 | sleep stages | — |
-| **MIT-BIH** | 2-lead ECG | 1128 h | 47 | ambulatory ECG | — |
-| **PTB-XL** | 12-lead ECG | 6.06 h | 18,885 | ECG status | — |
-| **TUH EEG** | Multi-channel EEG | 1476 h | 675 | seizure activity | — |
-| **Cuff-Less-BP** | ECG, PPG | 72 h | — | blood-pressure estimation | — |
-| **Auditory-EEG** | EEG | 23 h | — | auditory attention | — |
-| **PhyAAt** | EEG | 33 h | 25 | auditory attention | — |
-| **MAUS** | ECG, PPG, GSR | 22 h | 22 | cognitive workload/stress | — |
-| **Mendeley-YAAD** | ECG, GSR | 5 h | — | affect/stress elicitation | — |
-| **Brain-Cognitive** | EEG | 85 h | 20 | cognitive state regulation | — |
-| **EPHNOGRAM** | ECG, PCG | 61 h | 24 | cardiac auscultation | — |
-| **BIDMC** | ECG, PPG | 14 h | 53 | clinical monitoring | — |
-| **MOODS** | PPG | 54 K h | 122 | stress monitoring | — |
-| **SleepFM** | BAS, ECG, respiratory | 112,544 h | 14,068 | sleep quality monitoring | — |
+| Dataset | Sensors | Datasize | Subjects | Activities | 
+|:--|:--|:--|:--|:--| 
+| **Sleep-EDF** | EEG/EOG/EMG/ECG | 1,576 h | 197 | sleep stages | 
+| **MIT-BIH** | 2-lead ECG | 1128 h | 47 | ambulatory ECG | 
+| **PTB-XL** | 12-lead ECG | 6.06 h | 18,885 | ECG status | 
+| **TUH EEG** | Multi-channel EEG | 1476 h | 675 | seizure activity | 
+| **Cuff-Less-BP** | ECG, PPG | 72 h | — | blood-pressure estimation | 
+| **Auditory-EEG** | EEG | 23 h | — | auditory attention | 
+| **PhyAAt** | EEG | 33 h | 25 | auditory attention | 
+| **MAUS** | ECG, PPG, GSR | 22 h | 22 | cognitive workload/stress | 
+| **Mendeley-YAAD** | ECG, GSR | 5 h | — | affect/stress elicitation | 
+| **Brain-Cognitive** | EEG | 85 h | 20 | cognitive state regulation | 
+| **EPHNOGRAM** | ECG, PCG | 61 h | 24 | cardiac auscultation | 
+| **BIDMC** | ECG, PPG | 14 h | 53 | clinical monitoring | 
+| **MOODS** | PPG | 54 K h | 122 | stress monitoring | 
+| **SleepFM** | BAS, ECG, respiratory | 112,544 h | 14,068 | sleep quality monitoring | 
 
 ### Smart Home Datasets
-| Dataset | Sensors | Datasize | Subjects | Activities | Representative Uses |
-|:--|:--|:--|:--|:--|:--|
-| **CASAS (Aruba/Milan/...)** | Binary ambient sensors (motion, doors) | — | — | smart home activities | — |
+| Dataset | Sensors | Datasize | Subjects | Activities | 
+|:--|:--|:--|:--|:--| 
+| **CASAS (Aruba/Milan/...)** | Binary ambient sensors (motion, doors) | — | — | smart home activities | 
 
 ### RF Datasets
-| Dataset | Sensors | Datasize | Subjects | Activities | Representative Uses |
-|:--|:--|:--|:--|:--|:--|
-| **mmWave (var.)** | Range–Doppler / RF point clouds | 5 h | 10 | daily activities (10 scenes) | — |
-| **MMFi** | mmWave, Lidar, Wi-Fi | 10.6 h | 40 | 27 daily activities | — |
+| Dataset | Sensors | Datasize | Subjects | Activities | 
+|:--|:--|:--|:--|:--| 
+| **mmWave (var.)** | Range–Doppler / RF point clouds | 5 h | 10 | daily activities (10 scenes) | 
+| **MMFi** | mmWave, Lidar, Wi-Fi | 10.6 h | 40 | 27 daily activities | 
 
