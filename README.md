@@ -728,8 +728,8 @@ Here are the growth trends of publications since 2022 and the model names cloud:
 2. **"Leveraging Large Language Models for Digital Phenotyping: Detecting Depressive State Changes for Patients with Depressive Episodes"**.  
    *Yuan et al.* bioRxiv 2025. [[Paper](https://doi.org/10.1101/2025.05.10.25327354)]
 
-3. **"LanHAR: Language-Centered Human Activity Recognition via Sensor–Text Alignment"**.  
-   *Yan et al.* arXiv 2024. [[Paper](https://arxiv.org/pdf/2402.01049)]
+3. **"Large Language Model-Guided Semantic Alignment for Human Activity Recognition"**.  
+   *Yan et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2410.00003)]
 
 4. **"Enabling On-Device LLMs Personalization with Sensor Prompts"**.  
    *Zhang et al.* arXiv 2024. [[Paper](https://arxiv.org/pdf/2407.04418)]
@@ -790,8 +790,8 @@ Here are the growth trends of publications since 2022 and the model names cloud:
 1. **"LLMSense: Harnessing LLMs for High-Level Reasoning over Spatiotemporal Sensor Traces"**.  
    *Ouyang et al.* SenSys-ML 2024. [[Paper](https://doi.org/10.1109/SenSys-ML62579.2024.00007)]
 
-2. **"LanHAR: Language-Centered Human Activity Recognition via Sensor–Text Alignment"**.  
-   *Yan et al.* arXiv 2024. [[Paper](https://arxiv.org/pdf/2402.01049)]
+2. **"Large Language Model-Guided Semantic Alignment for Human Activity Recognition"**.  
+   *Yan et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2410.00003)]
 
 3. **"DailyLLM: Context-Aware Activity Log Generation Using Multi-Modal Sensors and LLMs"**.  
    *Tian et al.* arXiv 2025. [[Paper](https://doi.org/10.48550/arXiv.2507.13737)]
