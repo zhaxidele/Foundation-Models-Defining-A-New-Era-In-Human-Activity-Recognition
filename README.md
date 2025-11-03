@@ -335,19 +335,17 @@ Here are the growth trends of publications since 2022 and the model names cloud:
   ###  Cross-modal retrieval and search
   ###  Language-grounded captioning, Q&A, and reasoning
   ###  Generative reconstruction, forecasting, and imputation
+  ###  On-device, federated, and online adaptation
 
 ## Deployment Settings
-  ###  On-device, federated, and online adaptation
   ###  Cloud-scale training and centralized evaluation
   ###  On-device and mobile execution
 
 ## Application Domains
   ###  General-purpose HAR / ADL
-
-
-
-
-
+  ###  Healthcare & wellbeing
+  ###  Smart-home & context-aware environments
+  ###  Interactive & agentic assistants
 
 
 
