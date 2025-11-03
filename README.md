@@ -710,7 +710,36 @@ Here are the growth trends of publications since 2022 and the model names cloud:
 
 ## Deployment Settings
   ###  Cloud-scale training and centralized evaluation
+
+
+1. **"Large Model for Small Data: Foundation Model for Cross-Modal RF Human Activity Recognition (FM-Fi)"**.  
+   *Weng et al.* ACM 2024. [[Paper](https://dl.acm.org/doi/pdf/10.1145/3666025.3697865)]
+
+2. **"FM-Fi 2.0: Foundation Model for Cross-Modal Multi-Person Human Activity Recognition"**.  
+   *Weng et al.* IEEE TMC 2025. [[Paper](https://doi.org/10.1109/tmc.2025.3593406)]
+
+3. **"Scaling Wearable Foundation Models (LSM)"**.  
+   *Narayanswamy et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2410.13638)]
+   
   ###  On-device and mobile execution
+
+1. **"LLMSense: Harnessing LLMs for High-Level Reasoning over Spatiotemporal Sensor Traces"**.  
+   *Ouyang et al.* SenSys-ML 2024. [[Paper](https://doi.org/10.1109/SenSys-ML62579.2024.00007)]
+
+2. **"Leveraging Large Language Models for Digital Phenotyping and Health Forecasting"**.  
+   *Yuan et al.* bioRxiv 2025. [[Paper](https://doi.org/10.1101/2025.05.10.25327354)]
+
+3. **"LanHAR: Language-Centered Human Activity Recognition via Sensor–Text Alignment"**.  
+   *Yan et al.* arXiv 2024. [[Paper](https://arxiv.org/pdf/2402.01049)]
+
+4. **"Enabling On-Device LLMs Personalization with Sensor Prompts"**.  
+   *Zhang et al.* arXiv 2024. [[Paper](https://arxiv.org/pdf/2407.04418)]
+
+5. **"LLM4HAR: Generalizable On-Device Human Activity Recognition with Large Language Models"**.  
+   *Hong et al.* IMWUT 2025. [[Paper](https://doi.org/10.1145/3711896.3737226)]
+
+6. **"Few-Shot Human Activity Recognition Using Lightweight Language Models"**.  
+   *Cruciani et al.* IEEE ICCCN 2025. [[Paper](https://doi.org/10.1109/ABC64332.2025.11118559)]
 
 ## Application Domains
   ###  General-purpose HAR / ADL
