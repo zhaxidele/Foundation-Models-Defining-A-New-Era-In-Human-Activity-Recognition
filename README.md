@@ -744,8 +744,8 @@ Here are the growth trends of publications since 2022 and the model names cloud:
   ###  General-purpose HAR / ADL
 
 
-1. **"oneHAR: Universal Representation Learning for Human Activity Recognition via Inertial Signals"**.  
-   *Wei et al.* IEEE JBHI 2025. [[Paper](https://doi.org/10.1109/JBHI.2025.3490181)]
+1. **"One Model to Fit Them All: Universal IMU-based Human Activity Recognition with LLM-assisted Cross-dataset Representation"**.  
+   *Wei et al.* ACM IMWUT 2025. [[Paper](https://dl.acm.org/doi/10.1145/3749509)]
 
 2. **"CrossHAR: Generalizing Cross-Dataset Human Activity Recognition via Hierarchical Self-Supervised Pretraining"**.  
    *Hong et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/pdf/10.1145/3659597)]
@@ -755,32 +755,29 @@ Here are the growth trends of publications since 2022 and the model names cloud:
    
   ###  Healthcare & wellbeing
 
-1. **"PhysioLLM: Supporting Personalized Health Insights from Multimodal Physiological Signals"**.  
+1. **"PhysioLLM: Supporting Personalized Health Insights with Wearables and Large Language Models"**.  
    *Fang et al.* arXiv 2024. [[Paper](http://arxiv.org/pdf/2406.19283)]
 
-2. **"Vital Insight: Assisting Experts’ Context-Driven Retrieval and Reasoning over Longitudinal Health Data"**.  
+2. **"Vital Insight: Assisting Experts' Context-Driven Sensemaking of Multi-modal Personal Tracking Data Using Visualization and Human-in-the-Loop LLM"**.  
    *Li et al.* IMWUT 2025. [[Paper](https://doi.org/10.1145/3749508)]
 
-3. **"Pulse-PPG: An Open-Source Field-Trained PPG Foundation Model for Continuous Cardiovascular Monitoring"**.  
+3. **"Pulse-PPG: An Open-Source Field-Trained PPG Foundation Model for Wearable Applications across Lab and Field Settings"**.  
    *Saha et al.* IMWUT 2025. [[Paper](https://doi.org/10.1145/3749494)]
 
 4. **"SleepFM: Multi-Modal Representation Learning for Sleep Across Brain Activity, ECG, and Respiratory Signals"**.  
    *Thapa et al.* arXiv 2024. [[Paper](https://doi.org/10.48550/arXiv.2405.17766)]
 
-5. **"Large Language Models for Wearable Data Analysis and Clinical Narratives"** *(bohi2024large – unverified)*.  
-   *(No verified link found in uploaded file.)*
 
   
   ###  Smart-home & context-aware environments
 
 
-1. **"Large Model for Small Data: Foundation Model for Cross-Modal RF Human Activity Recognition (FM-Fi)"**.  
-   *Weng et al.* ACM 2024. [[Paper](https://dl.acm.org/doi/pdf/10.1145/3666025.3697865)]
+1. **"Large Model for Small Data: Foundation Model for Cross-Modal RF Human Activity Recognition (FM-Fi)"**. *Weng et al..* SenSys 2024. [[Paper](https://doi.org/10.1145/3589132.3625578)]
 
-2. **"Visible Light Human Activity Recognition Driven by Generative Language Model"**.  
+2. **"Visible light human activity recognition driven by generative language model"**.  
    *Yang et al.* *Information Fusion* 2025. [[Paper](https://doi.org/10.1016/j.inffus.2025.103159)]
 
-3. **"ContextAgent: Context-Aware Proactive LLM Agent for Multimodal Human Activity Understanding"**.  
+3. **"ContextAgent: Context-Aware Proactive LLM Agents with Open-World Sensory Perceptions"**.  
    *Yang et al.* arXiv 2025. [[Paper](https://doi.org/10.48550/arXiv.2505.14668)]
 
    
