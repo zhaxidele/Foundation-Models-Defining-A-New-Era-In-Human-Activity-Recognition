@@ -585,8 +585,8 @@ Here are the growth trends of publications since 2022 and the model names cloud:
 
 
 
-1. **"Large Model for Small Data: Foundation Model for Cross-Modal RF Human Activity Recognition (FM-Fi)"**.  
-   *Weng et al.* ACM 2024. [[Paper](https://dl.acm.org/doi/pdf/10.1145/3666025.3697865)]
+1. **"Large Model for Small Data: Foundation Model for Cross-Modal RF Human Activity Recognition"**.  
+   *Weng et al.* ACM 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3666025.3699349)]
 
 2. **"FM-Fi 2.0: Foundation Model for Cross-Modal Multi-Person Human Activity Recognition"**.  
    *Weng et al.* IEEE TMC 2025. [[Paper](https://doi.org/10.1109/tmc.2025.3593406)]
