@@ -390,6 +390,21 @@ Here are the growth trends of publications since 2022 and the model names cloud:
 6. **"BioSignal Copilot: Leveraging the Power of LLMs in Drafting Reports for Biomedical Signals"**. *Liu et al.* arXiv 2023. [[Paper](https://www.medrxiv.org/content/10.1101/2023.06.28.23291916v1)]
 
   ###  Spectrogram and frequency-domain embeddings
+
+
+1. **"Toward Foundation Model for Multivariate Wearable Sensing of Physiological Signals"**.  
+   *Luo et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2412.09758)]
+
+2. **"Self-Supervised Learning for Human Activity Recognition Using 700,000 Person-Days of Wearable Data"**.  
+   *Yuan et al.* *npj Digital Medicine* 2024. [[Paper](https://www.nature.com/articles/s41746-024-01062-3)]
+
+3. **"Mockingjay: Unsupervised Speech Representation Learning with Deep Bidirectional Transformer Encoders"**.  
+   *Andy T. Liu et al.* ICASSP 2020. [[Paper](https://ieeexplore.ieee.org/document/9053569)]
+
+4. **"TERA: Self-Supervised Learning of Transformer Encoder Representation for Speech"**.  
+   *Andy T. Liu et al.* IEEE/ACM TASLP 2021. [[Paper](https://ieeexplore.ieee.org/document/9383515)]
+
+
   ###  Discrete and quantized sensor tokens
   ###  Multimodal alignment and positional encoding
   ###  Token fusion and cross-modal projection
