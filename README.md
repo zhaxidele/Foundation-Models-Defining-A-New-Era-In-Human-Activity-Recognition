@@ -553,6 +553,33 @@ Here are the growth trends of publications since 2022 and the model names cloud:
   
   ###  Instruction-tuning & alignment
 
+
+1. **"StressLLM: Large Language Models for Stress Prediction and Biomarker Reasoning"**.  
+   *Thapa et al.* IEEE ICCE 2025. [[Paper](https://doi.org/10.1109/ICCE63647.2025.10929774)]
+
+2. **"Leveraging LLMs to Predict Affective States via Multi-Modal Sensor Streams"**.  
+   *Yuan et al.* arXiv 2025. [[Paper](https://doi.org/10.1101/2025.05.10.25327354)]
+
+3. **"LAHAR: Leveraging Language Models for Human Activity Recognition"**.  
+   *Chen et al.* IEEE Access 2024. [[Paper](https://doi.org/10.1109/LS2463127.2024.10881660)]
+
+4. **"DailyLLM: Context-Aware Activity Log Generation Using Multi-Modal Sensors and LLMs"**.  
+   *Tian et al.* arXiv 2025. [[Paper](https://doi.org/10.48550/arXiv.2507.13737)]
+
+5. **"Enabling On-Device LLMs Personalization with Sensor Prompts"**.  
+   *Zhang et al.* arXiv 2024. [[Paper](https://arxiv.org/pdf/2407.04418)]
+
+6. **"Sensor2Text: Enabling Natural Language Interactions for Daily Activity Tracking Using Wearable Sensors"**.  
+   *Chen et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/pdf/10.1145/3699747)]
+
+7. **"SensorLM: Learning the Language of Wearable Sensors"**.  
+   *Zhang et al.* arXiv 2025. [[Paper](https://doi.org/10.48550/arXiv.2506.09108)]
+
+8. **"A Personal Health Large Language Model for Sleep and Fitness Coaching (PH-LLM)"**.  
+   *Khasentino et al.* Nature Medicine 2025. [[Paper](https://doi.org/10.1038/s41591-025-03888-0)]
+
+
+
 ## Downstream Capabilities
   ###  Zero-/few-shot & open-set recognition
   ###  Cross-dataset / cross-device / cross-user generalization
