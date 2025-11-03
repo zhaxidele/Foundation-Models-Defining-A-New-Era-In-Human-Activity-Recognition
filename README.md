@@ -179,10 +179,10 @@ Here are the growth trends of publications since 2022 and the model names cloud:
 
 
 
-
+### IMU+ Multimodal Datasets
 | Dataset | Sensors | Datasize | Subjects | Activities |
 |:--|:--|:--|:--|:--|
-| [**RecGym**]([https://zhaxidele.github.io/RecGym/](https://www.kaggle.com/datasets/zhaxidelebsz/10-gym-exercises-with-615-abstracted-features)) | acc, gyro, human body capacitance | 50h | 10 | 12 fitness activities |
+| [**RecGym**](https://www.kaggle.com/datasets/zhaxidelebsz/10-gym-exercises-with-615-abstracted-features) | acc, gyro, human body capacitance | 50h | 10 | 12 fitness activities |
 | [**WEAR**](https://mariusbock.github.io/wear/) | acc, video | 19 h | 22 | 18 sports activities |
 | [**iSPL**](https://github.com/thunguyenth/HAR_IMU_Stretch) | acc, gyro, stretch | — | 1 | 9 daily activities |
 | [**HARTH**](https://archive.ics.uci.edu/dataset/779/harth) | acc, video | 35.9 h | 22 | 12 daily activities |
