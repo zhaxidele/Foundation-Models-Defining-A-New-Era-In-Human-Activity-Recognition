@@ -48,6 +48,53 @@ Here are the growth trends of publications since 2022 and the model names cloud:
     - [RF Datasets](#rf-datasets)
 
 
+- [Modality Scope](#modality-scope)
+  - [Unimodal foundation models](#unimodal-foundation-models)
+  - [Multimodal foundation models](#multimodal-foundation-models)
+  - [Cross-modal foundation models](#cross-modal-foundation-models)
+
+- [Data Landscape: Collected and Generated Corpora](#data-landscape-collected-and-generated-corpora)
+  - [Corpora of sensor data collected in the wild](#corpora-of-sensor-data-collected-in-the-wild)
+  - [Generated datasets and augmentation](#generated-datasets-and-augmentation)
+
+- [Tokenization and Representation Strategies](#tokenization-and-representation-strategies)
+  - [Window-based and patch-level segmentation](#window-based-and-patch-level-segmentation)
+  - [Feature-based aggregation and statistical embeddings](#feature-based-aggregation-and-statistical-embeddings)
+  - [Spectrogram and frequency-domain embeddings](#spectrogram-and-frequency-domain-embeddings)
+  - [Discrete and quantized sensor tokens](#discrete-and-quantized-sensor-tokens)
+  - [Multimodal alignment and positional encoding](#multimodal-alignment-and-positional-encoding)
+  - [Token fusion and cross-modal projection](#token-fusion-and-cross-modal-projection)
+
+
+- [Pretraining Paradigms](#pretraining-paradigms)
+  - [Contrastive pretraining](#contrastive-pretraining)
+  - [Generative pretraining](#generative-pretraining)
+  - [Hybrid and self-supervised pretraining](#hybrid-and-self-supervised-pretraining)
+
+- [Adaptation Strategies](#adaptation-strategies)
+  - [Parameter-efficient fine-tuning (PEFT)](#parameter-efficient-fine-tuning-peft)
+  - [Full or partial fine-tuning](#full-or-partial-fine-tuning)
+  - [Instruction-tuning & alignment](#instruction-tuning--alignment)
+
+- [Downstream Capabilities](#downstream-capabilities)
+  - [Zero-/few-shot & open-set recognition](#zero-few-shot--open-set-recognition)
+  - [Cross-dataset / cross-device / cross-user generalization](#cross-dataset--cross-device--cross-user-generalization)
+  - [Cross-modal retrieval and search](#cross-modal-retrieval-and-search)
+  - [Language-grounded captioning, Q&A, and reasoning](#language-grounded-captioning-qa-and-reasoning)
+  - [Generative reconstruction, forecasting, and imputation](#generative-reconstruction-forecasting-and-imputation)
+  - [On-device, federated, and online adaptation](#on-device-federated-and-online-adaptation)
+
+- [Deployment Settings](#deployment-settings)
+  - [Cloud-scale training and centralized evaluation](#cloud-scale-training-and-centralized-evaluation)
+  - [On-device and mobile execution](#on-device-and-mobile-execution)
+
+- [Application Domains](#application-domains)
+  - [General-purpose HAR / ADL](#general-purpose-har--adl)
+  - [Healthcare & wellbeing](#healthcare--wellbeing)
+  - [Smart-home & context-aware environments](#smart-home--context-aware-environments)
+  - [Interactive & agentic assistants](#interactive--agentic-assistants)
+
+
 
 
 ## Base Architecture
