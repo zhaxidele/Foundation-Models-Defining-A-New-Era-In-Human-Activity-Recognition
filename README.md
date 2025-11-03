@@ -664,6 +664,27 @@ Here are the growth trends of publications since 2022 and the model names cloud:
 
   
   ###  Generative reconstruction, forecasting, and imputation
+
+
+1. **"Spatial-Temporal Masked Autoencoder for Multi-Sensor Human Activity Recognition (STMAE)"**.  
+   *Miao et al.* ACM 2024. [[Paper](https://dl.acm.org/doi/pdf/10.1145/3631415)]
+
+2. **"CrossHAR: Generalizing Cross-Dataset Human Activity Recognition via Hierarchical Self-Supervised Pretraining"**.  
+   *Hong et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/pdf/10.1145/3659597)]
+
+3. **"Scaling Wearable Foundation Models (LSM)"**.  
+   *Narayanswamy et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2410.13638)]
+
+4. **"Inertial Signal Forecasting with Foundation Model Techniques (Dual-View FM)"**.  
+   *Wieland & Pankratius.* IEEE Sensors Journal 2025. [[Paper](https://doi.org/10.1109/JSEN.2025.3603456)]
+
+5. **"RobustHAR: Multi-Scale Spatial-Temporal Masked Autoencoder for Robust Human Activity Recognition"**.  
+   *Liu et al.* IJCAI 2025. [[Paper](https://doi.org/10.24963/ijcai.2025/952)]
+
+6. **"UniMTS – Unified Pre-training for Motion Time-Series Forecasting and Recognition"**.  
+   *Zhang et al.* arXiv 2024. [[Paper](https://doi.org/10.48550/arXiv.2410.19818)]
+
+   
   ###  On-device, federated, and online adaptation
 
 ## Deployment Settings
