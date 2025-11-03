@@ -584,23 +584,21 @@ Here are the growth trends of publications since 2022 and the model names cloud:
   ###  Zero-/few-shot & open-set recognition
 
 
+
 1. **"Large Model for Small Data: Foundation Model for Cross-Modal RF Human Activity Recognition (FM-Fi)"**.  
    *Weng et al.* ACM 2024. [[Paper](https://dl.acm.org/doi/pdf/10.1145/3666025.3697865)]
 
 2. **"FM-Fi 2.0: Foundation Model for Cross-Modal Multi-Person Human Activity Recognition"**.  
-   *Weng et al.* IEEE TMC 2025. [[Paper](https://doi.org/10.1109/TMC.2025.3593406)]
+   *Weng et al.* IEEE TMC 2025. [[Paper](https://doi.org/10.1109/tmc.2025.3593406)]
 
-3. **"ZARA: Zero-Shot Activity Recognition Agent via LLM-Guided Knowledge Retrieval and Reasoning"**.  
-   *Li et al.* arXiv 2025. [[Paper](https://doi.org/10.48550/arXiv.2507.10005)]
+3. **"ZARA: Zero-Shot Motion Time-Series Analysis via LLM-Guided Knowledge Retrieval and Reasoning"**.  
+   *Li et al.* arXiv 2025. [[Paper](https://doi.org/10.48550/arXiv.2508.04038)]
 
-4. **"ADL-LLM: Large Language Model for Activities of Daily Living Understanding"**.  
-   *Civitarese et al.* arXiv 2025. [[Paper](https://doi.org/10.48550/arXiv.2505.03240)]
+4. **"HARGPT: Are LLMs Zero-Shot Human Activity Recognizers?"**.  
+   *Ji et al.* arXiv 2024. [[Paper](http://arxiv.org/pdf/2403.02727)]
 
-5. **"HARGPT: Are LLMs Zero-Shot Human Activity Recognizers?"**.  
-   *Ji et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2403.02727)]
-
-6. **"EEG-GPT: Large Language Models for Transparent Reasoning in EEG-Based Abnormality Detection"**.  
-   *Kim et al.* arXiv 2024. [[Paper](https://doi.org/10.48550/arXiv.2408.14547)]
+5. **"EEG-GPT: Exploring Capabilities of Large Language Models for EEG-Based Abnormality Detection"**.  
+   *Kim et al.* arXiv 2024. [[Paper](https://doi.org/10.48550/arXiv.2401.18006)]
 
 
   
