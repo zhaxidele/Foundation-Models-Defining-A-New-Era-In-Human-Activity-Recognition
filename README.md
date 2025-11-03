@@ -398,7 +398,7 @@ Here are the growth trends of publications since 2022 and the model names cloud:
 2. **"Self-Supervised Learning for Human Activity Recognition Using 700,000 Person-Days of Wearable Data"**.  
    *Yuan et al.* *npj Digital Medicine* 2024. [[Paper](https://www.nature.com/articles/s41746-024-01062-3)]
 
-
+3. **"Sensor2Text: Enabling Natural Language Interactions for Daily Activity Tracking Using Wearable Sensors"**. *Chen et al..* IMWUT 2024. [[Paper](https://doi.org/10.1145/3699747)]
 
   ###  Discrete and quantized sensor tokens
 
@@ -407,18 +407,31 @@ Here are the growth trends of publications since 2022 and the model names cloud:
    *Harish Haresamudram et al.* Sensors 2024. [[Paper](https://www.mdpi.com/1424-8220/24/4/1238)]
 
 2. **"Towards Customizable Foundation Models for Human Activity Recognition with Wearable Devices"**.  
-   *Minghui Qiu et al.* arXiv 2025. [[Paper](https://arxiv.org/abs/2509.10729)]
+   *Minghui Qiu et al.* ACM IMWUT 2025. [[Paper](https://dl.acm.org/doi/10.1145/3749479)]
 
 3. **"Chronos: Learning the Language of Time Series"**.  
    *Ansari et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2403.07815)]
 
 4. **"Time2Lang: Bridging Time-Series Foundation Models and Large Language Models for Health Sensing Beyond Prompting"**.  
-   *Pillai et al.* arXiv 2025. [[Paper](https://arxiv.org/abs/2504.01256)]
+   *Pillai et al.* arXiv 2025. [[Paper](https://arxiv.org/abs/2502.07608)]
 
   ###  Multimodal alignment and positional encoding
+
+
+1. **"SensorLLM: Aligning Large Language Models with Motion Sensors for Human Activity Recognition"**.  
+   *Li et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2410.10624)]
+
+2. **"Visible Light Human Activity Recognition Driven by Generative Language Model"**.  
+   *Yang et al.* Elsevier, Information Fusion 2025. [[Paper](https://www.sciencedirect.com/science/article/pii/S1566253525002325)]
+
+3. **"LLMSense: Harnessing LLMs for High-Level Reasoning over Spatiotemporal Sensor Traces"**.  
+   *Ouyang et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2403.19857)]
+
+
   ###  Token fusion and cross-modal projection
 
-
+1. **"IMU2CLIP: Language-Grounded Motion Sensor Translation with Multimodal Contrastive Learning"**. *Moon et al.* EMNLP Findings 2023. [[Paper](https://arxiv.org/abs/2210.14395)]
+2. **"FM-Fi 2.0: Foundation Model for Cross-Modal Multi-Person Human Activity Recognition"**. *Weng et al.* IEEE TMC 2025. [[Paper](https://doi.org/10.1109/TMC.2025.3593406)]
 
 ## Pretraining Paradigms
   ###  Contrastive pretraining
