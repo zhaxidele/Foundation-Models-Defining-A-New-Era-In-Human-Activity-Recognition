@@ -470,6 +470,31 @@ Here are the growth trends of publications since 2022 and the model names cloud:
    
   ###  Hybrid and self-supervised pretraining
 
+
+1. **"HAR-DoReMi: Optimizing Data Mixture for Self-Supervised Pretraining in Human Activity Recognition"**.  
+   *Ban et al.* arXiv 2025. [[Paper](https://doi.org/10.48550/arXiv.2503.13542)]
+
+2. **"CrossHAR: Generalizing Cross-Dataset Human Activity Recognition via Hierarchical Self-Supervised Pretraining"**.  
+   *Hong et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/pdf/10.1145/3659597)]
+
+3. **"A Personal Health Large Language Model for Sleep and Fitness Coaching (PH-LLM)"**.  
+   *Khasentino et al.* *Nature Medicine* 2025. [[Paper](https://doi.org/10.1038/s41591-025-03888-0)]
+
+4. **"Toward Foundation Model for Multivariate Wearable Sensing of Physiological Signals (NORMWEAR)"**.  
+   *Luo et al.* arXiv 2024. [[Paper](https://doi.org/10.48550/arXiv.2412.09758)]
+
+5. **"Scaling Wearable Foundation Models (LSM)"**.  
+   *Narayanswamy et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2410.13638)]
+
+6. **"SensorLM: Learning the Language of Wearable Sensors"**.  
+   *Zhang et al.* arXiv 2025. [[Paper](https://doi.org/10.48550/arXiv.2506.09108)]
+
+7. **"SensorLLM: Aligning Large Language Models with Motion Sensors for Human Activity Recognition"**.  
+   *Li et al.* arXiv 2024. [[Paper](https://doi.org/10.48550/arXiv.2410.10624)]
+
+
+
+
 ## Adaptation Strategies
   ###  Parameter-efficient fine-tuning (PEFT)
   ###  Full or partial fine-tuning
