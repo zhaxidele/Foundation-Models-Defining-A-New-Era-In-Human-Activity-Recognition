@@ -712,8 +712,7 @@ Here are the growth trends of publications since 2022 and the model names cloud:
   ###  Cloud-scale training and centralized evaluation
 
 
-1. **"Large Model for Small Data: Foundation Model for Cross-Modal RF Human Activity Recognition (FM-Fi)"**.  
-   *Weng et al.* ACM 2024. [[Paper](https://dl.acm.org/doi/pdf/10.1145/3666025.3697865)]
+1. **"Large Model for Small Data: Foundation Model for Cross-Modal RF Human Activity Recognition (FM-Fi)"**. *Weng et al..* SenSys 2024. [[Paper](https://doi.org/10.1145/3589132.3625578)]
 
 2. **"FM-Fi 2.0: Foundation Model for Cross-Modal Multi-Person Human Activity Recognition"**.  
    *Weng et al.* IEEE TMC 2025. [[Paper](https://doi.org/10.1109/tmc.2025.3593406)]
@@ -726,7 +725,7 @@ Here are the growth trends of publications since 2022 and the model names cloud:
 1. **"LLMSense: Harnessing LLMs for High-Level Reasoning over Spatiotemporal Sensor Traces"**.  
    *Ouyang et al.* SenSys-ML 2024. [[Paper](https://doi.org/10.1109/SenSys-ML62579.2024.00007)]
 
-2. **"Leveraging Large Language Models for Digital Phenotyping and Health Forecasting"**.  
+2. **"Leveraging Large Language Models for Digital Phenotyping: Detecting Depressive State Changes for Patients with Depressive Episodes"**.  
    *Yuan et al.* bioRxiv 2025. [[Paper](https://doi.org/10.1101/2025.05.10.25327354)]
 
 3. **"LanHAR: Language-Centered Human Activity Recognition via Sensor–Text Alignment"**.  
