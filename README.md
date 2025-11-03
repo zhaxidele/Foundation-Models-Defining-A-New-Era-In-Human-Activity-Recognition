@@ -603,7 +603,31 @@ Here are the growth trends of publications since 2022 and the model names cloud:
 
   
   ###  Cross-dataset / cross-device / cross-user generalization
+
+
+
+
+
+  
   ###  Cross-modal retrieval and search
+
+1. **"Multimodal Foundation Model for Cross-Modal Retrieval and Recognition (AURA-MFM)"**.  
+   *Matsuishi et al.* arXiv 2025. [[Paper](https://doi.org/10.48550/arXiv.2506.03174)]
+
+2. **"GloSS: Group of LLMs for Open-ended Sensemaking over Sensing Data"**.  
+   *Choube et al.* IMWUT 2025. [[Paper](https://doi.org/10.1145/3749474)]
+
+3. **"Vital Insight: Assisting Experts’ Context-Driven Retrieval and Reasoning over Longitudinal Health Data"**.  
+   *Li et al.* IMWUT 2025. [[Paper](https://doi.org/10.1145/3749508)]
+
+4. **"PhysioLLM: Supporting Personalized Health Insights from Multimodal Physiological Signals"**.  
+   *Fang et al.* arXiv 2024. [[Paper](http://arxiv.org/pdf/2406.19283)]
+
+5. **"SleepFM: Multi-Modal Representation Learning for Sleep Across Brain Activity, ECG, and Respiratory Signals"**.  
+   *Thapa et al.* arXiv 2024. [[Paper](https://doi.org/10.48550/arXiv.2405.17766)]
+
+
+  
   ###  Language-grounded captioning, Q&A, and reasoning
   ###  Generative reconstruction, forecasting, and imputation
   ###  On-device, federated, and online adaptation
