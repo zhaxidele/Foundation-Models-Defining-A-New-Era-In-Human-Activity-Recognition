@@ -689,7 +689,7 @@ Here are the growth trends of publications since 2022 and the model names cloud:
 
 
 1. **"LLM4HAR: Generalizable On-device Human Activity Recognition with Large Language Models"**.  
-   *Hong et al.* IMWUT 2025. [[Paper](https://doi.org/10.1145/3711896.3737226)]
+   *Hong et al.* KDD 2025. [[Paper](https://doi.org/10.1145/3711896.3737226)]
 
 2. **"DailyLLM: Context-Aware Activity Log Generation Using Multi-Modal Sensors and LLMs"**.  
    *Tian et al.* arXiv 2025. [[Paper](https://doi.org/10.48550/arXiv.2507.13737)]
@@ -698,13 +698,13 @@ Here are the growth trends of publications since 2022 and the model names cloud:
    *Bandyopadhyay et al.* arXiv 2025. [[Paper](https://doi.org/10.48550/arXiv.2508.01701)]
 
 4. **"ContextLLM: Meaningful Context Reasoning from Multi-Sensor and Multi-Device Data Using LLMs"**.  
-   *Post et al.* IMWUT 2025. [[Paper](https://doi.org/10.1145/3708468.3711892)]
+   *Post et al.* ACM HotMobile 2025. [[Paper](https://doi.org/10.1145/3708468.3711892)]
 
-5. **"Enabling On-Device LLMs Personalization with Sensor Prompts"**.  
-   *Zhang et al.* arXiv 2024. [[Paper](https://arxiv.org/pdf/2407.04418)]
+5. **"Enabling On-Device LLMs Personalization with Smartphone Sensing"**.  
+   *Zhang et al.* arXiv 2024. [[Paper](https://dl.acm.org/doi/10.1145/3675094.3677545)]
 
-6. **"ATCoFed: Semi-Supervised Federated Learning for Human Activity Transitions"**.  
-   *Bukit et al.* arXiv 2025. *(Not found in uploaded file — external verified source)* [[Paper](https://doi.org/10.48550/arXiv.2504.03989)]
+6. **"Activity transitions for semi-supervised federated learning in sensor-based human activity recognition"**.  
+   *Bukit et al.* Elsevier, Applied Soft Computing 2025. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1568494625011068)]
 
   
 
