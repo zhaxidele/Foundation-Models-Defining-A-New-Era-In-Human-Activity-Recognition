@@ -499,8 +499,8 @@ Here are the growth trends of publications since 2022 and the model names cloud:
   ###  Parameter-efficient fine-tuning (PEFT)
 
 
-1. **"LLaSA: Large Multimodal Agent for Human Activity Understanding"**.  
-   *Imran et al.* arXiv 2024. [[Paper](https://www.semanticscholar.org/paper/91edd1d52e4a11a2dc0fdfdb88113a7df7e6ab5c)]
+1. **"LLaSA: Large Multimodal Agent for Human Activity Analysis Through Wearable Sensors"**.  
+   *Imran et al.* arXiv 2024. [[Paper](https://www.semanticscholar.org/paper/91edd1d5ec1015952944c63fa43727e800699836)]
 
 2. **"A Novel Human Activity Recognition Framework Based on Pre-Trained Foundation Model (Chronos HAR Adapters)"**.  
    *Xiong et al.* IEEE BIBM 2024. *(No verified link available in file.)*
@@ -512,7 +512,7 @@ Here are the growth trends of publications since 2022 and the model names cloud:
    *Liu et al.* Sensors 2024. [[Paper](https://doi.org/10.3390/s24155045)]
 
 5. **"Time2Lang: Bridging Time-Series Foundation Models and Large Language Models for Health Sensing Beyond Prompting"**.  
-   *Pillai et al.* PMLR 2025. [[Paper](https://www.semanticscholar.org/paper/4bc428e7f171b04dc89100dcf8b42cb1b5ef4ff1)]
+   *Pillai et al.* PMLR 2025. [[Paper](https://arxiv.org/abs/2502.07608)]
 
 6. **"PhysLLM: Harnessing Large Language Models for Physiological Understanding"**.  
    *Xie et al.* arXiv 2025. [[Paper](https://doi.org/10.48550/arXiv.2505.03621)]
@@ -525,6 +525,32 @@ Here are the growth trends of publications since 2022 and the model names cloud:
 
 
   ###  Full or partial fine-tuning
+
+
+1. **"LIMU-BERT: Unleashing the Potential of Unlabeled Data for IMU Sensing Applications"**.  
+   *Xu et al.* SenSys 2021. [[Paper](https://doi.org/10.1145/3485730.3485937)]
+
+2. **"Scaling Wearable Foundation Models (LSM)"**.  
+   *Narayanswamy et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2410.13638)]
+
+3. **"LLM4HAR: Generalizable On-device Human Activity Recognition with Large Language Models"**.  
+   *Hong et al.* IMWUT 2025. [[Paper](https://doi.org/10.1145/3711896.3737226)]
+
+4. **"RelCon: Relative Contrastive Learning for a Motion Foundation Model for Wearable Data"**.  
+   *Xu et al.* ICLR 2025. [[Paper](https://doi.org/10.48550/arXiv.2411.18822)]
+
+5. **"SelfPAB: Large-Scale Pre-training on Accelerometer Recordings with Masked Spectrogram Reconstruction"**.  
+   *Logacjov et al.* Springer 2024. [[Paper](https://link.springer.com/content/pdf/10.1007/978-3-031-65394-0_20)]
+
+6. **"Spatial-Temporal Masked Autoencoder for Multi-Sensor Human Activity Recognition (STMAE)"**.  
+   *Miao et al.* ACM 2024. [[Paper](https://dl.acm.org/doi/pdf/10.1145/3631415)]
+
+7. **"Leveraging Large Language Models for Digital Phenotyping and Health Forecasting"**.  
+   *Yuan et al.* bioRxiv 2025. [[Paper](https://doi.org/10.1101/2025.05.10.25327354)]
+
+
+
+  
   ###  Instruction-tuning & alignment
 
 ## Downstream Capabilities
