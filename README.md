@@ -328,8 +328,32 @@ Here are the growth trends of publications since 2022 and the model names cloud:
 
 
 ## Data Landscape: Collected and Generated Corpora
-  ###  Corpora of sensor data collected in the wild
+###  Corpora of sensor data collected in the wild
+1. **"One Model to Fit Them All: Universal IMU-based Human Activity Recognition with LLM-assisted Cross-dataset Representation"**. *Wei et al.* IMWUT 2025. [[Paper](https://doi.org/10.1145/3749509)]
+
+2. **"CrossHAR: Generalizing Cross-Dataset Human Activity Recognition via Hierarchical Self-Supervised Pretraining"**. *Hong et al.* IMWUT 2024. [[Paper](https://doi.org/10.1145/3659597)]
+
+3. **"Self-Supervised Learning for Human Activity Recognition Using 700,000 Person-Days of Wearable Data"**. *Yuan et al.* npj Digital Medicine 2024. [[Paper](https://www.nature.com/articles/s41746-024-01062-3)]
+
+4. **"Toward Foundation Model for Multivariate Wearable Sensing of Physiological Signals"**. *Luo et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2412.09758)]
+
+5. **"SleepFM: Multi-Modal Representation Learning for Sleep Across Brain Activity, ECG and Respiratory Signals"**. *Thapa et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2404.16822)]
+
+6. **"Scaling Wearable Foundation Models"**. *Narayanswamy et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2410.13638)]
+
+7. **"DailyLLM: Context-Aware Activity Log Generation Using Multi-Modal Sensors and LLMs"**. *Tian et al.* arXiv 2025. [[Paper](https://arxiv.org/abs/2507.13737)]
+
+8. **"FM-Fi 2.0: Foundation Model for Cross-Modal Multi-Person Human Activity Recognition"**. *Weng et al.* IEEE TMC 2025. [[Paper](https://doi.org/10.1109/TMC.2025.3593406)]
+
+9. **"IMU2CLIP: Language-Grounded Motion Sensor Translation with Multimodal Contrastive Learning"**. *Moon et al.* EMNLP Findings 2023. [[Paper](https://aclanthology.org/2023.findings-emnlp.883/)]
+
+    
   ###  Generated datasets and augmentation
+
+
+
+
+
 
 ## Tokenization and Representation Strategies
   ###  Window-based and patch-level segmentation
