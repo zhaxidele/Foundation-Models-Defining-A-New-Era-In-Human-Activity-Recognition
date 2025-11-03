@@ -234,6 +234,6 @@ Here are the growth trends of publications since 2022 and the model names cloud:
 ### RF Datasets
 | Dataset | Sensors | Datasize | Subjects | Activities | 
 |:--|:--|:--|:--|:--| 
-| **mmWave (var.)**[[Paper]([https://arxiv.org/html/2502.01108v1](https://dl.acm.org/doi/abs/10.1145/3666025.3699349))] | Range–Doppler / RF point clouds | 5 h | 10 | daily activities (10 scenes) |
+| **mmWave (var.)**[[Paper](https://dl.acm.org/doi/abs/10.1145/3666025.3699349)] | Range–Doppler / RF point clouds | 5 h | 10 | daily activities (10 scenes) |
 | [**MM-Fi**](https://github.com/ybhbingo/MMFi_dataset) | mmWave, LiDAR, Wi‑Fi, RGB‑D | 10.6 h | 40 | 27 daily activities |
 
