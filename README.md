@@ -643,6 +643,26 @@ Here are the growth trends of publications since 2022 and the model names cloud:
 
   
   ###  Language-grounded captioning, Q&A, and reasoning
+
+1. **"Sensor2Text: Enabling Natural Language Interactions for Daily Activity Tracking Using Wearable Sensors"**.  
+   *Chen et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/pdf/10.1145/3699747)]
+
+2. **"SensorLM: Learning the Language of Wearable Sensors"**.  
+   *Zhang et al.* arXiv 2025. [[Paper](https://doi.org/10.48550/arXiv.2506.09108)]
+
+3. **"SensorLLM: Aligning Large Language Models with Motion Sensors for Human Activity Recognition"**.  
+   *Li et al.* arXiv 2024. [[Paper](https://doi.org/10.48550/arXiv.2410.10624)]
+
+4. **"Time2Lang: Bridging Time-Series Foundation Models and Large Language Models for Health Sensing Beyond Prompting"**.  
+   *Pillai et al.* PMLR 2025. [[Paper](https://www.semanticscholar.org/paper/4bc428e7f171b04dc89100dcf8b42cb1b5ef4ff1)]
+
+5. **"Visible Light Human Activity Recognition Driven by Generative Language Model"**.  
+   *Yang et al.* *Information Fusion* 2025. [[Paper](https://doi.org/10.1016/j.inffus.2025.103159)]
+
+6. **"LLMSense: Harnessing LLMs for High-Level Reasoning over Spatiotemporal Sensor Traces"**.  
+   *Ouyang et al.* SenSys-ML 2024. [[Paper](https://doi.org/10.1109/SenSys-ML62579.2024.00007)]
+
+  
   ###  Generative reconstruction, forecasting, and imputation
   ###  On-device, federated, and online adaptation
 
