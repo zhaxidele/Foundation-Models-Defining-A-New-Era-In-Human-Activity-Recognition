@@ -362,9 +362,6 @@ Here are the growth trends of publications since 2022 and the model names cloud:
 
 ## Tokenization and Representation Strategies
 ###  Window-based and patch-level segmentation
-## Window-Based and Patch-Level Segmentation
-
-## Window-Based and Patch-Level Segmentation
 
 1. **"RelCon: Relative Contrastive Learning for a Motion Foundation Model for Wearable Data"**. *Maxwell A. Xu et al.* arXiv 2024 (ICLR 2025). [[Paper](https://arxiv.org/abs/2411.18822)] 
 2. **"Speech Foundation Models Generalize to Time Series Tasks from Wearable Sensor Data"**. *Jaya Narain et al.* arXiv 2025. [[Paper](https://arxiv.org/abs/2509.00221)] 
