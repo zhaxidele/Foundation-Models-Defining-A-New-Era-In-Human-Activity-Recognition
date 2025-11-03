@@ -497,6 +497,33 @@ Here are the growth trends of publications since 2022 and the model names cloud:
 
 ## Adaptation Strategies
   ###  Parameter-efficient fine-tuning (PEFT)
+
+
+1. **"LLaSA: Large Multimodal Agent for Human Activity Understanding"**.  
+   *Imran et al.* arXiv 2024. [[Paper](https://www.semanticscholar.org/paper/91edd1d52e4a11a2dc0fdfdb88113a7df7e6ab5c)]
+
+2. **"A Novel Human Activity Recognition Framework Based on Pre-Trained Foundation Model (Chronos HAR Adapters)"**.  
+   *Xiong et al.* IEEE BIBM 2024. *(No verified link available in file.)*
+
+3. **"Leveraging Large Language Models for Digital Phenotyping and Health Forecasting"**.  
+   *Yuan et al.* bioRxiv 2025. [[Paper](https://doi.org/10.1101/2025.05.10.25327354)]
+
+4. **"Large Language Models for Wearable Sensor-Based Activity Understanding"**.  
+   *Liu et al.* Sensors 2024. [[Paper](https://doi.org/10.3390/s24155045)]
+
+5. **"Time2Lang: Bridging Time-Series Foundation Models and Large Language Models for Health Sensing Beyond Prompting"**.  
+   *Pillai et al.* PMLR 2025. [[Paper](https://www.semanticscholar.org/paper/4bc428e7f171b04dc89100dcf8b42cb1b5ef4ff1)]
+
+6. **"PhysLLM: Harnessing Large Language Models for Physiological Understanding"**.  
+   *Xie et al.* arXiv 2025. [[Paper](https://doi.org/10.48550/arXiv.2505.03621)]
+
+7. **"MHARFedLLM: Multimodal Human Activity Recognition Using Federated Large Language Model"**.  
+   *Bandyopadhyay et al.* arXiv 2025. [[Paper](https://doi.org/10.48550/arXiv.2508.01701)]
+
+8. **"GOAT: A Generalized Cross-Dataset Activity Recognition Framework"**.  
+   *Miao et al.* IMWUT 2024. [[Paper](https://doi.org/10.1145/3699736)]
+
+
   ###  Full or partial fine-tuning
   ###  Instruction-tuning & alignment
 
