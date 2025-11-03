@@ -557,7 +557,7 @@ Here are the growth trends of publications since 2022 and the model names cloud:
 1. **"StressLLM: Large Language Models for Stress Prediction and Biomarker Reasoning"**.  
    *Thapa et al.* IEEE ICCE 2025. [[Paper](https://doi.org/10.1109/ICCE63647.2025.10929774)]
 
-2. **"Leveraging LLMs to Predict Affective States via Multi-Modal Sensor Streams"**.  
+2. **"Leveraging Large Language Models for Digital Phenotyping: Detecting Depressive State Changes for Patients with Depressive Episodes"**.  
    *Yuan et al.* arXiv 2025. [[Paper](https://doi.org/10.1101/2025.05.10.25327354)]
 
 3. **"LAHAR: Leveraging Language Models for Human Activity Recognition"**.  
