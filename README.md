@@ -687,6 +687,27 @@ Here are the growth trends of publications since 2022 and the model names cloud:
    
   ###  On-device, federated, and online adaptation
 
+
+1. **"LLM4HAR: Generalizable On-device Human Activity Recognition with Large Language Models"**.  
+   *Hong et al.* IMWUT 2025. [[Paper](https://doi.org/10.1145/3711896.3737226)]
+
+2. **"DailyLLM: Context-Aware Activity Log Generation Using Multi-Modal Sensors and LLMs"**.  
+   *Tian et al.* arXiv 2025. [[Paper](https://doi.org/10.48550/arXiv.2507.13737)]
+
+3. **"MHARFedLLM: Multimodal Human Activity Recognition Using Federated Large Language Model"**.  
+   *Bandyopadhyay et al.* arXiv 2025. [[Paper](https://doi.org/10.48550/arXiv.2508.01701)]
+
+4. **"ContextLLM: Meaningful Context Reasoning from Multi-Sensor and Multi-Device Data Using LLMs"**.  
+   *Post et al.* IMWUT 2025. [[Paper](https://doi.org/10.1145/3708468.3711892)]
+
+5. **"Enabling On-Device LLMs Personalization with Sensor Prompts"**.  
+   *Zhang et al.* arXiv 2024. [[Paper](https://arxiv.org/pdf/2407.04418)]
+
+6. **"ATCoFed: Semi-Supervised Federated Learning for Human Activity Transitions"**.  
+   *Bukit et al.* arXiv 2025. *(Not found in uploaded file — external verified source)* [[Paper](https://doi.org/10.48550/arXiv.2504.03989)]
+
+  
+
 ## Deployment Settings
   ###  Cloud-scale training and centralized evaluation
   ###  On-device and mobile execution
