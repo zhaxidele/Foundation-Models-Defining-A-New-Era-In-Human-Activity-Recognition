@@ -292,3 +292,66 @@ Here are the growth trends of publications since 2022 and the model names cloud:
 12. **"Sensor2Text: Enabling Natural Language Interactions for Daily Activity Tracking Using Wearable Sensors"**. *Chen et al..* IMWUT 2024. [[Paper](https://doi.org/10.1145/3699747)]
 
 
+
+
+
+
+## Modality Scope**
+  ###  Unimodal foundation models
+  ###  Multimodal foundation models
+  ###  Cross-modal foundation models
+
+## Data Landscape: Collected and Generated Corpora**
+  ###  Corpora of sensor data collected in the wild
+  ###  Generated datasets and augmentation
+
+## Tokenization and Representation Strategies**
+  ###  Window-based and patch-level segmentation
+  ###  Feature-based aggregation and statistical embeddings
+  ###  Spectrogram and frequency-domain embeddings
+  ###  Discrete and quantized sensor tokens
+  ###  Multimodal alignment and positional encoding
+  ###  Token fusion and cross-modal projection
+
+## Base Architectures**
+  ###  Encoder-only stacks (discriminative encoders)
+  ###  Dual encoders (retrieval/alignment)
+  ###  Encoder–decoder stacks (conditional generation)
+  ###  Language-model stacks (encoder–decoder or decoder-only)
+
+## Pretraining Paradigms**
+  ###  Contrastive pretraining
+  ###  Generative pretraining
+  ###  Hybrid and self-supervised pretraining
+
+## Adaptation Strategies**
+  ###  Parameter-efficient fine-tuning (PEFT)
+  ###  Full or partial fine-tuning
+  ###  Instruction-tuning & alignment
+
+## Downstream Capabilities**
+  ###  Zero-/few-shot & open-set recognition
+  ###  Cross-dataset / cross-device / cross-user generalization
+  ###  Cross-modal retrieval and search
+  ###  Language-grounded captioning, Q&A, and reasoning
+  ###  Generative reconstruction, forecasting, and imputation
+
+## Deployment Settings**
+  ###  On-device, federated, and online adaptation
+  ###  Cloud-scale training and centralized evaluation
+  ###  On-device and mobile execution
+
+## Application Domains**
+  ###  General-purpose HAR / ADL
+
+
+
+
+
+
+
+
+
+
+
+
