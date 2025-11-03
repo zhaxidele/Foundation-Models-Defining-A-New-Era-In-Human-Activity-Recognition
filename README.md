@@ -180,26 +180,29 @@ Here are the growth trends of publications since 2022 and the model names cloud:
 
 
 
-### IMU + Multimodal Datasets
-| Dataset | Sensors | Datasize | Subjects | Activities |  
-|:--|:--|:--|:--|:--| 
-| **HARTH** | acc, video | 35.9 h | 22 | 12 daily activities | 
-| **MMAct** | RGB-video, keypoints, acc, gyro, ori, Wi-Fi, pressure | — | 40 | 37 activities | 
-| **RealWorld HAR** | acc, gyro, mag, GPS, light, sound level | 124.3 h | 15 | 8 daily activities | 
-| **UTD-MHAD** | RGB video, depth video, skeleton, acc, gyro | — | 8 | 27 activities | 
-| **MHEALTH** | acc, gyro, mag, ECG | — | 10 | 12 daily activities | 
-| **Berkeley MHAD** | acc, optical capture, video, depth, audio | 1.37 h | 12 | 11 daily activities | 
-| **PAMAP2** | acc, gyro, mag, heart rate | 10 h | 9 | 18 daily activities | 
-| **Opportunity** | acc, gyro, mag, ambient sensors | 25 h | 4 | 9 kitchen + 9 gestures | 
-| **MRI** | mmWave, RGB-D, IMU | 5.3 h | 20 | pose estimation | 
-| **NORMWEAR** | PPG, ECG, EEG, GSR, IMU | 14,943 h | 20 | pose estimation | 
-| **SensorLM** | PPG, EDA, ACC, TEMP, ALT | 59,749 h | 103,731 | sensor-language study | 
-| **Apple Study (AHMS; WBM)** | HealthKit metrics (27) | > 2.5 B h | 162 K | 57 health tasks | 
-| **WESAD** | EDA/PPG/Temp + Acc | 45 h | 15 | stress detection | 
-| **PPG-Dalia** | ECG, PPG, IMU, GSR | 36 h | 15 | daily activities | 
-
----
-
+| Dataset | Sensors | Datasize | Subjects | Activities |
+|:--|:--|:--|:--|:--|
+| [**RecGym**]([https://zhaxidele.github.io/RecGym/](https://www.kaggle.com/datasets/zhaxidelebsz/10-gym-exercises-with-615-abstracted-features)) | acc, gyro, human body capacitance | 50h | 10 | 12 fitness activities |
+| [**WEAR**](https://mariusbock.github.io/wear/) | acc, video | 19 h | 22 | 18 sports activities |
+| [**iSPL**](https://github.com/thunguyenth/HAR_IMU_Stretch) | acc, gyro, stretch | — | 1 | 9 daily activities |
+| [**HARTH**](https://archive.ics.uci.edu/dataset/779/harth) | acc, video | 35.9 h | 22 | 12 daily activities |
+| [**w-HAR**](https://github.com/gmbhat/human-activity-recognition) | acc, gyro, stretch | 3 h | 22 | 7 daily activities |
+| [**RealLifeHAR**](https://lbd.udc.es/research/real-life-HAR-dataset/) | acc, gyro, mag, GPS | — | 19 | 4 daily activities |
+| [**MMAct**](https://mmact19.github.io/2019/) | RGB, keypoints, acc, gyro, ori, Wi‑Fi, pressure | — | 40 | 37 activities |
+| [**HuGaDB**](https://github.com/romanchereshnev/HuGaDB) | acc, gyro, EMG | 10 h | 18 | 12 activities |
+| [**RealWorld HAR**](https://www.uni-mannheim.de/dws/research/projects/activity-recognition/dataset/dataset-realworld/) | acc, gyro, mag, GPS, light, sound level | 124.3 h | 15 | 8 daily activities |
+| [**ExtraSensory**](http://extrasensory.ucsd.edu/) | acc, gyro, mag, location, audio, additional | — | 60 | 51 activities |
+| [**UTD-MHAD**](https://personal.utdallas.edu/~kehtar/UTD-MHAD.html) | RGB, depth, skeleton, acc, gyro | — | 8 | 27 activities |
+| [**MHEALTH**](https://archive.ics.uci.edu/dataset/319/mhealth+dataset) | acc, gyro, mag, ECG | — | 10 | 12 daily activities |
+| [**Berkeley MHAD**](https://ieeexplore.ieee.org/document/6474999) | acc, optical capture, video, depth, audio | 1.37 h | 12 | 11 daily activities |
+| [**PAMAP2**](https://archive.ics.uci.edu/dataset/231/pamap2%2Bphysical%2Bactivity%2Bmonitoring) | acc, gyro, mag, HR | 10 h | 9 | 18 daily activities |
+| [**Opportunity**](https://archive.ics.uci.edu/dataset/226/opportunity%2Bactivity%2Brecognition) | acc, gyro, mag, ambient sensors | 25 h | 4 | 9 kitchen + 9 gestures |
+| [**MRI**](https://github.com/sizhean/mri) | mmWave, RGB-D, IMU | 5.3 h | 20 | pose estimation | 
+| [**NORMWEAR**](https://github.com/Mobile-Sensing-and-UbiComp-Laboratory/NormWear?tab=readme-ov-file)  | PPG, ECG, EEG, GSR, IMU | 14,943 h | 20 | pose estimation | 
+| [**SensorLM**](https://arxiv.org/abs/2506.09108)  | PPG, EDA, ACC, TEMP, ALT | 59,749 h | 103,731 | sensor-language study | 
+| [**Apple Study (AHMS; WBM)**](https://arxiv.org/html/2507.00191v1)  | HealthKit metrics (27) | > 2.5 B h | 162 K | 57 health tasks | 
+| [**WESAD**](https://archive.ics.uci.edu/dataset/465/wesad+wearable+stress+and+affect+detection)  | EDA/PPG/Temp + Acc | 45 h | 15 | stress detection | 
+| [**PPG-Dalia**](https://archive.ics.uci.edu/dataset/495/ppg+dalia)  | ECG, PPG, IMU, GSR | 36 h | 15 | daily activities | 
 
 ### Biosignal Datasets
 | Dataset | Sensors | Datasize | Subjects | Activities | 
