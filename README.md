@@ -246,6 +246,17 @@ Right: Representative model name cloud.
 
 ## Base Architecture
 
+<p align="center">
+    <img src="images/FM_HAR_BaseArchitecture.png" alt="Description" width="500">
+</p>
+<p align="center">
+Four base computation graphs for sensor foundation models. Dual encoders (top) independently embed sensor and
+text/vision streams and align them via a shared latent projection (CLIP-style) for retrieval/zero-shot transfer. Encoder–decoder
+stacks (bottom left) condition a language/multimodal decoder on encoded sensor tokens (cross-attention) to produce captions,
+rationales, or structured outputs. Language-model stacks (bottom right), either encoder–decoder or decoder-only, treat sensing as
+a token sequence using projection/quantization interfaces for forecasting, analysis, and reasoning.
+</p>
+
 ### Encoder-only stacks
 1. **"A Novel Human Activity Recognition Framework Based on Pre‑Trained Foundation Model (Chronos HAR Adapters)"**. *Xiong et al..* IEEE BIBM 2024. [[Paper](https://doi.org/10.1109/BIBM57916.2024.10240605)]
 2. **"Beyond Sensor Data: Foundation Models of Behavioral Data from Wearables Improve Health Predictions"**. *Erturk et al..* ICML 2025. [[Paper](https://arxiv.org/abs/2507.00191)]
