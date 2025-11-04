@@ -12,7 +12,6 @@ Contributions are welcome! Whether adding new papers, improving taxonomy coverag
 
 <p align="center">
     <img src="images/FM_HAR_TimeLine.png" alt="Description" width="500">
-    Historical development of sensor-based Human Activity Recognition (HAR) models.
 </p>
 <p align="center">
 Historical development of sensor-based Human Activity Recognition (HAR) models.
@@ -31,7 +30,7 @@ Here are the growth trends of publications since 2022 and the model names cloud:
 </p>
 
 <p align="center">
-Left: HAR-FM papers showing a sharp acceleration with the vast majority of works emerging since 2024. 
+Left: HAR-FM papers showing a sharp acceleration with the vast majority of works emerging since 2024. <br>
 Right: Representative model name cloud.
 </p>
 
