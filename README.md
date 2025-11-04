@@ -250,7 +250,7 @@ Right: Representative model name cloud.
     <img src="images/FM_HAR_BaseArchitecture.png" alt="Description" width="500">
 </p>
 <p align="center">
-our base computation graphs for sensor foundation models. Encoder-only stacks (top left) focus on representation learning
+Four base computation graphs for sensor foundation models. Encoder-only stacks (top left) focus on representation learning
 using a single sensor encoder (e.g., ViT or SSM) with lightweight heads for recognition, retrieval, or forecasting. Dual encoders
 (top right) independently embed sensor and text/vision streams and align them via a shared latent projection (CLIP-style) for
 retrieval/zero-shot transfer. Encoder–decoder stacks (bottom left) condition a language/multimodal decoder on encoded sensor
@@ -334,6 +334,9 @@ and reasoning.
 
 ## Modality Scope
 
+
+
+
 ###  Unimodal foundation models
 1. **"RelCon: Relative Contrastive Learning for a Motion Foundation Model for Wearable Data"**.  
    *Xu et al.* arXiv 2024 (ICLR 2025). [[Paper](https://doi.org/10.48550/arXiv.2411.18822)][[Code](https://github.com/maxxu05/relcon)]
@@ -403,6 +406,18 @@ and reasoning.
 
 
 ## Tokenization and Representation Strategies
+
+<p align="center">
+    <img src="images/FM_HAR_Tokenization.png" alt="Description" width="500">
+</p>
+<p align="center">
+Tokenization and representation for sensor-based HAR. Single-stream token formation converts raw signals (e.g., IMU, PPG,
+ambient/RF) into windows, statistical features, spectrograms, or quantized codes; cross-stream scaffolding then synchronizes modalities
+with positional/meta encodings and performs token fusion or cross-modal projection. The resulting tokens feed pretraining/training
+backbones (Transformer/ViT/LLM) for tasks such as classification, captioning, retrieval, and forecasting.
+</p>
+
+
 ###  Window-based and patch-level segmentation
 
 1. **"RelCon: Relative Contrastive Learning for a Motion Foundation Model for Wearable Data"**.  
@@ -479,6 +494,20 @@ and reasoning.
 2. **"FM-Fi 2.0: Foundation Model for Cross-Modal Multi-Person Human Activity Recognition"**. *Weng et al.* IEEE TMC 2025. [[Paper](https://doi.org/10.1109/TMC.2025.3593406)]
 
 ## Pretraining Paradigms
+
+<p align="center">
+    <img src="images/FM_HAR_Pretraining.png" alt="Description" width="500">
+</p>
+<p align="center">
+Pretraining paradigms for sensor-based HAR. Contrastive learns cross-view/cross-modal alignment in a shared latent space
+(CLIP-like), enabling zero-/few-shot transfer and retrieval. Generative uses masked reconstruction or causal prediction to model
+temporal continuity and support imputation and text-conditioned decoding. Hybrid / Self-supervised combines contrastive and
+generative objectives (often at scale) and introduces semantic grounding via language/distillation, improving robustness across users
+and devices.
+</p>
+
+
+
   ###  Contrastive pretraining
 
 1. **"Large Model for Small Data: Foundation Model for Cross-Modal RF Human Activity Recognition (FM-Fi)"**.  
@@ -539,6 +568,20 @@ and reasoning.
 
 
 ## Adaptation Strategies
+
+<p align="center">
+    <img src="images/FM_HAR_Adaptation.png" alt="Description" width="500">
+</p>
+<p align="center">
+Mechanism-centric view of adaptation in HAR foundation models. We emphasize how behavior is changed: PEFT keeps
+the backbone frozen and learns small add-ons (adapters, LoRA/QLoRA, learnable prefixes); Full/Partial fine-tuning updates all or
+selected layers for tighter task coupling; and Instruction-tuning & alignment spans prompt-only in-context learning (zero-update)
+and supervised formatting (SFT/PEFT on curated sensor–text exemplars and task templates) to ensure format adherence and faithful
+generation.
+</p>
+
+
+
   ###  Parameter-efficient fine-tuning (PEFT)
 
 
@@ -631,6 +674,23 @@ and reasoning.
 
 
 ## Downstream Capabilities
+
+<p align="center">
+    <img src="images/FM_HAR_DownstreamCapabilities.png" alt="Description" width="500">
+</p>
+<p align="center">
+Downstream capabilities and the accompanying generalization protocols used in sensor-based HAR. Top row (left→right):
+Zero-/few-shot & open-set: recognize unseen activities with 𝑘-shot label budgets and open-set rejection; Cross-dataset / device / user:
+train on dataset A and test on unseen datasets/devices/users with leave-one-out and cross-position splits; Cross-modal retrieval
+& search: sensortext/video retrieval evaluated by Recall@K and mAP under cross-domain splits with a shared embedding space.
+Bottom row: Captioning, Q&A, reasoning: sensor-conditioned decoding (prompts/PEFT), measured by caption/Q&A accuracy and
+human/expert ratings; Reconstruction, forecasting, imputation: masked-reconstruction/denoising and short/long-horizon forecasting
+under distribution shift; Federated & on-device evaluation: client-level personalization with communication rounds, reporting edge
+latency/energy and privacy constraints.
+</p>
+
+
+
   ###  Zero-/few-shot & open-set recognition
 
 
@@ -795,6 +855,17 @@ and reasoning.
 
 
 ## Application Domains
+
+<p align="center">
+    <img src="images/FM_HAR_Application.png" alt="Description" width="500">
+</p>
+<p align="center">
+Application domains for sensor-based HAR foundation models. The radial layout highlights four commonly targeted areas:
+general-purpose HAR / daily living, healthcare and wellbeing, smart-home and context-aware environments, and interactive/agentic
+assistants.
+</p>
+
+
   ###  General-purpose HAR / ADL
 
 
