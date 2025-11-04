@@ -119,8 +119,11 @@ Right: Representative model name cloud.
 </p>
 
 **Foundation Model**: Any model trained on broad data (generally using self-supervision at scale) that can be adapted (e.g., fine-tuned) to a wide range of downstream tasks.[[Paper](https://pubs.rsna.org/doi/full/10.1148/ryai.220119)]
+
 **Foundation Model in the CV Field**: A pre-trained model and its adapters capable of solving all vision tasks within the space–time–modality continuum (ranging from coarse to fine-grained, static to dynamic, and single (RGB) to multimodal sensory inputs) while supporting transferability through zero-/few-shot learning and fine-tuning. [[Paper](https://arxiv.org/abs/2111.11432)]
+
 **Foundation Model in the NLP Field**: The large Pretrained Language Models (PLMs), characterized by their ability to generate fluent text, handle multiple modalities, and follow natural-language instructions to perform diverse tasks.
+
 **Foundation Model in the HAR Field**: A pretrained, sensor-grounded model and its adapters that can solve diverse activity-understanding tasks across the sensing–temporal–context continuum
 while generalizing across sensor modalities, body placements, users, devices, and environments.
 
@@ -140,7 +143,7 @@ other models in this survey and to an aspirational “ideal” FM-for-HAR refere
 rather than a leaderboard.
 </p>
 
-Note: Although foundation models in HAR domain are still in their formative phase, a model should exhibit core hallmarks of the foundation model paradigm, not necessarily all at once, but in substance. These dimensions outline what defines a model as foundational: the ability to scale across data and users, generalize beyond training domains, adapt efficiently to new tasks, and support reuse across modalities and contexts. Collectively, they set a directional standard rather than a checklist, marking the shift from task-specific modeling toward unified, adaptable representations of human activity.
+*Note: Although foundation models in HAR domain are still in their formative phase, a model should exhibit core hallmarks of the foundation model paradigm, not necessarily all at once, but in substance. These dimensions outline what defines a model as foundational: the ability to scale across data and users, generalize beyond training domains, adapt efficiently to new tasks, and support reuse across modalities and contexts. Collectively, they set a directional standard rather than a checklist, marking the shift from task-specific modeling toward unified, adaptable representations of human activity.*
 
 ## Major Directions
 
