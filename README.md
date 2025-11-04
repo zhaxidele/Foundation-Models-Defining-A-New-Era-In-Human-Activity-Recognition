@@ -13,6 +13,7 @@ Contributions are welcome! Whether adding new papers, improving taxonomy coverag
 <p align="center">
     <img src="images/FM_HAR_TimeLine.png" alt="Description" width="500">
 </p>
+<center><img src="images/FM_HAR_TimeLine.png" alt="Description" width="500"></center>
 <center>Historical development of sensor-based Human Activity Recognition (HAR) models</center>
 
 <p align="center">
