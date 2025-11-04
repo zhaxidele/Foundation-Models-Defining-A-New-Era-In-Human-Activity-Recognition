@@ -250,11 +250,13 @@ Right: Representative model name cloud.
     <img src="images/FM_HAR_BaseArchitecture.png" alt="Description" width="500">
 </p>
 <p align="center">
-Four base computation graphs for sensor foundation models. Dual encoders (top) independently embed sensor and
-text/vision streams and align them via a shared latent projection (CLIP-style) for retrieval/zero-shot transfer. Encoder–decoder
-stacks (bottom left) condition a language/multimodal decoder on encoded sensor tokens (cross-attention) to produce captions,
-rationales, or structured outputs. Language-model stacks (bottom right), either encoder–decoder or decoder-only, treat sensing as
-a token sequence using projection/quantization interfaces for forecasting, analysis, and reasoning.
+our base computation graphs for sensor foundation models. Encoder-only stacks (top left) focus on representation learning
+using a single sensor encoder (e.g., ViT or SSM) with lightweight heads for recognition, retrieval, or forecasting. Dual encoders
+(top right) independently embed sensor and text/vision streams and align them via a shared latent projection (CLIP-style) for
+retrieval/zero-shot transfer. Encoder–decoder stacks (bottom left) condition a language/multimodal decoder on encoded sensor
+tokens (cross-attention) to produce captions, rationales, or structured outputs. Language-model stacks (bottom right), either
+encoder–decoder or decoder-only, treat sensing as a token sequence using projection/quantization interfaces for forecasting, analysis,
+and reasoning.
 </p>
 
 ### Encoder-only stacks
