@@ -11,12 +11,12 @@ Contributions are welcome! Whether adding new papers, improving taxonomy coverag
 ## The brief history of sensor-based HAR
 
 <p align="center">
-    <img src="images/FM_HAR_TimeLine.png" alt="Description" width="500">
+    <img src="images/FM_HAR_TimeLine.png" alt="Description" width="500" title=" This is a delicious bowl of ice cream.">
     <figcaption>Historical development of sensor-based Human Activity Recognition (HAR) models.</figcaption>
 </p>
 
 <figure>
-  <img src="images/FM_HAR_TimeLine.png" alt="Image description" width="500">
+  <img src="images/FM_HAR_TimeLine.png" alt="Image description" width="500" title=" This is a delicious bowl of ice cream.">
   <figcaption>Historical development of sensor-based Human Activity Recognition (HAR) models.</figcaption>
 </figure>
 
