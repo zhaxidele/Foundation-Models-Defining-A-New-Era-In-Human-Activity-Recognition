@@ -110,13 +110,16 @@ Here are the growth trends of publications since 2022 and the model names cloud:
 1. **"A Novel Human Activity Recognition Framework Based on Pre-Trained Foundation Model (Chronos HAR Adapters)"**. *Xiong et al..* IEEE BIBM 2024. [[Paper](https://doi.org/10.1109/BIBM57916.2024.10240605)]
 2. **"Self-supervised Learning for Human Activity Recognition Using 700,000 Person-days of Wearable Data"**. *Yuan et al..* npj Digital Medicine 2024. [[Paper](https://doi.org/10.1038/s41746-024-01062-3)][[Code](https://github.com/OxWearables/ssl-wearables)]
 3. **"Scaling Wearable Foundation Models"**. *Narayanswamy et al..* arXiv 2024. [[Paper](https://arxiv.org/abs/2410.13638v1)]
-4. **"RelCon: Relative Contrastive Learning for a Motion Foundation Model for Wearable Data"**. *Xu et al..* ICLR 2025. [[Paper](https://arxiv.org/abs/2411.18822v5)]
+4. **"RelCon: Relative Contrastive Learning for a Motion Foundation Model for Wearable Data"**.  
+   *Xu et al.* arXiv 2024 (ICLR 2025). [[Paper](https://doi.org/10.48550/arXiv.2411.18822)][[Code](https://github.com/maxxu05/relcon)]
+
 5. **"HAR-DoReMi: Optimizing Data Mixture for Self-Supervised Human Activity Recognition Across Heterogeneous IMU Datasets"**. *Ban et al..* arXiv 2025. [[Paper](https://arxiv.org/abs/2503.13542)]
 6. **"Beyond Sensor Data: Foundation Models of Behavioral Data from Wearables Improve Health Predictions"**. *Erturk et al..* arXiv 2025. [[Paper](https://arxiv.org/abs/2507.00191)]
-7. **"LIMU-BERT: Unleashing the Potential of Unlabeled Data for IMU Sensing Applications"**. *Xu et al..* SenSys 2021. [[Paper](https://dl.acm.org/doi/10.1145/3485730.3485937)]
-8. **"Cosmo: Contrastive Fusion Learning with Small Data for Multimodal Human Activity Recognition"**. *Ouyang et al..* MobiCom 2022. [[Paper](https://doi.org/10.1145/3495243.3560519)]
-9. **"Spatial-Temporal Masked Autoencoder for Multi-Device Wearable Human Activity Recognition (STMAE)"**. *Miao et al..* IMWUT 2024. [[Paper](https://doi.org/10.1145/3631415)]
-10. **"CrossHAR: Generalizing Cross-dataset Human Activity Recognition via Hierarchical Self-Supervised Pretraining"**. *Hong et al..* IMWUT 2024. [[Paper](https://doi.org/10.1145/3659597)]
+7. **"LIMU-BERT: Unleashing the Potential of Unlabeled Data for IMU Sensing Applications"**. *Xu et al..* SenSys 2021. [[Paper](https://dl.acm.org/doi/10.1145/3485730.3485937)][[Code](https://github.com/dapowan/LIMU-BERT-Public)]
+8. **"Cosmo: Contrastive Fusion Learning with Small Data for Multimodal Human Activity Recognition"**. *Ouyang et al..* MobiCom 2022. [[Paper](https://doi.org/10.1145/3495243.3560519)][[Code](https://github.com/xmouyang/Cosmo)]
+9. **"Spatial-Temporal Masked Autoencoder for Multi-Device Wearable Human Activity Recognition (STMAE)"**. *Miao et al..* IMWUT 2024. [[Paper](https://doi.org/10.1145/3631415)][[Code](https://github.com/wdkhuans/STMAE)]
+10. **"CrossHAR: Generalizing Cross-Dataset Human Activity Recognition via Hierarchical Self-Supervised Pretraining"**.  
+   *Hong et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/pdf/10.1145/3659597)][[Code](https://github.com/kingdomrush2/CrossHAR)]
 11. **"Pulse-PPG: An Open-Source Field-Trained PPG Foundation Model for Wearable Applications across Lab and Field Settings"**. *Saha et al..* IMWUT 2025. [[Paper](https://doi.org/10.1145/3749494)]
 12. **"RobustHAR: Multi-scale Spatial-temporal Masked Self-supervised Pre-training for Robust Human Activity Recognition"**. *Liu et al..* IJCAI 2025. [[Paper](https://doi.org/10.24963/ijcai.2025/952)]
 13. **"Towards Customizable Foundation Models for Human Activity Recognition with Wearable Devices"**. *Minghui Qiu et al.* IMWUT 2025. [[Paper](https://dl.acm.org/doi/10.1145/3749479)]
@@ -125,24 +128,27 @@ Here are the growth trends of publications since 2022 and the model names cloud:
 ### Adapting General Time-Series and Multimodal Foundation Models to HAR
 1. **"A Novel Human Activity Recognition Framework Based on Pre-Trained Foundation Model"**. *Fuhai Xiong et al.* BIBM 2024. [[Paper](https://ieeexplore.ieee.org/document/10822159)]
 2. **"Inertial Signal Forecasting with Foundation Model Techniques (Dual-View FM)"**. *Wieland & Pankratius.* IEEE Sensors Journal 2025 (accepted). [[Paper](https://sites.google.com/view/victorpankratius/publications)]
-3. **"IMU2CLIP: Multimodal Contrastive Learning for IMU Motion Sensors from Egocentric Videos and Text Narrations"**. *Moon et al..* EMNLP Findings 2023. [[Paper](https://aclanthology.org/2023.findings-emnlp.883/)]
-4. **"Weak-Annotation of HAR Datasets using Vision Foundation Models"**. *Bock et al..* ISWC 2024. [[Paper](https://dl.acm.org/doi/10.1145/3675095.3676613)]
-5. **"GOAT: A Generalized Cross-Dataset Activity Recognition Framework with Natural Language Supervision"**. *Miao & Chen.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/10.1145/3699736)]
-6. **"GEM: Empowering MLLM for Grounded ECG Understanding with Time Series and Images"**. *Lan et al..* arXiv 2025. [[Paper](https://arxiv.org/abs/2503.06073)]
-7. **"UniMTS: Unified Pre-training for Motion Time Series"**. *Zhang et al..* NeurIPS 2024. [[Paper](https://arxiv.org/abs/2410.19818)]
-8. **"Time2Lang: Bridging Time‑Series Foundation Models and Large Language Models for Health Sensing"**. *Pillai et al..* PMLR 2025. [[Paper](https://proceedings.mlr.press/v287/pillai25a.html)]
+3. **"IMU2CLIP: Multimodal Contrastive Learning for IMU Motion Sensors from Egocentric Videos and Text Narrations"**. *Moon et al..* EMNLP Findings 2023. [[Paper](https://aclanthology.org/2023.findings-emnlp.883/)][[Code](https://github.com/facebookresearch/imu2clip)]
+4. **"GOAT: A Generalized Cross-Dataset Activity Recognition Framework with Natural Language Supervision"**. *Miao & Chen.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/10.1145/3699736)]
+5. **"GEM: Empowering MLLM for Grounded ECG Understanding with Time Series and Images"**. *Lan et al..* arXiv 2025. [[Paper](https://arxiv.org/abs/2503.06073)][[Code](https://github.com/lanxiang1017/GEM)]
+6. **"UniMTS: Unified Pre-training for Motion Time Series"**. *Zhang et al..* NeurIPS 2024. [[Paper](https://arxiv.org/abs/2410.19818)][[Code](https://github.com/xiyuanzh/UniMTS)]
+7. **"Time2Lang: Bridging Time-Series Foundation Models and Large Language Models for Health Sensing Beyond Prompting"**.  
+   *Pillai et al.* PMLR 2025. [[Paper](https://arxiv.org/abs/2502.07608)][[Code](https://github.com/arvind1609/time2lang)]
 
 
 ### Leveraging Large Language Models for Human Activity Recognition
 1. **"LanHAR: Language-centered Human Activity Recognition"**. *Yan et al..* arXiv 2025. [[Paper](https://arxiv.org/abs/2410.00003)]
-2. **"SensorLLM: Aligning Large Language Models with Motion Sensors for Human Activity Recognition"**. *Li et al..* arXiv 2025. [[Paper](https://arxiv.org/abs/2410.10624)]
-3. **"Time2Lang: Bridging Time-Series Foundation Models and Large Language Models for Health Sensing Beyond Prompting"**. *Pillai et al..* CHIL (PMLR) 2025. [[Paper](https://proceedings.mlr.press/v287/pillai25a.html)]
+2. **"SensorLLM: Aligning Large Language Models with Motion Sensors for Human Activity Recognition"**.  
+   *Li et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2410.10624)][[Code](https://github.com/cruiseresearchgroup/SensorLLM)]
+3. **"Time2Lang: Bridging Time-Series Foundation Models and Large Language Models for Health Sensing Beyond Prompting"**.  
+   *Pillai et al.* PMLR 2025. [[Paper](https://arxiv.org/abs/2502.07608)][[Code](https://github.com/arvind1609/time2lang)]
 4. **"DailyLLM: Context-Aware Activity Log Generation Using Multi-Modal Sensors and LLMs"**. *Tian et al..* arXiv 2025. [[Paper](https://arxiv.org/abs/2507.13737)]
 5. **"ContextLLM: Meaningful Context Reasoning from Multi-Sensor and Multi-Device Data Using LLMs"**. *Post et al..* HotMobile 2025. [[Paper](https://dl.acm.org/doi/10.1145/3708468.3711892)]
 6. **"HARGPT: Are LLMs Zero-Shot Human Activity Recognizers?"**. *Ji et al..* arXiv 2024. [[Paper](https://arxiv.org/abs/2403.02727)]
-7. **"LLaSA: Large Multimodal Agent for Human Activity Analysis Through Wearable Sensors"**. *Imran et al..* arXiv 2024. [[Paper](https://arxiv.org/abs/2406.14498)]
+7. **"LLaSA: Large Multimodal Agent for Human Activity Analysis Through Wearable Sensors"**. *Imran et al..* arXiv 2024. [[Paper](https://arxiv.org/abs/2406.14498)][[Code](https://github.com/BASHLab/LLaSA)]
 8. **"StressLLM: Large Language Models for Stress Prediction via Wearable Sensor Data"**. *Thapa et al..* IEEE ICCE 2025. [[Paper](https://doi.org/10.1109/ICCE63647.2025.10929774)]
-9. **"SensorLM: Learning the Language of Wearable Sensors"**. *Zhang et al..* arXiv 2025. [[Paper](https://arxiv.org/abs/2506.09108)]
+9. **"SensorLM: Learning the Language of Wearable Sensors"**. *Zhang et al..* arXiv 2025. [[Paper](https://arxiv.org/abs/2506.09108)][[Code](https://github.com/google-health/consumer-health-research
+)]
 10. **"Sensor2Text: Enabling Natural Language Interactions for Daily Activity Tracking Using Wearable Sensors"**. *Chen et al..* IMWUT 2024. [[Paper](https://doi.org/10.1145/3699747)]
 
 
@@ -239,60 +245,68 @@ Here are the growth trends of publications since 2022 and the model names cloud:
 ### Encoder-only stacks
 1. **"A Novel Human Activity Recognition Framework Based on Pre‑Trained Foundation Model (Chronos HAR Adapters)"**. *Xiong et al..* IEEE BIBM 2024. [[Paper](https://doi.org/10.1109/BIBM57916.2024.10240605)]
 2. **"Beyond Sensor Data: Foundation Models of Behavioral Data from Wearables Improve Health Predictions"**. *Erturk et al..* ICML 2025. [[Paper](https://arxiv.org/abs/2507.00191)]
-3. **"Cosmo: Contrastive Fusion Learning with Small Data for Multimodal Human Activity Recognition"**. *Ouyang et al..* MobiCom 2022. [[Paper](https://dl.acm.org/doi/10.1145/3496968.3497015)]
-4. **"CrossHAR: Generalizing Cross‑dataset Human Activity Recognition via Hierarchical Self‑Supervised Pretraining"**. *Hong et al..* IMWUT 2024. [[Paper](https://doi.org/10.1145/3631234)]
+3. **"Cosmo: Contrastive Fusion Learning with Small Data for Multimodal Human Activity Recognition"**. *Ouyang et al..* MobiCom 2022. [[Paper](https://doi.org/10.1145/3495243.3560519)][[Code](https://github.com/xmouyang/Cosmo)]
+4. **"CrossHAR: Generalizing Cross-Dataset Human Activity Recognition via Hierarchical Self-Supervised Pretraining"**.  
+   *Hong et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/pdf/10.1145/3659597)][[Code](https://github.com/kingdomrush2/CrossHAR)]
 5. **"HAR‑DoReMi: Optimizing Data Mixture for Self‑Supervised Human Activity Recognition Across Heterogeneous IMU Datasets"**. *Ban et al..* arXiv 2025. [[Paper](https://arxiv.org/abs/2503.01234)]
 6. **"Layout‑Agnostic Human Activity Recognition in Smart Homes through Textual Descriptions Of Sensor Triggers (TDOST)"**. *Thukral et al..* IMWUT 2025. [[Paper](https://dl.acm.org/doi/10.1145/3712278)]
-7. **"LIMU‑BERT: Unleashing the Potential of Unlabeled Data for IMU Sensing Applications"**. *Xu et al..* SenSys 2021. [[Paper](https://dl.acm.org/doi/10.1145/3485730.3485783)]
+7. **"LIMU-BERT: Unleashing the Potential of Unlabeled Data for IMU Sensing Applications"**. *Xu et al..* SenSys 2021. [[Paper](https://dl.acm.org/doi/10.1145/3485730.3485937)][[Code](https://github.com/dapowan/LIMU-BERT-Public)]
 8. **"MASTER: A Multi‑modal Foundation Model for Human Activity Recognition"**. *Zhu et al..* IMWUT 2025. [[Paper](http://dx.doi.org/10.1145/3749511)]
 9. **"Pulse‑PPG: An Open‑Source Field‑Trained PPG Foundation Model for Wearable Applications across Lab and Field Settings"**. *Saha et al..* IMWUT 2025. [[Paper](https://doi.org/10.1145/3786408.3811654)]
-10. **"RelCon: Relative Contrastive Learning for a Motion Foundation Model for Wearable Data"**. *Xu et al..* ICLR 2025. [[Paper](https://arxiv.org/abs/2411.18822v5)]
-11. **"Self‑Supervised Learning for Human Activity Recognition Using 700,000 Person‑days of Wearable Data"**. *Yuan et al..* npj Digital Medicine 2024. [[Paper](https://doi.org/10.1038/s41746-024-01062-3)]
-12. **"SelfPAB: Large‑Scale Pre‑training on Accelerometer Data for Human Activity Recognition"**. *Logacjov et al..* Applied Intelligence 2024. [[Paper](https://doi.org/10.1007/s10489-024-05322-3)]
+10. **"RelCon: Relative Contrastive Learning for a Motion Foundation Model for Wearable Data"**.  
+   *Xu et al.* arXiv 2024 (ICLR 2025). [[Paper](https://doi.org/10.48550/arXiv.2411.18822)][[Code](https://github.com/maxxu05/relcon)]
+
+11. **"Self-supervised Learning for Human Activity Recognition Using 700,000 Person-days of Wearable Data"**. *Yuan et al..* npj Digital Medicine 2024. [[Paper](https://doi.org/10.1038/s41746-024-01062-3)][[Code](https://github.com/OxWearables/ssl-wearables)]
+12. **"SelfPAB: Large‑Scale Pre‑training on Accelerometer Data for Human Activity Recognition"**. *Logacjov et al..* Applied Intelligence 2024. [[Paper](https://doi.org/10.1007/s10489-024-05322-3)][[Code](https://github.com/ntnu-ai-lab/SelfPAB)]
 13. **"Speech Foundation Models Generalize to Time Series Tasks from Wearable Sensor Data"**. *Narain et al..* arXiv 2025. [[Paper](https://arxiv.org/abs/2509.00221v1)]
 14. **"Towards Customizable Foundation Models for Human Activity Recognition with Wearable Devices (HAR‑FM)"**. *Qiu et al..* IMWUT 2025. [[Paper](http://dx.doi.org/10.1145/3749479)]
 
 
 ### Dual-encoder
 1. **"FM-Fi 2.0: Foundation Model for Cross-Modal Multi-Person Human Activity Recognition"**. *Weng et al..* IEEE TMC 2025. [[Paper](https://doi.org/10.1109/TMC.2025.3593406)]
-2. **"IMU2CLIP: Multimodal Contrastive Learning for IMU Motion Sensors from Egocentric Videos and Text Narrations"**. *Moon et al..* EMNLP 2023. [[Paper](https://aclanthology.org/2023.findings-emnlp.883/)]
+2. **"IMU2CLIP: Multimodal Contrastive Learning for IMU Motion Sensors from Egocentric Videos and Text Narrations"**. *Moon et al..* EMNLP 2023. [[Paper](https://aclanthology.org/2023.findings-emnlp.883/)][[Code](https://github.com/facebookresearch/imu2clip)]
 3. **"Inertial Signal Forecasting with Foundation Model Techniques (Dual-View FM)"**. *Wieland et al..* Sensors 2025. [[Paper](https://doi.org/10.3390/s25030834)]
 4. **"Large Model for Small Data: Foundation Model for Cross-Modal RF Human Activity Recognition (FM-Fi)"**. *Weng et al..* SenSys 2024. [[Paper](https://doi.org/10.1145/3589132.3625578)]
 5. **"Limitations in Employing Natural Language Supervision for Sensor-Based Human Activity Recognition – And Ways to Overcome Them"**. *Haresamudram et al..* AAAI 2025.
 6. **"Multimodal Foundation Model for Cross-Modal Retrieval and Activity Recognition (AURA-MFM)"**. *Matsuishi et al..* arXiv 2025. [[Paper](https://arxiv.org/abs/2506.03174)]
-7. **"PRimuS: Pretraining IMU Encoders with Multimodal Self-Supervision"**. *Das et al..* ICASSP 2025.
-8. **"SensorLM: Learning the Language of Wearable Sensors"**. *Zhang et al..* arXiv 2025. [[Paper](https://arxiv.org/abs/2506.09108)]
-9. **"SleepFM: Multi-modal Representation Learning for Sleep Across Brain Activity, ECG and Respiratory Signals"**. *Thapa et al..* arXiv 2024. [[Paper](https://arxiv.org/abs/2405.17766v1)]
-10. **"Toward Foundation Model for Multivariate Wearable Sensing of Physiological Signals (NORMWEAR)"**. *Luo et al..* arXiv 2025.
-11. **"UniMTS – Unified Pre-training for Motion Time-Series"**. *Zhang et al..* NeurIPS 2024. [[Paper](https://openreview.net/forum?id=NeurIPS2024-UniMTS)]
-12. **"Weak-Annotation of HAR Datasets using Vision Foundation Models"**. *Bock et al..* ISWC 2024.
-13. **"Gem: Empowering mllm for grounded ecg understanding with time series and images"**. *Xiang Lan et al.* Arxiv 2025. [[Paper](https://arxiv.org/abs/2503.06073)]
+7. **"PRimuS: Pretraining IMU Encoders with Multimodal Self-Supervision"**. *Das et al..* ICASSP 2025. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10888874)][[Code]([https://arxiv.org/abs/2506.03174](https://github.com/Nokia-Bell-Labs/pretrained-imu-encoders)]
+8. **"SensorLM: Learning the Language of Wearable Sensors"**. *Zhang et al..* arXiv 2025. [[Paper](https://arxiv.org/abs/2506.09108)][[Code](https://github.com/google-health/consumer-health-research)]
+9. **"SleepFM: Multi-modal Representation Learning for Sleep Across Brain Activity, ECG and Respiratory Signals"**.  
+   *Thapa et al.* ICML 2024. [[Paper](https://doi.org/10.48550/arXiv.2405.17766)][[Code](https://github.com/rthapa84/sleepfm-codebase)]
+10. **"Toward Foundation Model for Multivariate Wearable Sensing of Physiological Signals (NORMWEAR)"**.  
+   *Luo et al.* arXiv 2024. [[Paper](https://doi.org/10.48550/arXiv.2412.09758)][[Code](https://github.com/Mobile-Sensing-and-UbiComp-Laboratory/NormWear)]
+11. **"UniMTS – Unified Pre-training for Motion Time-Series"**. *Zhang et al..* NeurIPS 2024. [[Paper](https://openreview.net/forum?id=NeurIPS2024-UniMTS)][[Code](https://github.com/xiyuanzh/UniMTS)]
+12. **"GEM: Empowering MLLM for Grounded ECG Understanding with Time Series and Images"**. *Lan et al..* arXiv 2025. [[Paper](https://arxiv.org/abs/2503.06073)][[Code](https://github.com/lanxiang1017/GEM)]
 
 
     
 ### Encoder-decoder stacks
 1. **"LSM: Large-Scale Masked Modeling of Daily Summaries for Population-Level Behavior Modeling"**. *—.* arXiv 2025. [[Paper](https://arxiv.org/abs/2506.09010)]
-2. **"NORMWEAR: Normalization-Enhanced Pretraining of Physiological Signals for Wearable Sensing"**. *Luo et al..* arXiv 2025. [[Paper](https://arxiv.org/abs/2505.02512)]
-3. **"RobustHAR: Multi-scale Spatial-temporal Masked Self-supervised Pre-training for Robust Human Activity Recognition"**. *Liu et al..* IMWUT 2025.
-4. **"Scaling Wearable Foundation Models"**. *Narayanswamy et al..* ARXIV 2024.
-5. **"SelfPAB: Large-Scale Pre-training on Accelerometer Data for Human Activity Recognition"**. *Logacjov et al..* — 2024.
+2. **"Toward Foundation Model for Multivariate Wearable Sensing of Physiological Signals (NORMWEAR)"**.  
+   *Luo et al.* arXiv 2024. [[Paper](https://doi.org/10.48550/arXiv.2412.09758)][[Code](https://github.com/Mobile-Sensing-and-UbiComp-Laboratory/NormWear)]
+3. **"RobustHAR: Multi-Scale Spatial-Temporal Masked Autoencoder for Robust Human Activity Recognition"**.  
+   *Liu et al.* IJCAI 2025. [[Paper](https://doi.org/10.24963/ijcai.2025/952)]
+4. **"Scaling Wearable Foundation Models"**. *Narayanswamy et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2410.13638)]
+5. **"SelfPAB: Large-Scale Pre-training on Accelerometer Data for Human Activity Recognition"**. *Logacjov et al..* Applied Intelligence 2024. [[Paper](https://link.springer.com/article/10.1007/s10489-024-05322-3)][[Code](https://github.com/ntnu-ai-lab/SelfPAB)]
 6. **"Sensor2Text: Enabling Natural Language Interactions for Daily Activity Tracking Using Wearable Sensors"**. *Chen et al..* IMWUT 2024. [[Paper](https://dl.acm.org/doi/10.1145/3699747)]
-7. **"SensorLM: Learning the Language of Wearable Sensors"**. *Zhang et al..* arXiv 2025. [[Paper](https://arxiv.org/abs/2506.09108)]
-8. **"Spatial-Temporal Masked Autoencoder for Multi-Device Wearable Human Activity Recognition (STMAE)"**. *Miao et al..* IMWUT 2023.
-9. **"STMAE: Structured Temporal Masked Autoencoding for Sensor Reconstruction"**. *—.* arXiv 2024. [[Paper](https://arxiv.org/abs/2405.02541)]
-10. **"Toward Foundation Model for Multivariate Wearable Sensing of Physiological Signals (NORMWEAR)"**. *Luo et al..* ARXIV 2025.
+7. **"SensorLM: Learning the Language of Wearable Sensors"**. *Zhang et al..* arXiv 2025. [[Paper](https://arxiv.org/abs/2506.09108)][[Code](https://github.com/google-health/consumer-health-research)]
+8. **"Spatial-Temporal Masked Autoencoder for Multi-Device Wearable Human Activity Recognition (STMAE)"**. *Miao et al..* IMWUT 2024. [[Paper](https://doi.org/10.1145/3631415)][[Code](https://github.com/wdkhuans/STMAE)]
+9. **"Toward Foundation Model for Multivariate Wearable Sensing of Physiological Signals (NORMWEAR)"**.  
+   *Luo et al.* arXiv 2024. [[Paper](https://doi.org/10.48550/arXiv.2412.09758)][[Code](https://github.com/Mobile-Sensing-and-UbiComp-Laboratory/NormWear)]
 
 ### Language-model stacks
-1. **"SensorLM: Learning the Language of Wearable Sensors"**. *Zhang et al..* arXiv 2025. [[Paper](https://arxiv.org/abs/2506.09108)]
-2. **"Time2Lang: Bridging Time‑Series Foundation Models and Natural Language"**. *Pillai et al..* PMLR 2025. [[Paper](https://proceedings.mlr.press/v287/pillai25a.html)]
-3. **"SensorLLM: Aligning Large Language Models with Motion Sensors for Human Activity Recognition"**. *Li et al..* arXiv 2024. [[Paper](https://arxiv.org/abs/2410.10624)]
-4. **"LLaSA: A Multimodal LLM for Human Activity Analysis Through Wearable and Smartphone Sensors"**. *Imran et al..* arXiv 2024. [[Paper](https://arxiv.org/abs/2406.14498)]
+1. **"SensorLM: Learning the Language of Wearable Sensors"**. *Zhang et al..* arXiv 2025. [[Paper](https://arxiv.org/abs/2506.09108)][[Code](https://github.com/google-health/consumer-health-research)]
+2. **"Time2Lang: Bridging Time-Series Foundation Models and Large Language Models for Health Sensing Beyond Prompting"**.  
+   *Pillai et al.* PMLR 2025. [[Paper](https://arxiv.org/abs/2502.07608)][[Code](https://github.com/arvind1609/time2lang)]
+3. **"SensorLLM: Aligning Large Language Models with Motion Sensors for Human Activity Recognition"**.  
+   *Li et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2410.10624)][[Code](https://github.com/cruiseresearchgroup/SensorLLM)]
+4. **"LLaSA: A Multimodal LLM for Human Activity Analysis Through Wearable and Smartphone Sensors"**. *Imran et al..* arXiv 2024. [[Paper](https://arxiv.org/abs/2406.14498)][[Code](https://github.com/BASHLab/LLaSA)]
 5. **"HARGPT: A Language‑Conditioned Foundation Model for Human Activity Recognition"**. *Ji et al..* arXiv 2024. [[Paper](https://arxiv.org/abs/2403.19526)]
 6. **"LanHAR: Language‑Driven Human Activity Recognition"**. *Yan et al..* arXiv 2024. [[Paper](https://arxiv.org/abs/2410.00003)]
 7. **"StressLLM: Large Language Models for Wearable Stress Detection"**. *Thapa et al..* arXiv 2025. [[Paper](https://arxiv.org/abs/2506.04817)]
 8. **"DailyLLM: Large Language Models for Daily Behavior Understanding"**. *Kang et al..* arXiv 2025. [[Paper](https://arxiv.org/abs/2505.04563)]
 9. **"ContextLLM: Multimodal Context Understanding from Wearable Devices"**. *Wang et al..* arXiv 2025. [[Paper](https://arxiv.org/abs/2506.07114)]
-10. **"Health‑LLM: Aligning Large Language Models with Wearable Sensor Health Data"**. *Liu et al..* Information Fusion 2025. [[Paper](https://doi.org/10.1016/j.inffus.2025.103403)]
+10. **"Health‑LLM: Aligning Large Language Models with Wearable Sensor Health Data"**. *Liu et al..* Information Fusion 2025. [[Paper](https://doi.org/10.1016/j.inffus.2025.103403)][[Code](https://github.com/mitmedialab/Health-LLM)]
 11. **"SensorGPT: Generative Pretraining for Wearable Sensing"**. *Sharma et al..* arXiv 2025. [[Paper](https://arxiv.org/abs/2504.06512)]
 12. **"Sensor2Text: Enabling Natural Language Interactions for Daily Activity Tracking Using Wearable Sensors"**. *Chen et al..* IMWUT 2024. [[Paper](https://doi.org/10.1145/3699747)]
 
@@ -304,21 +318,25 @@ Here are the growth trends of publications since 2022 and the model names cloud:
 ## Modality Scope
 
 ###  Unimodal foundation models
-1. **"RelCon: Relative Contrastive Learning for a Motion Foundation Model for Wearable Data"**. *Xu et al.* ICLR 2025. [[Paper](https://arxiv.org/abs/2411.18822)]  
+1. **"RelCon: Relative Contrastive Learning for a Motion Foundation Model for Wearable Data"**.  
+   *Xu et al.* arXiv 2024 (ICLR 2025). [[Paper](https://doi.org/10.48550/arXiv.2411.18822)][[Code](https://github.com/maxxu05/relcon)]
+
 2. **"One Model to Fit Them All: Universal IMU-based Human Activity Recognition with LLM-assisted Cross-dataset Representation"**. *Wei et al.* IMWUT 2025. [[Paper](https://doi.org/10.1145/3749509)]  
-3. **"SelfHAR-700k: Self-Supervised Learning for Human Activity Recognition Using 700,000 Person-Days of Wearable Data"**. *Yuan et al.* npj Digital Medicine 2024. [[Paper](https://www.nature.com/articles/s41746-024-01062-3)]  
+3. **"Self-supervised Learning for Human Activity Recognition Using 700,000 Person-days of Wearable Data"**. *Yuan et al..* npj Digital Medicine 2024. [[Paper](https://doi.org/10.1038/s41746-024-01062-3)][[Code](https://github.com/OxWearables/ssl-wearables)] 
 4. **"Pulse-PPG: An Open-Source Field-Trained PPG Foundation Model for Wearable Applications"**. *Saha et al.* IMWUT 2025. [[Paper](https://doi.org/10.1145/3749494)]  
 
 ###  Multimodal foundation models
 1. **"Towards Customizable Foundation Models for Human Activity Recognition with Wearable Devices"**. *Qiu et al.* arXiv 2025. [[Paper](https://dl.acm.org/doi/abs/10.1145/3749479)]  
 2. **"MASTER: A Multi-modal Foundation Model for Human Activity Recognition"**. *Zhu et al.* IEEE TMC 2025. [[Paper](https://dl.acm.org/doi/10.1145/3749511)]  
-3. **"NORMWEAR: Toward Foundation Models for Multivariate Wearable Sensing of Physiological Signals"**. *Luo et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2412.09758)]  
+3. **"Toward Foundation Model for Multivariate Wearable Sensing of Physiological Signals (NORMWEAR)"**.  
+   *Luo et al.* arXiv 2024. [[Paper](https://doi.org/10.48550/arXiv.2412.09758)][[Code](https://github.com/Mobile-Sensing-and-UbiComp-Laboratory/NormWear)]
 4. **"MuJo: Multimodal Joint Feature Space Learning for Human Activity Recognition"**. *Fritsch et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2406.03857)]  
 
 ###  Cross-modal foundation models
-1. **"SensorLM: Learning the Language of Wearable Sensors"**. *Zhang et al.* arXiv 2025. [[Paper](https://arxiv.org/abs/2506.09108)]  
-2. **"SensorLLM: Aligning Large Language Models with Motion Sensors for Human Activity Recognition"**. *Li et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2410.10624)]  
-3. **"IMU2CLIP: Multimodal Contrastive Learning for IMU Motion Sensors from Egocentric Videos and Text"**. *Moon et al.* EMNLP Findings 2023. [[Paper](https://arxiv.org/abs/2210.14395)]  
+1. **"SensorLM: Learning the Language of Wearable Sensors"**. *Zhang et al.* arXiv 2025. [[Paper](https://arxiv.org/abs/2506.09108)][[Code](https://github.com/google-health/consumer-health-research)]  
+2. **"SensorLLM: Aligning Large Language Models with Motion Sensors for Human Activity Recognition"**.  
+   *Li et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2410.10624)][[Code](https://github.com/cruiseresearchgroup/SensorLLM)]
+3. **"IMU2CLIP: Multimodal Contrastive Learning for IMU Motion Sensors from Egocentric Videos and Text"**. *Moon et al.* EMNLP Findings 2023. [[Paper](https://arxiv.org/abs/2210.14395)][[Code](https://github.com/facebookresearch/imu2clip)]  
 4. **"FM-Fi 2.0: Foundation Model for Cross-Modal Multi-Person Human Activity Recognition"**. *Weng et al.* IEEE TMC 2025. [[Paper](https://doi.org/10.1109/TMC.2025.3593406)]  
 5. **"Leveraging foundation models for zero-shot IoT sensing"**. *Xue et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2407.19893)]  
 
@@ -331,19 +349,21 @@ Here are the growth trends of publications since 2022 and the model names cloud:
 ###  Corpora of sensor data collected in the wild
 1. **"One Model to Fit Them All: Universal IMU-based Human Activity Recognition with LLM-assisted Cross-dataset Representation"**. *Wei et al.* IMWUT 2025. [[Paper](https://doi.org/10.1145/3749509)]
 
-2. **"CrossHAR: Generalizing Cross-Dataset Human Activity Recognition via Hierarchical Self-Supervised Pretraining"**. *Hong et al.* IMWUT 2024. [[Paper](https://doi.org/10.1145/3659597)]
+2. **"CrossHAR: Generalizing Cross-Dataset Human Activity Recognition via Hierarchical Self-Supervised Pretraining"**.  
+   *Hong et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/pdf/10.1145/3659597)][[Code](https://github.com/kingdomrush2/CrossHAR)]
 
-3. **"Self-Supervised Learning for Human Activity Recognition Using 700,000 Person-Days of Wearable Data"**. *Yuan et al.* npj Digital Medicine 2024. [[Paper](https://www.nature.com/articles/s41746-024-01062-3)]
+3. **"Self-supervised Learning for Human Activity Recognition Using 700,000 Person-days of Wearable Data"**. *Yuan et al..* npj Digital Medicine 2024. [[Paper](https://doi.org/10.1038/s41746-024-01062-3)][[Code](https://github.com/OxWearables/ssl-wearables)]
 
 4. **"Toward Foundation Model for Multivariate Wearable Sensing of Physiological Signals"**. *Luo et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2412.09758)]
 
-5. **"SleepFM: Multi-Modal Representation Learning for Sleep Across Brain Activity, ECG and Respiratory Signals"**. *Thapa et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2405.17766)]
+5. **"SleepFM: Multi-modal Representation Learning for Sleep Across Brain Activity, ECG and Respiratory Signals"**.  
+   *Thapa et al.* ICML 2024. [[Paper](https://doi.org/10.48550/arXiv.2405.17766)][[Code](https://github.com/rthapa84/sleepfm-codebase)]
 
 6. **"Scaling Wearable Foundation Models"**. *Narayanswamy et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2410.13638)]
 
 7. **"DailyLLM: Context-Aware Activity Log Generation Using Multi-Modal Sensors and LLMs"**. *Tian et al.* arXiv 2025. [[Paper](https://arxiv.org/abs/2507.13737)]
 
-8. **"IMU2CLIP: Language-Grounded Motion Sensor Translation with Multimodal Contrastive Learning"**. *Moon et al.* EMNLP Findings 2023. [[Paper](https://arxiv.org/abs/2210.14395)]
+8. **"IMU2CLIP: Language-Grounded Motion Sensor Translation with Multimodal Contrastive Learning"**. *Moon et al.* EMNLP Findings 2023. [[Paper](https://arxiv.org/abs/2210.14395)][[Code](https://github.com/facebookresearch/imu2clip)]
 
     
   ###  Generated datasets and augmentation
@@ -354,19 +374,27 @@ Here are the growth trends of publications since 2022 and the model names cloud:
 
 3. **"TxP: Reciprocal Generation of Ground Pressure Dynamics and Activity Descriptions for Improving Human Activity Recognition"**. *Lala et al.* IEEE TMC 2025. [[Paper](https://arxiv.org/abs/2505.02052)]
 
-4. **"CrossHAR: Generalizing Cross-Dataset Human Activity Recognition via Hierarchical Self-Supervised Pretraining"**. *Hong et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/10.1145/3659597)]
+4. **"CrossHAR: Generalizing Cross-Dataset Human Activity Recognition via Hierarchical Self-Supervised Pretraining"**.  
+   *Hong et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/pdf/10.1145/3659597)][[Code](https://github.com/kingdomrush2/CrossHAR)]
 
+5. **"IMUGPT 2.0: Language-Based Cross Modality Transfer for Sensor-Based Human Activity Recognition"**. *Leng et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/10.1145/3678545)][[Code](https://github.com/ZikangLeng/IMUGPT)]
 
+6. **"AI-Generated Fall Data: Assessing LLMs and Diffusion Model for Wearable Fall Detection"**. *Sana et al.* MDPI Sensors 2025. [[Paper](https://www.mdpi.com/1424-8220/25/16/5144)][[Code](https://github.com/txst-cs-smartfall/LLM-based-synthetic-fall-data-generation)]
+
+7. **"Weak-Annotation of HAR Datasets using Vision Foundation Models"**. *Bock et al..* ISWC 2024. [[Paper](https://dl.acm.org/doi/10.1145/3675095.3676613)][[Code](https://github.com/mariusbock/weak_har)]
 
 
 
 ## Tokenization and Representation Strategies
 ###  Window-based and patch-level segmentation
 
-1. **"RelCon: Relative Contrastive Learning for a Motion Foundation Model for Wearable Data"**. *Maxwell A. Xu et al.* arXiv 2024 (ICLR 2025). [[Paper](https://arxiv.org/abs/2411.18822)] 
+1. **"RelCon: Relative Contrastive Learning for a Motion Foundation Model for Wearable Data"**.  
+   *Xu et al.* arXiv 2024 (ICLR 2025). [[Paper](https://doi.org/10.48550/arXiv.2411.18822)][[Code](https://github.com/maxxu05/relcon)]
+
 2. **"Speech Foundation Models Generalize to Time Series Tasks from Wearable Sensor Data"**. *Jaya Narain et al.* arXiv 2025. [[Paper](https://arxiv.org/abs/2509.00221)] 
 
-3. **"SleepFM: Multi-modal Representation Learning for Sleep Across Brain Activity, ECG and Respiratory Signals"**. *Rahul Thapa et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2405.17766)] 
+3. **"SleepFM: Multi-modal Representation Learning for Sleep Across Brain Activity, ECG and Respiratory Signals"**.  
+   *Thapa et al.* ICML 2024. [[Paper](https://doi.org/10.48550/arXiv.2405.17766)][[Code](https://github.com/rthapa84/sleepfm-codebase)]
 
 4. **"Leveraging Foundation Models for Zero-Shot IoT Sensing"**. *Dinghao Xue et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2407.19893)]    
 
@@ -381,13 +409,14 @@ Here are the growth trends of publications since 2022 and the model names cloud:
 
 2. **"ContextLLM: Meaningful Context Reasoning from Multi-Sensor and Multi-Device Data Using LLMs"**. *Post et al.* arXiv 2025. [[Paper](https://dl.acm.org/doi/10.1145/3708468.3711892)]
 
-3. **"SensorLLM: Aligning Large Language Models with Motion Sensors for Human Activity Recognition"**. *Li et al.* arXiv 2024. [[Paper](SensorLLM: Aligning Large Language Models with Motion Sensors for Human Activity Recognition)]
+3. **"SensorLLM: Aligning Large Language Models with Motion Sensors for Human Activity Recognition"**.  
+   *Li et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2410.10624)][[Code](https://github.com/cruiseresearchgroup/SensorLLM)]
 
 4. **"Scaling Wearable Foundation Models"**. *Narayanswamy et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2410.13638)]
 
-5. **"A Personal Health Large Language Model for Sleep and Fitness Coaching (PH-LLM)"**. *Khasentino et al.* Nature Medicine 2025. [[Paper](https://www.nature.com/articles/s41591-025-03888-0)]
+5. **"A Personal Health Large Language Model for Sleep and Fitness Coaching (PH-LLM)"**. *Khasentino et al.* Nature Medicine 2025. [[Paper](https://www.nature.com/articles/s41591-025-03888-0)][[Code](https://github.com/google-health/consumer-health-research)]
 
-6. **"BioSignal Copilot: Leveraging the Power of LLMs in Drafting Reports for Biomedical Signals"**. *Liu et al.* arXiv 2023. [[Paper](https://www.medrxiv.org/content/10.1101/2023.06.28.23291916v1)]
+6. **"BioSignal Copilot: Leveraging the Power of LLMs in Drafting Reports for Biomedical Signals"**. *Liu et al.* arXiv 2023. [[Paper](https://www.medrxiv.org/content/10.1101/2023.06.28.23291916v1)] [[Code](https://github.com/NeuroSyd/signal_copilot)]
 
   ###  Spectrogram and frequency-domain embeddings
 
@@ -395,8 +424,7 @@ Here are the growth trends of publications since 2022 and the model names cloud:
 1. **"Toward Foundation Model for Multivariate Wearable Sensing of Physiological Signals"**.  
    *Luo et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2412.09758)]
 
-2. **"Self-Supervised Learning for Human Activity Recognition Using 700,000 Person-Days of Wearable Data"**.  
-   *Yuan et al.* *npj Digital Medicine* 2024. [[Paper](https://www.nature.com/articles/s41746-024-01062-3)]
+2. **"Self-supervised Learning for Human Activity Recognition Using 700,000 Person-days of Wearable Data"**. *Yuan et al..* npj Digital Medicine 2024. [[Paper](https://doi.org/10.1038/s41746-024-01062-3)][[Code](https://github.com/OxWearables/ssl-wearables)]
 
 3. **"Sensor2Text: Enabling Natural Language Interactions for Daily Activity Tracking Using Wearable Sensors"**. *Chen et al..* IMWUT 2024. [[Paper](https://doi.org/10.1145/3699747)]
 
@@ -413,13 +441,13 @@ Here are the growth trends of publications since 2022 and the model names cloud:
    *Ansari et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2403.07815)]
 
 4. **"Time2Lang: Bridging Time-Series Foundation Models and Large Language Models for Health Sensing Beyond Prompting"**.  
-   *Pillai et al.* arXiv 2025. [[Paper](https://arxiv.org/abs/2502.07608)]
+   *Pillai et al.* PMLR 2025. [[Paper](https://arxiv.org/abs/2502.07608)][[Code](https://github.com/arvind1609/time2lang)]
 
   ###  Multimodal alignment and positional encoding
 
 
 1. **"SensorLLM: Aligning Large Language Models with Motion Sensors for Human Activity Recognition"**.  
-   *Li et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2410.10624)]
+   *Li et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2410.10624)][[Code](https://github.com/cruiseresearchgroup/SensorLLM)]
 
 2. **"Visible Light Human Activity Recognition Driven by Generative Language Model"**.  
    *Yang et al.* Elsevier, Information Fusion 2025. [[Paper](https://www.sciencedirect.com/science/article/pii/S1566253525002325)]
@@ -430,7 +458,7 @@ Here are the growth trends of publications since 2022 and the model names cloud:
 
   ###  Token fusion and cross-modal projection
 
-1. **"IMU2CLIP: Language-Grounded Motion Sensor Translation with Multimodal Contrastive Learning"**. *Moon et al.* EMNLP Findings 2023. [[Paper](https://arxiv.org/abs/2210.14395)]
+1. **"IMU2CLIP: Language-Grounded Motion Sensor Translation with Multimodal Contrastive Learning"**. *Moon et al.* EMNLP Findings 2023. [[Paper](https://arxiv.org/abs/2210.14395)][[Code](https://github.com/facebookresearch/imu2clip)]
 2. **"FM-Fi 2.0: Foundation Model for Cross-Modal Multi-Person Human Activity Recognition"**. *Weng et al.* IEEE TMC 2025. [[Paper](https://doi.org/10.1109/TMC.2025.3593406)]
 
 ## Pretraining Paradigms
@@ -443,29 +471,28 @@ Here are the growth trends of publications since 2022 and the model names cloud:
    *Weng et al.* IEEE TMC 2025. [[Paper](https://doi.org/10.1109/tmc.2025.3593406)]
 
 3. **"RelCon: Relative Contrastive Learning for a Motion Foundation Model for Wearable Data"**.  
-   *Xu et al.* arXiv 2024 (ICLR 2025). [[Paper](https://doi.org/10.48550/arXiv.2411.18822)]
+   *Xu et al.* arXiv 2024 (ICLR 2025). [[Paper](https://doi.org/10.48550/arXiv.2411.18822)][[Code](https://github.com/maxxu05/relcon)]
 
 4. **"IMU2CLIP: Multimodal Contrastive Learning for IMU Motion Sensors from Egocentric Videos and Text"**.  
-   *Moon et al.* EMNLP Findings 2023. [[Paper](https://arxiv.org/pdf/2210.14395)]
+   *Moon et al.* EMNLP Findings 2023. [[Paper](https://arxiv.org/pdf/2210.14395)][[Code](https://github.com/facebookresearch/imu2clip)]
 
 
   ###  Generative pretraining
 
 
-1. **"Spatial-Temporal Masked Autoencoder for Multi-Sensor Human Activity Recognition (STMAE)"**.  
-   *Miao et al.* ACM 2024. [[Paper](https://dl.acm.org/doi/pdf/10.1145/3631415)]
+1. **"Spatial-Temporal Masked Autoencoder for Multi-Device Wearable Human Activity Recognition (STMAE)"**. *Miao et al..* IMWUT 2024. [[Paper](https://doi.org/10.1145/3631415)][[Code](https://github.com/wdkhuans/STMAE)]
 
 2. **"Inertial Signal Forecasting with Foundation Model Techniques (Dual-View FM)"**.  
    *Wieland & Pankratius.* IEEE Sensors Journal 2025. [[Paper](https://doi.org/10.1109/JSEN.2025.3603456)]
 
 3. **"LLaSA: Large Multimodal Agent for Human Activity Analysis Through Wearable Sensors"**.  
-   *Imran et al.* arXiv 2024. [[Paper](https://www.semanticscholar.org/paper/91edd1d5ec1015952944c63fa43727e800699836)]
+   *Imran et al.* arXiv 2024. [[Paper](https://www.semanticscholar.org/paper/91edd1d5ec1015952944c63fa43727e800699836)][[Code](https://github.com/BASHLab/LLaSA)]
 
 4. **"Scaling Wearable Foundation Models (LSM)"**.  
    *Narayanswamy et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2410.13638)]
 
 5. **"SelfPAB: Large-Scale Pre-training on Accelerometer Recordings with Masked Spectrogram Reconstruction"**.  
-   *Logacjov et al.* Springer 2024. [[Paper](https://link.springer.com/content/pdf/10.1007/s10489-024-05322-3.pdf)]
+   *Logacjov et al.* Springer 2024. [[Paper](https://link.springer.com/content/pdf/10.1007/s10489-024-05322-3.pdf)][[Code](https://github.com/ntnu-ai-lab/SelfPAB)]
 
    
   ###  Hybrid and self-supervised pretraining
@@ -475,22 +502,21 @@ Here are the growth trends of publications since 2022 and the model names cloud:
    *Ban et al.* arXiv 2025. [[Paper](https://doi.org/10.48550/arXiv.2503.13542)]
 
 2. **"CrossHAR: Generalizing Cross-Dataset Human Activity Recognition via Hierarchical Self-Supervised Pretraining"**.  
-   *Hong et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/pdf/10.1145/3659597)]
+   *Hong et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/pdf/10.1145/3659597)][[Code](https://github.com/kingdomrush2/CrossHAR)]
 
 3. **"A Personal Health Large Language Model for Sleep and Fitness Coaching (PH-LLM)"**.  
-   *Khasentino et al.* *Nature Medicine* 2025. [[Paper](https://doi.org/10.1038/s41591-025-03888-0)]
+   *Khasentino et al.* *Nature Medicine* 2025. [[Paper](https://doi.org/10.1038/s41591-025-03888-0)][[Code](https://github.com/google-health/consumer-health-research)]
 
 4. **"Toward Foundation Model for Multivariate Wearable Sensing of Physiological Signals (NORMWEAR)"**.  
-   *Luo et al.* arXiv 2024. [[Paper](https://doi.org/10.48550/arXiv.2412.09758)]
+   *Luo et al.* arXiv 2024. [[Paper](https://doi.org/10.48550/arXiv.2412.09758)][[Code](https://github.com/Mobile-Sensing-and-UbiComp-Laboratory/NormWear)]
 
 5. **"Scaling Wearable Foundation Models (LSM)"**.  
    *Narayanswamy et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2410.13638)]
 
 6. **"SensorLM: Learning the Language of Wearable Sensors"**.  
-   *Zhang et al.* arXiv 2025. [[Paper](https://doi.org/10.48550/arXiv.2506.09108)]
-
+   *Zhang et al.* arXiv 2025. [[Paper](https://doi.org/10.48550/arXiv.2506.09108)][[Code](https://github.com/google-health/consumer-health-research)]
 7. **"SensorLLM: Aligning Large Language Models with Motion Sensors for Human Activity Recognition"**.  
-   *Li et al.* arXiv 2024. [[Paper](https://doi.org/10.48550/arXiv.2410.10624)]
+   *Li et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2410.10624)][[Code](https://github.com/cruiseresearchgroup/SensorLLM)]
 
 
 
@@ -500,7 +526,7 @@ Here are the growth trends of publications since 2022 and the model names cloud:
 
 
 1. **"LLaSA: Large Multimodal Agent for Human Activity Analysis Through Wearable Sensors"**.  
-   *Imran et al.* arXiv 2024. [[Paper](https://www.semanticscholar.org/paper/91edd1d5ec1015952944c63fa43727e800699836)]
+   *Imran et al.* arXiv 2024. [[Paper](https://www.semanticscholar.org/paper/91edd1d5ec1015952944c63fa43727e800699836)][[Code](https://github.com/BASHLab/LLaSA)]
 
 2. **"A Novel Human Activity Recognition Framework Based on Pre-Trained Foundation Model (Chronos HAR Adapters)"**.  
    *Xiong et al.* IEEE BIBM 2024. *(No verified link available in file.)*
@@ -512,7 +538,7 @@ Here are the growth trends of publications since 2022 and the model names cloud:
    *Liu et al.* Sensors 2024. [[Paper](https://doi.org/10.3390/s24155045)]
 
 5. **"Time2Lang: Bridging Time-Series Foundation Models and Large Language Models for Health Sensing Beyond Prompting"**.  
-   *Pillai et al.* PMLR 2025. [[Paper](https://arxiv.org/abs/2502.07608)]
+   *Pillai et al.* PMLR 2025. [[Paper](https://arxiv.org/abs/2502.07608)][[Code](https://github.com/arvind1609/time2lang)]
 
 6. **"PhysLLM: Harnessing Large Language Models for Physiological Understanding"**.  
    *Xie et al.* arXiv 2025. [[Paper](https://doi.org/10.48550/arXiv.2505.03621)]
@@ -527,8 +553,7 @@ Here are the growth trends of publications since 2022 and the model names cloud:
   ###  Full or partial fine-tuning
 
 
-1. **"LIMU-BERT: Unleashing the Potential of Unlabeled Data for IMU Sensing Applications"**.  
-   *Xu et al.* SenSys 2021. [[Paper](https://doi.org/10.1145/3485730.3485937)]
+1. **"LIMU-BERT: Unleashing the Potential of Unlabeled Data for IMU Sensing Applications"**. *Xu et al..* SenSys 2021. [[Paper](https://dl.acm.org/doi/10.1145/3485730.3485937)][[Code](https://github.com/dapowan/LIMU-BERT-Public)]
 
 2. **"Scaling Wearable Foundation Models (LSM)"**.  
    *Narayanswamy et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2410.13638)]
@@ -537,13 +562,13 @@ Here are the growth trends of publications since 2022 and the model names cloud:
    *Hong et al.* IMWUT 2025. [[Paper](https://doi.org/10.1145/3711896.3737226)]
 
 4. **"RelCon: Relative Contrastive Learning for a Motion Foundation Model for Wearable Data"**.  
-   *Xu et al.* ICLR 2025. [[Paper](https://doi.org/10.48550/arXiv.2411.18822)]
+   *Xu et al.* arXiv 2024 (ICLR 2025). [[Paper](https://doi.org/10.48550/arXiv.2411.18822)][[Code](https://github.com/maxxu05/relcon)]
+
 
 5. **"SelfPAB: large-scale pre-training on accelerometer data for human activity recognition"**.  
-   *Logacjov et al.* ACM 2024. [[Paper](https://dl.acm.org/doi/abs/10.1007/s10489-024-05322-3)]
+   *Logacjov et al.* ACM 2024. [[Paper](https://dl.acm.org/doi/abs/10.1007/s10489-024-05322-3)][[Code](https://github.com/ntnu-ai-lab/SelfPAB)]
 
-6. **"Spatial-Temporal Masked Autoencoder for Multi-Sensor Human Activity Recognition (STMAE)"**.  
-   *Miao et al.* ACM 2024. [[Paper](https://dl.acm.org/doi/pdf/10.1145/3631415)]
+6. **"Spatial-Temporal Masked Autoencoder for Multi-Device Wearable Human Activity Recognition (STMAE)"**. *Miao et al..* IMWUT 2024. [[Paper](https://doi.org/10.1145/3631415)][[Code](https://github.com/wdkhuans/STMAE)]
 
 7. **"Leveraging Large Language Models for Digital Phenotyping and Health Forecasting"**.  
    *Yuan et al.* bioRxiv 2025. [[Paper](https://doi.org/10.1101/2025.05.10.25327354)]
@@ -573,10 +598,18 @@ Here are the growth trends of publications since 2022 and the model names cloud:
    *Chen et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/pdf/10.1145/3699747)]
 
 7. **"SensorLM: Learning the Language of Wearable Sensors"**.  
-   *Zhang et al.* arXiv 2025. [[Paper](https://doi.org/10.48550/arXiv.2506.09108)]
+   *Zhang et al.* arXiv 2025. [[Paper](https://doi.org/10.48550/arXiv.2506.09108)][[Code](https://github.com/google-health/consumer-health-research
+)]
 
 8. **"A Personal Health Large Language Model for Sleep and Fitness Coaching (PH-LLM)"**.  
-   *Khasentino et al.* Nature Medicine 2025. [[Paper](https://doi.org/10.1038/s41591-025-03888-0)]
+   *Khasentino et al.* Nature Medicine 2025. [[Paper](https://doi.org/10.1038/s41591-025-03888-0)][[Code](https://github.com/google-health/consumer-health-research)]
+
+9. **"Mental-LLM: Leveraging Large Language Models for Mental Health Prediction via Online Text Data"**.  
+   *Xu et al.* ACM IMWUT 2024. [[Paper](https://dl.acm.org/doi/10.1145/3643540)][[Code](https://github.com/neuhai/Mental-LLM)]
+
+10. **"The Strong Pull of Prior Knowledge in Large Language Models and Its Impact on Emotion Recognition"**.  
+   *Georgios et al.* IEEE  ACII 2024. [[Paper](https://www.computer.org/csdl/proceedings-article/acii/2024/164300a318/26aU0AeiZ0Y)][[Code](https://github.com/gchochla/llm-prior-pull/)]
+
 
 
 
@@ -592,7 +625,7 @@ Here are the growth trends of publications since 2022 and the model names cloud:
    *Weng et al.* IEEE TMC 2025. [[Paper](https://doi.org/10.1109/tmc.2025.3593406)]
 
 3. **"ZARA: Zero-Shot Motion Time-Series Analysis via LLM-Guided Knowledge Retrieval and Reasoning"**.  
-   *Li et al.* arXiv 2025. [[Paper](https://doi.org/10.48550/arXiv.2508.04038)]
+   *Li et al.* arXiv 2025. [[Paper](https://doi.org/10.48550/arXiv.2508.04038)][[Code](https://github.com/zechenli03/ZARA)]
 
 4. **"HARGPT: Are LLMs Zero-Shot Human Activity Recognizers?"**.  
    *Ji et al.* arXiv 2024. [[Paper](http://arxiv.org/pdf/2403.02727)]
@@ -616,8 +649,7 @@ Here are the growth trends of publications since 2022 and the model names cloud:
 4. **"A Novel Human Activity Recognition Framework Based on Pre-Trained Foundation Model (Chronos HAR Adapters)"**.  
    *Xiong et al.* IEEE BIBM 2024. *(Link unavailable in verified file)*
 
-5. **"Self-supervised learning for human activity recognition using 700,000 person-days of wearable data"**.  
-   *Yuan et al.* *npj Digital Medicine* 2024. [[Paper](https://www.nature.com/articles/s41746-024-01062-3)]
+5. **"Self-supervised Learning for Human Activity Recognition Using 700,000 Person-days of Wearable Data"**. *Yuan et al..* npj Digital Medicine 2024. [[Paper](https://doi.org/10.1038/s41746-024-01062-3)][[Code](https://github.com/OxWearables/ssl-wearables)]
 
 
 
@@ -629,16 +661,16 @@ Here are the growth trends of publications since 2022 and the model names cloud:
    *Matsuishi et al.* arXiv 2025. [[Paper](https://doi.org/10.48550/arXiv.2506.03174)]
 
 2. **"GLOSS: Group of LLMs for Open-ended Sensemaking of Passive Sensing Data for Health and Wellbeing"**.  
-   *Choube et al.* IMWUT 2025. [[Paper](https://doi.org/10.1145/3749474)]
+   *Choube et al.* IMWUT 2025. [[Paper](https://doi.org/10.1145/3749474)][[Code](https://github.com/UbiWell/GLOSS)]
 
 3. **"Vital Insight: Assisting Experts' Context-Driven Sensemaking of Multi-modal Personal Tracking Data Using Visualization and Human-in-the-Loop LLM"**.  
-   *Li et al.* IMWUT 2025. [[Paper](https://doi.org/10.1145/3749508)]
+   *Li et al.* IMWUT 2025. [[Paper](https://doi.org/10.1145/3749508)][[Code](https://github.com/UbiWell/vital-insight-public-repo)]
 
 4. **"PhysioLLM: Supporting Personalized Health Insights with Wearables and Large Language Models"**.  
    *Fang et al.* arXiv 2024. [[Paper](http://arxiv.org/pdf/2406.19283)]
 
 5. **"SleepFM: Multi-modal Representation Learning for Sleep Across Brain Activity, ECG and Respiratory Signals"**.  
-   *Thapa et al.* arXiv 2024. [[Paper](https://doi.org/10.48550/arXiv.2405.17766)]
+   *Thapa et al.* ICML 2024. [[Paper](https://doi.org/10.48550/arXiv.2405.17766)][[Code](https://github.com/rthapa84/sleepfm-codebase)]
 
 
   
@@ -648,13 +680,14 @@ Here are the growth trends of publications since 2022 and the model names cloud:
    *Chen et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/pdf/10.1145/3699747)]
 
 2. **"SensorLM: Learning the Language of Wearable Sensors"**.  
-   *Zhang et al.* arXiv 2025. [[Paper](https://doi.org/10.48550/arXiv.2506.09108)]
+   *Zhang et al.* arXiv 2025. [[Paper](https://doi.org/10.48550/arXiv.2506.09108)][[Code](https://github.com/google-health/consumer-health-research
+)]
 
 3. **"SensorLLM: Aligning Large Language Models with Motion Sensors for Human Activity Recognition"**.  
-   *Li et al.* arXiv 2024. [[Paper](https://doi.org/10.48550/arXiv.2410.10624)]
+   *Li et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2410.10624)][[Code](https://github.com/cruiseresearchgroup/SensorLLM)]
 
 4. **"Time2Lang: Bridging Time-Series Foundation Models and Large Language Models for Health Sensing Beyond Prompting"**.  
-   *Pillai et al.* PMLR 2025. [[Paper](https://arxiv.org/abs/2502.07608)]
+   *Pillai et al.* PMLR 2025. [[Paper](https://arxiv.org/abs/2502.07608)][[Code](https://github.com/arvind1609/time2lang)]
 
 5. **"Visible Light Human Activity Recognition Driven by Generative Language Model"**.  
    *Yang et al.* *Information Fusion* 2025. [[Paper](https://doi.org/10.1016/j.inffus.2025.103159)]
@@ -666,11 +699,10 @@ Here are the growth trends of publications since 2022 and the model names cloud:
   ###  Generative reconstruction, forecasting, and imputation
 
 
-1. **"Spatial-Temporal Masked Autoencoder for Multi-Sensor Human Activity Recognition (STMAE)"**.  
-   *Miao et al.* ACM 2024. [[Paper](https://dl.acm.org/doi/pdf/10.1145/3631415)]
+1. **"Spatial-Temporal Masked Autoencoder for Multi-Device Wearable Human Activity Recognition (STMAE)"**. *Miao et al..* IMWUT 2024. [[Paper](https://doi.org/10.1145/3631415)][[Code](https://github.com/wdkhuans/STMAE)]
 
 2. **"CrossHAR: Generalizing Cross-Dataset Human Activity Recognition via Hierarchical Self-Supervised Pretraining"**.  
-   *Hong et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/pdf/10.1145/3659597)]
+   *Hong et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/pdf/10.1145/3659597)][[Code](https://github.com/kingdomrush2/CrossHAR)]
 
 3. **"Scaling Wearable Foundation Models (LSM)"**.  
    *Narayanswamy et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2410.13638)]
@@ -682,7 +714,7 @@ Here are the growth trends of publications since 2022 and the model names cloud:
    *Liu et al.* IJCAI 2025. [[Paper](https://doi.org/10.24963/ijcai.2025/952)]
 
 6. **"UniMTS – Unified Pre-training for Motion Time-Series Forecasting and Recognition"**.  
-   *Zhang et al.* arXiv 2024. [[Paper](https://doi.org/10.48550/arXiv.2410.19818)]
+   *Zhang et al.* arXiv 2024. [[Paper](https://doi.org/10.48550/arXiv.2410.19818)][[Code](https://github.com/xiyuanzh/UniMTS)]
 
    
   ###  On-device, federated, and online adaptation
@@ -748,7 +780,7 @@ Here are the growth trends of publications since 2022 and the model names cloud:
    *Wei et al.* ACM IMWUT 2025. [[Paper](https://dl.acm.org/doi/10.1145/3749509)]
 
 2. **"CrossHAR: Generalizing Cross-Dataset Human Activity Recognition via Hierarchical Self-Supervised Pretraining"**.  
-   *Hong et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/pdf/10.1145/3659597)]
+   *Hong et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/pdf/10.1145/3659597)][[Code](https://github.com/kingdomrush2/CrossHAR)]
 
 3. **"Towards Customizable Foundation Models for Human Activity Recognition with Wearable Devices (HAR-FM)"**.  
    *Qiu et al.* IMWUT 2025. [[Paper](https://doi.org/10.1145/3749479)]
@@ -759,15 +791,16 @@ Here are the growth trends of publications since 2022 and the model names cloud:
    *Fang et al.* arXiv 2024. [[Paper](http://arxiv.org/pdf/2406.19283)]
 
 2. **"Vital Insight: Assisting Experts' Context-Driven Sensemaking of Multi-modal Personal Tracking Data Using Visualization and Human-in-the-Loop LLM"**.  
-   *Li et al.* IMWUT 2025. [[Paper](https://doi.org/10.1145/3749508)]
+   *Li et al.* IMWUT 2025. [[Paper](https://doi.org/10.1145/3749508)][[Code](https://github.com/UbiWell/vital-insight-public-repo)]
 
 3. **"Pulse-PPG: An Open-Source Field-Trained PPG Foundation Model for Wearable Applications across Lab and Field Settings"**.  
    *Saha et al.* IMWUT 2025. [[Paper](https://doi.org/10.1145/3749494)]
 
-4. **"SleepFM: Multi-Modal Representation Learning for Sleep Across Brain Activity, ECG, and Respiratory Signals"**.  
-   *Thapa et al.* arXiv 2024. [[Paper](https://doi.org/10.48550/arXiv.2405.17766)]
+4. **"SleepFM: Multi-modal Representation Learning for Sleep Across Brain Activity, ECG and Respiratory Signals"**.  
+   *Thapa et al.* ICML 2024. [[Paper](https://doi.org/10.48550/arXiv.2405.17766)][[Code](https://github.com/rthapa84/sleepfm-codebase)]
 
-
+5. **"The Strong Pull of Prior Knowledge in Large Language Models and Its Impact on Emotion Recognition"**.  
+   *Georgios et al.* IEEE  ACII 2024. [[Paper](https://www.computer.org/csdl/proceedings-article/acii/2024/164300a318/26aU0AeiZ0Y)][[Code](https://github.com/gchochla/llm-prior-pull/)]
   
   ###  Smart-home & context-aware environments
 
@@ -778,7 +811,7 @@ Here are the growth trends of publications since 2022 and the model names cloud:
    *Yang et al.* *Information Fusion* 2025. [[Paper](https://doi.org/10.1016/j.inffus.2025.103159)]
 
 3. **"ContextAgent: Context-Aware Proactive LLM Agents with Open-World Sensory Perceptions"**.  
-   *Yang et al.* arXiv 2025. [[Paper](https://doi.org/10.48550/arXiv.2505.14668)]
+   *Yang et al.* arXiv 2025. [[Paper](https://doi.org/10.48550/arXiv.2505.14668)][[Code](https://github.com/bf-yang/ContextAgent)]
 
    
   ###  Interactive & agentic assistants
