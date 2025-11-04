@@ -124,15 +124,16 @@ Right: Representative model name cloud.
 
 **Foundation Model in the NLP Field**: The large Pretrained Language Models (PLMs), characterized by their ability to generate fluent text, handle multiple modalities, and follow natural-language instructions to perform diverse tasks.
 
-**Foundation Model in the HAR Field**: A pretrained, sensor-grounded model and its adapters that can solve diverse activity-understanding tasks across the sensing–temporal–context continuum
-while generalizing across sensor modalities, body placements, users, devices, and environments.
+**Foundation Model in the HAR Field**: 
+**A pretrained, sensor-grounded model and its adapters that can solve diverse activity-understanding tasks across the sensing–temporal–context continuum
+while generalizing across sensor modalities, body placements, users, devices, and environments.**
 
 
   
 ## HAR-FM Criteria
 
 <p align="center">
-    <img src="images/FM_HAR_Criteria.png" alt="Description" width="600">
+    <img src="images/FM_HAR_Criteria.png" alt="Description" width="750">
 </p>
 <p align="center">
 Heuristic 1–7 scores of representative works against six HAR–FM criteria. Each radar chart profiles a model on: A)
