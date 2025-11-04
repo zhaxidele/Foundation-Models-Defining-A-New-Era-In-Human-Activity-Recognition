@@ -122,7 +122,7 @@ Right: Representative model name cloud.
 
 **Foundation Model in the CV Field**: A pre-trained model and its adapters capable of solving all vision tasks within the space–time–modality continuum (ranging from coarse to fine-grained, static to dynamic, and single (RGB) to multimodal sensory inputs) while supporting transferability through zero-/few-shot learning and fine-tuning. [[Paper](https://arxiv.org/abs/2111.11432)]
 
-**Foundation Model in the NLP Field**: The large Pretrained Language Models (PLMs), characterized by their ability to generate fluent text, handle multiple modalities, and follow natural-language instructions to perform diverse tasks.
+**Foundation Model in the NLP Field**: The large Pretrained Language Models (PLMs), characterized by their ability to generate fluent text, handle multiple modalities, and follow natural-language instructions to perform diverse tasks.[[Paper](https://link.springer.com/book/10.1007/978-3-031-23190-2)]
 
 **Foundation Model in the HAR Field**: 
 **A pretrained, sensor-grounded model and its adapters that can solve diverse activity-understanding tasks across the sensing–temporal–context continuum
