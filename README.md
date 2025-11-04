@@ -772,6 +772,11 @@ Here are the growth trends of publications since 2022 and the model names cloud:
 6. **"Few-Shot Human Activity Recognition Using Lightweight Language Models"**.  
    *Cruciani et al.* IEEE ICCCN 2025. [[Paper](https://doi.org/10.1109/ABC64332.2025.11118559)]
 
+7. **"On-device Foundation Models for Wearable Signals"**.  
+   *Simon et al.* 2025. [[Paper](https://www.researchgate.net/profile/Simon-Lee-59/publication/396983340_On-device_Foundation_Models_for_Wearable_Signals/links/6900d0a1c900be105cbd515c/On-device-Foundation-Models-for-Wearable-Signals.pdf)]
+
+
+
 ## Application Domains
   ###  General-purpose HAR / ADL
 
