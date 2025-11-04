@@ -37,6 +37,9 @@ Right: Representative model name cloud.
 
 ## Table of Contents 
 
+- [Definition of FM in the HAR Domain](#definition-of-fm-in-the-har-domain)
+  
+- [HAR-FM Criteria](#har-fm-criteria)
 
 
 - [Major Directions](#major-directions)
@@ -106,7 +109,38 @@ Right: Representative model name cloud.
   - [Interactive & agentic assistants](#interactive--agentic-assistants)
 
 
+## Definition of FM in the HAR Domain
 
+<p align="center">
+    <img src="images/FM_HAR_Definition.png" alt="Description" width="700">
+</p>
+<p align="center">
+    Definition of Foundation Models and it's adaptation in different fields.
+</p>
+
+**Foundation Model**: Any model trained on broad data (generally using self-supervision at scale) that can be adapted (e.g., fine-tuned) to a wide range of downstream tasks.[[Paper](https://pubs.rsna.org/doi/full/10.1148/ryai.220119)]
+**Foundation Model in the CV Field**: A pre-trained model and its adapters capable of solving all vision tasks within the space–time–modality continuum (ranging from coarse to fine-grained, static to dynamic, and single (RGB) to multimodal sensory inputs) while supporting transferability through zero-/few-shot learning and fine-tuning. [[Paper](https://arxiv.org/abs/2111.11432)]
+**Foundation Model in the NLP Field**: The large Pretrained Language Models (PLMs), characterized by their ability to generate fluent text, handle multiple modalities, and follow natural-language instructions to perform diverse tasks.
+**Foundation Model in the HAR Field**: A pretrained, sensor-grounded model and its adapters that can solve diverse activity-understanding tasks across the sensing–temporal–context continuum
+while generalizing across sensor modalities, body placements, users, devices, and environments.
+
+
+  
+## HAR-FM Criteria
+
+<p align="center">
+    <img src="images/FM_HAR_Criteria.png" alt="Description" width="600">
+</p>
+<p align="center">
+Heuristic 1–7 scores of representative works against six HAR–FM criteria. Each radar chart profiles a model on: A)
+Corpus Coverage & Diversity, B) Cross-Domain Generalization, C) Modality Extensibility & Grounding, D) Label-Efficient Pretraining,
+E) Adaptation Surfaces & Reusability, and F) Broad Applicability & Emergent Capabilities. The “Ideal HAR-FM” panel depicts a target
+profile. Scores (1 = limited evidence to 7 = strong evidence) are judgment-based syntheses from reported results (compared both to the
+other models in this survey and to an aspirational “ideal” FM-for-HAR reference point) and are intended for qualitative comparison
+rather than a leaderboard.
+</p>
+
+Note: Although foundation models in HAR domain are still in their formative phase, a model should exhibit core hallmarks of the foundation model paradigm, not necessarily all at once, but in substance. These dimensions outline what defines a model as foundational: the ability to scale across data and users, generalize beyond training domains, adapt efficiently to new tasks, and support reuse across modalities and contexts. Collectively, they set a directional standard rather than a checklist, marking the shift from task-specific modeling toward unified, adaptable representations of human activity.
 
 ## Major Directions
 
