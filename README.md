@@ -408,7 +408,7 @@ and reasoning.
 ## Tokenization and Representation Strategies
 
 <p align="center">
-    <img src="images/FM_HAR_Tokenization.png" alt="Description" width="500">
+    <img src="images/FM_HAR_Tokenization.png" alt="Description" width="650">
 </p>
 <p align="center">
 Tokenization and representation for sensor-based HAR. Single-stream token formation converts raw signals (e.g., IMU, PPG,
@@ -496,7 +496,7 @@ backbones (Transformer/ViT/LLM) for tasks such as classification, captioning, re
 ## Pretraining Paradigms
 
 <p align="center">
-    <img src="images/FM_HAR_Pretraining.png" alt="Description" width="500">
+    <img src="images/FM_HAR_Pretraining.png" alt="Description" width="650">
 </p>
 <p align="center">
 Pretraining paradigms for sensor-based HAR. Contrastive learns cross-view/cross-modal alignment in a shared latent space
@@ -570,7 +570,7 @@ and devices.
 ## Adaptation Strategies
 
 <p align="center">
-    <img src="images/FM_HAR_Adaptation.png" alt="Description" width="500">
+    <img src="images/FM_HAR_Adaptation.png" alt="Description" width="650">
 </p>
 <p align="center">
 Mechanism-centric view of adaptation in HAR foundation models. We emphasize how behavior is changed: PEFT keeps
@@ -676,7 +676,7 @@ generation.
 ## Downstream Capabilities
 
 <p align="center">
-    <img src="images/FM_HAR_DownstreamCapabilities.png" alt="Description" width="500">
+    <img src="images/FM_HAR_DownstreamCapabilities.png" alt="Description" width="650">
 </p>
 <p align="center">
 Downstream capabilities and the accompanying generalization protocols used in sensor-based HAR. Top row (left→right):
