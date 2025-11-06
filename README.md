@@ -872,8 +872,8 @@ latency/energy and privacy constraints.
 1. **"LLMSense: Harnessing LLMs for High-Level Reasoning over Spatiotemporal Sensor Traces"**.  
    *Ouyang et al.* SenSys-ML 2024. [[Paper](https://doi.org/10.1109/SenSys-ML62579.2024.00007)]
 
-2. **"Leveraging Large Language Models for Digital Phenotyping: Detecting Depressive State Changes for Patients with Depressive Episodes"**.  
-   *Yuan et al.* bioRxiv 2025. [[Paper](https://doi.org/10.1101/2025.05.10.25327354)]
+2. **"Leveraging foundation models for zero-shot IoT sensing"**.  
+   *Xue et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2407.19893)]
 
 3. **"Large Language Model-Guided Semantic Alignment for Human Activity Recognition"**.  
    *Yan et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2410.00003)]
