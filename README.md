@@ -873,7 +873,7 @@ latency/energy and privacy constraints.
    *Ouyang et al.* SenSys-ML 2024. [[Paper](https://doi.org/10.1109/SenSys-ML62579.2024.00007)]
 
 2. **"Leveraging foundation models for zero-shot IoT sensing"**.  
-   *Xue et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2407.19893)]
+   *Xue et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2407.19893)][[Code](https://github.com/schrodingho/FM_ZSL_IoT?tab=readme-ov-file)]
 
 3. **"Large Language Model-Guided Semantic Alignment for Human Activity Recognition"**.  
    *Yan et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2410.00003)]
@@ -890,6 +890,8 @@ latency/energy and privacy constraints.
 7. **"On-device Foundation Models for Wearable Signals"**.  
    *Simon et al.* 2025. [[Paper](https://www.researchgate.net/profile/Simon-Lee-59/publication/396983340_On-device_Foundation_Models_for_Wearable_Signals/links/6900d0a1c900be105cbd515c/On-device-Foundation-Models-for-Wearable-Signals.pdf)]
 
+8. **"CrossHAR: Generalizing Cross-Dataset Human Activity Recognition via Hierarchical Self-Supervised Pretraining"**.  
+   *Hong et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/pdf/10.1145/3659597)][[Code](https://github.com/kingdomrush2/CrossHAR)]
 
 
 ## Application Domains
