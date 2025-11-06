@@ -179,7 +179,7 @@ rather than a leaderboard.
 
 
 ### Leveraging Large Language Models for Human Activity Recognition
-1. **"LanHAR: Language-centered Human Activity Recognition"**. *Yan et al..* arXiv 2025. [[Paper](https://arxiv.org/abs/2410.00003)]
+1. **"LanHAR: Language-centered Human Activity Recognition"**. *Yan et al..* arXiv 2025. [[Paper](https://arxiv.org/abs/2410.00003)][[Code](https://github.com/DASHLab/LanHAR)]
 2. **"SensorLLM: Aligning Large Language Models with Motion Sensors for Human Activity Recognition"**.  
    *Li et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2410.10624)][[Code](https://github.com/cruiseresearchgroup/SensorLLM)]
 3. **"Time2Lang: Bridging Time-Series Foundation Models and Large Language Models for Health Sensing Beyond Prompting"**.  
@@ -357,7 +357,7 @@ and reasoning.
    *Li et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2410.10624)][[Code](https://github.com/cruiseresearchgroup/SensorLLM)]
 4. **"LLaSA: A Multimodal LLM for Human Activity Analysis Through Wearable and Smartphone Sensors"**. *Imran et al..* arXiv 2024. [[Paper](https://arxiv.org/abs/2406.14498)][[Code](https://github.com/BASHLab/LLaSA)]
 5. **"HARGPT: A Language‑Conditioned Foundation Model for Human Activity Recognition"**. *Ji et al..* arXiv 2024. [[Paper](https://arxiv.org/abs/2403.19526)]
-6. **"LanHAR: Language‑Driven Human Activity Recognition"**. *Yan et al..* arXiv 2024. [[Paper](https://arxiv.org/abs/2410.00003)]
+6. **"LanHAR: Language‑Driven Human Activity Recognition"**. *Yan et al..* arXiv 2024. [[Paper](https://arxiv.org/abs/2410.00003)][[Code](https://github.com/DASHLab/LanHAR)]
 7. **"StressLLM: Large Language Models for Wearable Stress Detection"**. *Thapa et al..* arXiv 2025. [[Paper](https://arxiv.org/abs/2506.04817)]
 8. **"DailyLLM: Large Language Models for Daily Behavior Understanding"**. *Kang et al..* arXiv 2025. [[Paper](https://arxiv.org/abs/2505.04563)]
 9. **"ContextLLM: Multimodal Context Understanding from Wearable Devices"**. *Wang et al..* arXiv 2025. [[Paper](https://arxiv.org/abs/2506.07114)]
@@ -876,7 +876,7 @@ latency/energy and privacy constraints.
    *Xue et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2407.19893)][[Code](https://github.com/schrodingho/FM_ZSL_IoT?tab=readme-ov-file)]
 
 3. **"Large Language Model-Guided Semantic Alignment for Human Activity Recognition"**.  
-   *Yan et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2410.00003)]
+   *Yan et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2410.00003)][[Code](https://github.com/DASHLab/LanHAR)]
 
 4. **"Enabling On-Device LLMs Personalization with Sensor Prompts"**.  
    *Zhang et al.* arXiv 2024. [[Paper](https://arxiv.org/pdf/2407.04418)]
