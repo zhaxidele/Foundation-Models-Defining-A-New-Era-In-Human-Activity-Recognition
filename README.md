@@ -893,6 +893,18 @@ latency/energy and privacy constraints.
 8. **"CrossHAR: Generalizing Cross-Dataset Human Activity Recognition via Hierarchical Self-Supervised Pretraining"**.  
    *Hong et al.* IMWUT 2024. [[Paper](https://dl.acm.org/doi/pdf/10.1145/3659597)][[Code](https://github.com/kingdomrush2/CrossHAR)]
 
+9. **"Enabling Efficient RF Sensing with Small Language Models via Functional Data Analysis and Parameter Efficient Tuning"**.  
+   *Yujie Sun et al.* IEEE IoTJ 2026. [[Paper](https://ieeexplore.ieee.org/abstract/document/11424570)]
+
+
+   
+ ###  Edge-Cloud cooperation
+
+1. **"PFHAR: Practically Adopting Multi-Modal Foundation Model for Human Activity Recognition through Edge-cloud Collaborative Learning"**.  
+   *Zhengyuan Zhang et al.* TMC 2026. [[Paper](https://ieeexplore.ieee.org/abstract/document/11429539)]
+ 
+
+ 
 
 ## Application Domains
 
