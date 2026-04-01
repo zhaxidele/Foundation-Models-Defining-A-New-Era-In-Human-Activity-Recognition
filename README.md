@@ -950,13 +950,15 @@ assistants.
   ###  Smart-home & context-aware environments
 
 
-1. **"Large Model for Small Data: Foundation Model for Cross-Modal RF Human Activity Recognition (FM-Fi)"**. *Weng et al..* SenSys 2024. [[Paper](https://doi.org/10.1145/3589132.3625578)]
+1. **"Game of LLMs: Discovering Structural Constructs in Activities using Large Language Models"**. *Hiremath et al..* UbiComp Companion 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3675094.3678444)]
 
-2. **"Visible light human activity recognition driven by generative language model"**.  
+2. **"A Synergistic Large Language Model and Supervised Learning Approach to Zero-Shot and Continual Activity Recognition in Smart Homes"**. *Naoto et al..* ICBDA 2024. [[Paper](https://ieeexplore.ieee.org/abstract/document/10607364)]
+
+
+3. **"Large Model for Small Data: Foundation Model for Cross-Modal RF Human Activity Recognition (FM-Fi)"**. *Weng et al..* SenSys 2024. [[Paper](https://doi.org/10.1145/3589132.3625578)]
+
+4. **"Visible light human activity recognition driven by generative language model"**.  
    *Yang et al.* *Information Fusion* 2025. [[Paper](https://doi.org/10.1016/j.inffus.2025.103159)]
-
-3. **"ContextAgent: Context-Aware Proactive LLM Agents with Open-World Sensory Perceptions"**.  
-   *Yang et al.* arXiv 2025. [[Paper](https://doi.org/10.48550/arXiv.2505.14668)][[Code](https://github.com/bf-yang/ContextAgent)]
 
    
   ###  Interactive & agentic assistants
