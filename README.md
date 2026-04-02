@@ -1,4 +1,4 @@
-# Foundation-Models-in-the-Area-of-Human-Activity-Recognition
+# Foundation Models Defining A New Era In Sensor-based Human Activity Recognition
 ## (continue updating ...)
 ## (To include your related work in this repository, please create a pull request with the relevant details. ...)
 
