@@ -1,3 +1,10 @@
+
+<p align="center">
+    <img src="images/icon.png" alt="Description" width="200">
+</p>
+<p align="center">
+</p>
+
 # Foundation Models Defining A New Era In Sensor-based Human Activity Recognition
 ## (continue updating ...)
 ## (To include your related work in this repository, please create a pull request with the relevant details. ...)
