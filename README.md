@@ -1,7 +1,7 @@
 
 
 <figure>
-  <img src="images/icon.png" align="left" width="200" />
+  <img src="images/icon.png" align="center" width="200" />
   <figcaption>Foundation Models Defining A New Era In Sensor-based Human Activity Recognition</figcaption>
 </figure>
 
