@@ -1,9 +1,11 @@
 
 
+<figure>
+  <img src="images/icon.png" align="left" width="200" />
+  <figcaption>Foundation Models Defining A New Era In Sensor-based Human Activity Recognition</figcaption>
+</figure>
 
-<img src="images/icon.png" align="left" width="200" />
 
-<br clear="center"/>
 
 # Foundation Models Defining A New Era In Sensor-based Human Activity Recognition
 ## (continue updating ...)
