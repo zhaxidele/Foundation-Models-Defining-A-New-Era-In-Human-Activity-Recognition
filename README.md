@@ -1,7 +1,7 @@
 
 
 <p align="center">
-    <img src="images/icon.png" alt="Description" width="200">
+    <img src="images/icon.png" alt="Description" width="400">
 </p>
 <p align="center">
 
