@@ -5,8 +5,9 @@
 </p>
 <p align="center">
 
+<p align="center">
 # Foundation Models Defining A New Era In Sensor-based Human Activity Recognition
-
+</p>
 
 
 (To include your related work in this repository, please create a pull request with the relevant details ...)
