@@ -8,7 +8,7 @@
 
 <h1 align="center">Foundation Models Defining A New Era In Sensor-based Human Activity Recognition</h1>
 
-(To include your related work in this repository, please create a pull request with the relevant details ...)
+
 
 
 This repository aims to provide a curated, continuously updated index of foundation models (FMs) in the human activity recognition (HAR) domain. The organization follows our survey’s lifecycle-based taxonomy and major development directions.
@@ -16,6 +16,7 @@ It serves as a living companion to the paper “**Foundation Models Defining a N
 
 Contributions are welcome! Whether adding new papers, improving taxonomy coverage, linking open-source implementations, or updating existing groups! Please help the community build a shared, evolving reference for next-generation HAR foundation models.
 
+(To include your related work in this repository, please create a pull request with the relevant details ...)
 
 ## The brief history of sensor-based HAR
 
