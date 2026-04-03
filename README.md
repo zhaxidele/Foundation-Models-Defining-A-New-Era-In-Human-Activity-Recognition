@@ -5,7 +5,7 @@
 </p>
 <p align="center">
 
-<div align="center" style="font-size: 40px; font-weight: bold;">
+<div align="center" style="font-size: 80px; font-weight: bold;">
   Foundation Models Defining A New Era In Sensor-based Human Activity Recognition
 </div>
 
