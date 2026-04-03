@@ -6,7 +6,7 @@
 <p align="center">
 
 <p align="center">
-# Foundation Models Defining A New Era In Sensor-based Human Activity Recognition
+<b> Foundation Models Defining A New Era In Sensor-based Human Activity Recognition <b> 
 </p>
 
 
