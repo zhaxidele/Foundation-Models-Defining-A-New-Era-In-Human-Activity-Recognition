@@ -6,8 +6,8 @@
 <p align="center">
 
 
-<h1 align="center">Foundation Models Defining A New Era In Sensor-based Human Activity Recognition</h1>
-
+<h1 align="center">Foundation Models Defining A New Era In</h1>
+<h1 align="center">Sensor-based Human Activity Recognition</h1>
 
 
 
