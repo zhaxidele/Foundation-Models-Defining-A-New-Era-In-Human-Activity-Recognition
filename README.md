@@ -5,10 +5,8 @@
 </p>
 <p align="center">
 
-<div align="center" style="font-size: 80px; font-weight: bold;">
-  Foundation Models Defining A New Era In Sensor-based Human Activity Recognition
-</div>
 
+<h1 align="center">Foundation Models Defining A New Era In Sensor-based Human Activity Recognition</h1>
 
 (To include your related work in this repository, please create a pull request with the relevant details ...)
 
