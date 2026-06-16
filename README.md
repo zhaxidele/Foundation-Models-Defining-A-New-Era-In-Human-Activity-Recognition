@@ -17,6 +17,8 @@ Contributions are welcome! Whether adding new papers, improving taxonomy coverag
 
 (To include your related work in this repository, please create a pull request with the relevant details ...)
 
+Paper is openly accessible from: https://dl.acm.org/doi/10.1145/3810230
+
 ## The brief history of sensor-based HAR
 
 <p align="center">
