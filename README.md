@@ -206,7 +206,6 @@ rather than a leaderboard.
 
 
 
-
 ## Datasets Applied in FM Pretraining and Downstream Tasks
 
 ### IMU-only Datasets
@@ -359,6 +358,8 @@ and reasoning.
 8. **"Spatial-Temporal Masked Autoencoder for Multi-Device Wearable Human Activity Recognition (STMAE)"**. *Miao et al..* IMWUT 2024. [[Paper](https://doi.org/10.1145/3631415)][[Code](https://github.com/wdkhuans/STMAE)]
 9. **"Toward Foundation Model for Multivariate Wearable Sensing of Physiological Signals (NORMWEAR)"**.  
    *Luo et al.* arXiv 2024. [[Paper](https://doi.org/10.48550/arXiv.2412.09758)][[Code](https://github.com/Mobile-Sensing-and-UbiComp-Laboratory/NormWear)]
+10. **"SensorFM: Towards a General Intelligence and Interface for Wearable Health Data"**. *Narayanswamy et al.* Google Deepmind 2026. [[Paper](https://arxiv.org/abs/2605.22759)]
+
 
 ### Language-model stacks
 1. **"SensorLM: Learning the Language of Wearable Sensors"**. *Zhang et al..* arXiv 2025. [[Paper](https://arxiv.org/abs/2506.09108)][[Code](https://github.com/google-health/consumer-health-research)]
@@ -375,7 +376,6 @@ and reasoning.
 10. **"Health‑LLM: Aligning Large Language Models with Wearable Sensor Health Data"**. *Liu et al..* Information Fusion 2025. [[Paper](https://doi.org/10.1016/j.inffus.2025.103403)][[Code](https://github.com/mitmedialab/Health-LLM)]
 11. **"SensorGPT: Generative Pretraining for Wearable Sensing"**. *Sharma et al..* arXiv 2025. [[Paper](https://arxiv.org/abs/2504.06512)]
 12. **"Sensor2Text: Enabling Natural Language Interactions for Daily Activity Tracking Using Wearable Sensors"**. *Chen et al..* IMWUT 2024. [[Paper](https://doi.org/10.1145/3699747)]
-
 
 
 
@@ -400,7 +400,8 @@ and reasoning.
 3. **"Toward Foundation Model for Multivariate Wearable Sensing of Physiological Signals (NORMWEAR)"**.  
    *Luo et al.* arXiv 2024. [[Paper](https://doi.org/10.48550/arXiv.2412.09758)][[Code](https://github.com/Mobile-Sensing-and-UbiComp-Laboratory/NormWear)]
 4. **"MuJo: Multimodal Joint Feature Space Learning for Human Activity Recognition"**. *Fritsch et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2406.03857)]  
-
+5. **"SensorFM: Towards a General Intelligence and Interface for Wearable Health Data"**. *Narayanswamy et al.* Google Deepmind 2026. [[Paper](https://arxiv.org/abs/2605.22759)]
+    
 ###  Cross-modal foundation models
 1. **"SensorLM: Learning the Language of Wearable Sensors"**. *Zhang et al.* arXiv 2025. [[Paper](https://arxiv.org/abs/2506.09108)][[Code](https://github.com/google-health/consumer-health-research)]  
 2. **"SensorLLM: Aligning Large Language Models with Motion Sensors for Human Activity Recognition"**.  
@@ -433,6 +434,7 @@ and reasoning.
 7. **"DailyLLM: Context-Aware Activity Log Generation Using Multi-Modal Sensors and LLMs"**. *Tian et al.* arXiv 2025. [[Paper](https://arxiv.org/abs/2507.13737)]
 
 8. **"IMU2CLIP: Language-Grounded Motion Sensor Translation with Multimodal Contrastive Learning"**. *Moon et al.* EMNLP Findings 2023. [[Paper](https://arxiv.org/abs/2210.14395)][[Code](https://github.com/facebookresearch/imu2clip)]
+9. **"SensorFM: Towards a General Intelligence and Interface for Wearable Health Data"**. *Narayanswamy et al.* Google Deepmind 2026. [[Paper](https://arxiv.org/abs/2605.22759)]
 
     
   ###  Generated datasets and augmentation
@@ -483,7 +485,9 @@ backbones (Transformer/ViT/LLM) for tasks such as classification, captioning, re
 
 6. **"A Novel Human Activity Recognition Framework Based on Pre-Trained Foundation Model (Chronos HAR Adapters)"**. *Xiong et al.* IEEE BIBM 2024. [[Paper](https://ieeexplore.ieee.org/document/10822159)]  
   
+7. **"SensorFM: Towards a General Intelligence and Interface for Wearable Health Data"**. *Narayanswamy et al.* Google Deepmind 2026. [[Paper](https://arxiv.org/abs/2605.22759)]
 
+    
   ###  Feature-based aggregation and statistical embeddings
 
 1. **"Beyond Sensor Data: Foundation Models of Behavioral Data from Wearables Improve Health Predictions"**. *Eray Erturk et al.* arXiv 2025. [[Paper](https://arxiv.org/abs/2507.00191)]
@@ -498,6 +502,11 @@ backbones (Transformer/ViT/LLM) for tasks such as classification, captioning, re
 5. **"A Personal Health Large Language Model for Sleep and Fitness Coaching (PH-LLM)"**. *Khasentino et al.* Nature Medicine 2025. [[Paper](https://www.nature.com/articles/s41591-025-03888-0)][[Code](https://github.com/google-health/consumer-health-research)]
 
 6. **"BioSignal Copilot: Leveraging the Power of LLMs in Drafting Reports for Biomedical Signals"**. *Liu et al.* arXiv 2023. [[Paper](https://www.medrxiv.org/content/10.1101/2023.06.28.23291916v1)] [[Code](https://github.com/NeuroSyd/signal_copilot)]
+
+7. **"SensorFM: Towards a General Intelligence and Interface for Wearable Health Data"**. *Narayanswamy et al.* Google Deepmind 2026. [[Paper](https://arxiv.org/abs/2605.22759)]
+
+
+
 
   ###  Spectrogram and frequency-domain embeddings
 
@@ -612,7 +621,7 @@ and devices.
    *Zhang et al.* arXiv 2025. [[Paper](https://doi.org/10.48550/arXiv.2506.09108)][[Code](https://github.com/google-health/consumer-health-research)]
 7. **"SensorLLM: Aligning Large Language Models with Motion Sensors for Human Activity Recognition"**.  
    *Li et al.* arXiv 2024. [[Paper](https://arxiv.org/abs/2410.10624)][[Code](https://github.com/cruiseresearchgroup/SensorLLM)]
-
+8. **"SensorFM: Towards a General Intelligence and Interface for Wearable Health Data"**. *Narayanswamy et al.* Google Deepmind 2026. [[Paper](https://arxiv.org/abs/2605.22759)]
 
 
 
@@ -657,6 +666,8 @@ generation.
 
 8. **"GOAT: A Generalized Cross-Dataset Activity Recognition Framework"**.  
    *Miao et al.* IMWUT 2024. [[Paper](https://doi.org/10.1145/3699736)]
+
+9. **"SensorFM: Towards a General Intelligence and Interface for Wearable Health Data"**. *Narayanswamy et al.* Google Deepmind 2026. [[Paper](https://arxiv.org/abs/2605.22759)]
 
 
   ###  Full or partial fine-tuning
@@ -984,6 +995,7 @@ assistants.
 3. **"DailyLLM: Context-Aware Activity Log Generation Using Multi-Modal Sensors and LLMs"**.  
    *Tian et al.* arXiv 2025. [[Paper](https://doi.org/10.48550/arXiv.2507.13737)]
 
+4. **"SensorFM: Towards a General Intelligence and Interface for Wearable Health Data"**. *Narayanswamy et al.* Google Deepmind 2026. [[Paper](https://arxiv.org/abs/2605.22759)]
 
 
 
