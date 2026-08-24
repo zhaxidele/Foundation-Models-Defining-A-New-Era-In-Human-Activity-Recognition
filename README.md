@@ -203,6 +203,7 @@ rather than a leaderboard.
 9. **"SensorLM: Learning the Language of Wearable Sensors"**. *Zhang et al..* arXiv 2025. [[Paper](https://arxiv.org/abs/2506.09108)][[Code](https://github.com/google-health/consumer-health-research
 )]
 10. **"Sensor2Text: Enabling Natural Language Interactions for Daily Activity Tracking Using Wearable Sensors"**. *Chen et al..* IMWUT 2024. [[Paper](https://doi.org/10.1145/3699747)]
+11. **"ZARA: Training-Free Motion Time-Series Reasoning via Evidence-Grounded LLM Agents"**. *Zechen Li, et al..* ACL 2026. [[Paper](https://arxiv.org/pdf/2508.04038)][[Code](https://github.com/cruiseresearchgroup/ZARA)]
 
 
 
