@@ -176,6 +176,7 @@ rather than a leaderboard.
 11. **"Pulse-PPG: An Open-Source Field-Trained PPG Foundation Model for Wearable Applications across Lab and Field Settings"**. *Saha et al..* IMWUT 2025. [[Paper](https://doi.org/10.1145/3749494)]
 12. **"RobustHAR: Multi-scale Spatial-temporal Masked Self-supervised Pre-training for Robust Human Activity Recognition"**. *Liu et al..* IJCAI 2025. [[Paper](https://doi.org/10.24963/ijcai.2025/952)]
 13. **"Towards Customizable Foundation Models for Human Activity Recognition with Wearable Devices"**. *Minghui Qiu et al.* IMWUT 2025. [[Paper](https://dl.acm.org/doi/10.1145/3749479)]
+14. **"HALO: A Heterogeneity-Aware Language-Aligned IMU Foundation Model for Open-Set Human Activity Recognition"**. *Zihan Ding et al.* Arxiv 2026. [[Paper](https://arxiv.org/pdf/2608.27233)]
 
     
 ### Adapting General Time-Series and Multimodal Foundation Models to HAR
@@ -343,6 +344,7 @@ and reasoning.
    *Luo et al.* arXiv 2024. [[Paper](https://doi.org/10.48550/arXiv.2412.09758)][[Code](https://github.com/Mobile-Sensing-and-UbiComp-Laboratory/NormWear)]
 11. **"UniMTS – Unified Pre-training for Motion Time-Series"**. *Zhang et al..* NeurIPS 2024. [[Paper](https://openreview.net/forum?id=NeurIPS2024-UniMTS)][[Code](https://github.com/xiyuanzh/UniMTS)]
 12. **"GEM: Empowering MLLM for Grounded ECG Understanding with Time Series and Images"**. *Lan et al..* arXiv 2025. [[Paper](https://arxiv.org/abs/2503.06073)][[Code](https://github.com/lanxiang1017/GEM)]
+13. **"HALO: A Heterogeneity-Aware Language-Aligned IMU Foundation Model for Open-Set Human Activity Recognition"**. *Zihan Ding et al.* Arxiv 2026. [[Paper](https://arxiv.org/pdf/2608.27233)]
 
 
     
@@ -518,6 +520,8 @@ backbones (Transformer/ViT/LLM) for tasks such as classification, captioning, re
 2. **"Self-supervised Learning for Human Activity Recognition Using 700,000 Person-days of Wearable Data"**. *Yuan et al..* npj Digital Medicine 2024. [[Paper](https://doi.org/10.1038/s41746-024-01062-3)][[Code](https://github.com/OxWearables/ssl-wearables)]
 
 3. **"Sensor2Text: Enabling Natural Language Interactions for Daily Activity Tracking Using Wearable Sensors"**. *Chen et al..* IMWUT 2024. [[Paper](https://doi.org/10.1145/3699747)]
+4. **"HALO: A Heterogeneity-Aware Language-Aligned IMU Foundation Model for Open-Set Human Activity Recognition"**. *Zihan Ding et al.* Arxiv 2026. [[Paper](https://arxiv.org/pdf/2608.27233)]
+
 
   ###  Discrete and quantized sensor tokens
 
@@ -551,6 +555,8 @@ backbones (Transformer/ViT/LLM) for tasks such as classification, captioning, re
 
 1. **"IMU2CLIP: Language-Grounded Motion Sensor Translation with Multimodal Contrastive Learning"**. *Moon et al.* EMNLP Findings 2023. [[Paper](https://arxiv.org/abs/2210.14395)][[Code](https://github.com/facebookresearch/imu2clip)]
 2. **"FM-Fi 2.0: Foundation Model for Cross-Modal Multi-Person Human Activity Recognition"**. *Weng et al.* IEEE TMC 2025. [[Paper](https://doi.org/10.1109/TMC.2025.3593406)]
+3. **"HALO: A Heterogeneity-Aware Language-Aligned IMU Foundation Model for Open-Set Human Activity Recognition"**. *Zihan Ding et al.* Arxiv 2026. [[Paper](https://arxiv.org/pdf/2608.27233)]
+
 
 ## Pretraining Paradigms
 
@@ -580,6 +586,8 @@ and devices.
 
 4. **"IMU2CLIP: Multimodal Contrastive Learning for IMU Motion Sensors from Egocentric Videos and Text"**.  
    *Moon et al.* EMNLP Findings 2023. [[Paper](https://arxiv.org/pdf/2210.14395)][[Code](https://github.com/facebookresearch/imu2clip)]
+
+5. **"HALO: A Heterogeneity-Aware Language-Aligned IMU Foundation Model for Open-Set Human Activity Recognition"**. *Zihan Ding et al.* Arxiv 2026. [[Paper](https://arxiv.org/pdf/2608.27233)]
 
 
   ###  Generative pretraining
@@ -694,6 +702,7 @@ generation.
 7. **"Leveraging Large Language Models for Digital Phenotyping and Health Forecasting"**.  
    *Yuan et al.* bioRxiv 2025. [[Paper](https://doi.org/10.1101/2025.05.10.25327354)]
 
+8. **"HALO: A Heterogeneity-Aware Language-Aligned IMU Foundation Model for Open-Set Human Activity Recognition"**. *Zihan Ding et al.* Arxiv 2026. [[Paper](https://arxiv.org/pdf/2608.27233)]
 
 
   
@@ -771,6 +780,7 @@ latency/energy and privacy constraints.
 5. **"EEG-GPT: Exploring Capabilities of Large Language Models for EEG-Based Abnormality Detection"**.  
    *Kim et al.* arXiv 2024. [[Paper](https://doi.org/10.48550/arXiv.2401.18006)]
 
+6. **"HALO: A Heterogeneity-Aware Language-Aligned IMU Foundation Model for Open-Set Human Activity Recognition"**. *Zihan Ding et al.* Arxiv 2026. [[Paper](https://arxiv.org/pdf/2608.27233)]
 
   
   ###  Cross-dataset / cross-device / cross-user generalization
@@ -919,6 +929,7 @@ latency/energy and privacy constraints.
 9. **"Enabling Efficient RF Sensing with Small Language Models via Functional Data Analysis and Parameter Efficient Tuning"**.  
    *Yujie Sun et al.* IEEE IoTJ 2026. [[Paper](https://ieeexplore.ieee.org/abstract/document/11424570)]
 
+10. **"HALO: A Heterogeneity-Aware Language-Aligned IMU Foundation Model for Open-Set Human Activity Recognition"**. *Zihan Ding et al.* Arxiv 2026. [[Paper](https://arxiv.org/pdf/2608.27233)]
 
    
  ###  Edge-Cloud cooperation
