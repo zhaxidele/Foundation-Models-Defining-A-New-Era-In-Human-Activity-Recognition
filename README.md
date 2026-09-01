@@ -15,7 +15,7 @@ It serves as a living companion to the paper “**Foundation Models Defining a N
 
 Contributions are welcome! Whether adding new papers, improving taxonomy coverage, linking open-source implementations, or updating existing groups! Please help the community build a shared, evolving reference for next-generation HAR foundation models.
 
-(To include your related work in this repository, please create a pull request with the relevant details ...)
+(To include your related work in this repository, please create a pull request with the relevant details or drop us a message through email: sizhen.bian@nwpu.edu.cn)
 
 Paper is openly accessible from: https://dl.acm.org/doi/10.1145/3810230
 
