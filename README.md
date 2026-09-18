@@ -931,6 +931,12 @@ latency/energy and privacy constraints.
 
 10. **"HALO: A Heterogeneity-Aware Language-Aligned IMU Foundation Model for Open-Set Human Activity Recognition"**. *Zihan Ding et al.* Arxiv 2026. [[Paper](https://arxiv.org/pdf/2608.27233)]
 
+11. **"EdgeHAR: An Edge-Native Compact Sensor Foundation Model for Human Activity Recognition"**. *He Zhang et al.* Arxiv 2026. [[Paper](https://arxiv.org/abs/2609.14498)]
+
+
+
+
+
    
  ###  Edge-Cloud cooperation
 
