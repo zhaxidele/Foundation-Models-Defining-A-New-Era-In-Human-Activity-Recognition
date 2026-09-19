@@ -1015,5 +1015,5 @@ assistants.
 
 4. **"SensorFM: Towards a General Intelligence and Interface for Wearable Health Data"**. *Narayanswamy et al.* Google Deepmind 2026. [[Paper](https://arxiv.org/abs/2605.22759)]
 
-
+5. **"You Don't Need To Train: Agentic Heuristic Learning Studio for Executable Human Activity Recognition"**. *Siyu et al.* Arxiv 2026. [[Paper](https://arxiv.org/abs/2609.16065)][[Code](https://github.com/zhaxidele/ahl-ts-studio)]
 
