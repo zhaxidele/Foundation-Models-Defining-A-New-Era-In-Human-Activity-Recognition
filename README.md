@@ -10,14 +10,14 @@
 
 
 
-This repository aims to provide a curated, continuously updated index of foundation models (FMs) in the human activity recognition (HAR) domain. The organization follows our survey’s lifecycle-based taxonomy and major development directions.
-It serves as a living companion to the paper “**Foundation Models Defining a New Era in Human Activity Recognition: A Survey and Outlook**”, offering direct access to representative works, datasets, and model resources. Our goal is to foster transparency, reproducibility, and collaboration across the HAR community as the field transitions toward large-scale, multimodal, and language-grounded sensing models.
+This repository provides a curated, continuously updated index of foundation models (FMs) in the human activity recognition (HAR) domain. The organization follows our survey’s lifecycle-based taxonomy and major development directions.
+It serves as a living companion to the ACM IMWUT paper “**Foundation Models Defining a New Era in Human Activity Recognition: A Survey and Outlook**”, offering direct access to representative works, datasets, and model resources. Our goal is to foster transparency, reproducibility, and collaboration across the HAR community as the field transitions toward large-scale, multimodal, and language-grounded sensing models.
 
-Contributions are welcome! Whether adding new papers, improving taxonomy coverage, linking open-source implementations, or updating existing groups! Please help the community build a shared, evolving reference for next-generation HAR foundation models.
+Contributions are welcome! Whether you add new papers, improve taxonomy coverage, link open-source implementations, or update existing groups. Please help the community build a shared, evolving reference for next-generation HAR foundation models.
 
 (To include your related work in this repository, please create a pull request with the relevant details or drop us a message through email: sizhen.bian@nwpu.edu.cn)
 
-Paper is openly accessible from: https://dl.acm.org/doi/10.1145/3810230
+The paper is openly accessible at: https://dl.acm.org/doi/10.1145/3810230 (with contributors from DFKI (Germany), RPTU (Germany), GIT (America), and NWPU(China)).
 
 ## The brief history of sensor-based HAR
 
